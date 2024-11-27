@@ -104,6 +104,10 @@ function SlideShow(idIndexSec, images, imgnames, visibleImagesCount = 5) {
 }
 
 // Show chuyên khoa
+$.getJSON("/data/ChuyenKhoa.json", function (data) {
+    
+});
+
 const ck_images = [
     "/assets/image/index/ck/khoa-da-lieu.png",
     "/assets/image/index/ck/khoa-phuc-hoi-chuc-nang.png",
@@ -155,4 +159,6 @@ const db_imgnames = [
     ,"Dịch vụ khám, điều trị bệnh tim mạch cho người lớn"
     ,"Khám, tầm soát &amp; Điều trị bệnh tim bẩm sinh"
 ];
+
+
 SlideShow("index-db", db_images, db_imgnames, 4);
