@@ -1,0 +1,155 @@
+main.main {
+    width: 100%;
+}
+
+.container .search-box {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.container .search-box .search-bar {
+    display: flex;
+    width: 30%;
+    height: 40px;
+    margin: auto;
+    border: 1px solid rgb(197, 197, 197);
+    border-radius: 20px;
+}
+
+.container .search-box .search-bar input {
+    border: none;
+    border-radius: 20px 0 0 20px;
+}
+
+.container .search-box .search-bar .i-fa-search {
+    align-self: center;
+    border-radius: 0 20px 20px 0;
+}
+
+.container .search-box .search-bar .i-fa-search:hover {
+    cursor: pointer;
+    background-color: rgb(197, 197, 197, 0.4);
+}
+
+.container .search-box .search-bar i {
+    font-size: 20px;
+    padding: 10px;
+}
+
+.container .title {
+    padding: 20px;
+    text-align: center;
+}
+
+.container .title .text {
+    font-size: 30px;
+    text-transform: uppercase;
+    color: rgb(34, 49, 255);
+}
+
+.container .filter-location {
+    text-align: center;
+}
+
+.container .filter-location ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.container .filter-location ul li {
+    background-color: #cccccc;
+    box-shadow: 2px 1px rgb(182, 182, 182);
+    margin-left: 10px;
+    padding: 6px 10px 6px 10px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.container .filter-location ul li:hover {
+    background-color: rgb(22, 145, 226);
+    color: white;
+}
+
+.container .filter-location ul li.active {
+    background-color: rgb(22, 145, 226);
+    color: white;
+}
+
+.container .filter-attribute {
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.container .filter-attribute .bs-attribute {
+    margin-right: 10px;
+    flex: 1;
+}
+
+.container .filter-attribute .bs-attribute .select-attribute {
+    width: 100%;
+    padding: 6px 0px 6px 10px;
+    border-radius: 5px;
+    text-transform: uppercase;
+}
+
+.container .list-doctor {
+    padding: 10px;
+}
+
+.container .list-doctor .doctor-card {
+    padding: 20px;
+}
+
+.container .list-doctor .doctor-card .doctor-img img {
+    padding: 10px;
+    width: 100%;
+    height: auto;
+    border: #cccccc solid 1px;
+}
+
+.container .list-doctor .doctor-card .doctor-info {
+    display: flex;
+    flex-direction: column;
+}
+
+.container .list-doctor .doctor-card .doctor-name {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.container .pagination-div {
+    display: flex;
+    justify-content: center;
+}
+
+.container .pagination-div .prev-page,
+.container .pagination-div .next-page,
+.container .pagination-div .pagination .page-number {
+    padding: 15px;
+    cursor: pointer;
+}
+
+.container .pagination-div .prev-page:hover,
+.container .pagination-div .next-page:hover,
+.container .pagination-div .pagination .page-number:hover {
+    background-color: #cccccc;
+}
+
+.container .pagination-div .pagination {
+    cursor: pointer;
+    display: flex;
+}
+
+.page-number.active {
+    background-color: #4aaeff;
+}
+
+.page-number.active:hover {
+    background-color: #4aaeff !important;
+}

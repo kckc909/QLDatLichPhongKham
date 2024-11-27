@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Phòng khám Đa Khoa Tâm Anh | Chuyên khoa</title>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/assets/css/lib/bootstrap5.css">
+    <script src="/assets/js/lib/bootstrap.bundle.min.js"></script>
+    <script src="/assets/js/lib/bootstrap5.js"></script>
+    <script src="/assets/js/lib/jquery.js"></script>
+    
+    <link rel="stylesheet" href="/assets/css/pages/KhachHang/ChuyenKhoa.css">
+    <script src="/assets/js/pages/KhachHang/ChuyenKhoa.js"></script>
+</head>
+
+<body>
+    <div id="Navbar"></div>
+
+    <main>
+        <div class="banner">
+            <img src="/assets/image/banner/ChuyenKhoa/chuyen-khoa-benh-vien-tam-anh.jpg" alt="">
+        </div>
+        <div class="container">
+            <div class="search-box">
+                <form action="#" class="search-bar">
+                    <input type="text" class="form-control" placeholder="Nhập thông tin bác sĩ - chuyên gia ">
+                    <div class="i-fa-search">
+                        <i class="fa-solid fa-magnifying-glass"></i>
+                    </div>
+                </form>
+            </div>
+            <div class="title">
+                <div class="text">
+                    Chuyên khoa
+                </div>
+            </div>
+            <div class="list-ck">
+                <div class="card-ck">
+                    <div class="img-ck">
+                        <img src="" alt="">
+                    </div>
+                    <div class="name-ck"></div>
+                </div>
+            </div>
+            <div class="pagination-div">
+                <div class="prev-page">
+                    <i class="fa-solid fa-angle-left"></i>
+                </div>
+                <div class="pagination">
+                    <div class="page-number"></div>
+                </div>
+                <div class="next-page">
+                    <i class="fa-solid fa-angle-right"></i>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <div id="Footer"></div>
+    <script>
+        $(document).ready(function () {
+            $("#Footer").load("/components/Footer.html");
+            $("#Navbar").load("/components/Navbar.html");
+        })
+    </script>
+</body>
+
+</html>

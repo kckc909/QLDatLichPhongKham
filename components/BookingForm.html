@@ -1,0 +1,265 @@
+<link rel="stylesheet" href="/assets/css/components/BookingForm.css">
+
+<div id="form-booking-content">
+    <h2>ĐĂNG KÝ KHÁM BỆNH</h2>
+    <form action="#" id="form-booking" class="form-container">
+        <!-- cs -->
+        <div class="form-group">
+            <div class="label">Chọn địa điểm khám</div>
+            <div class="radio-group" id="radio-group">
+                <div class="rad-content">
+                    <input type="radio" name="rad-cs" id="rad-hn">
+                    <label for="rad-hn" class="rad-name">BVĐK Tâm Anh Hà Nội</label>
+                </div>
+                <div class="rad-content">
+                    <input type="radio" name="rad-cs" id="rad-HCM">
+                    <label for="rad-HCM" class="rad-name">BVĐK Tâm Anh TP. HCM</label>
+                </div>
+                <div class="rad-content">
+                    <input type="radio" name="rad-cs" id="rad-q8">
+                    <label for="rad-q8" class="rad-name">BVĐK Tâm Anh Q8</label>
+                </div>
+                <div class="rad-content">
+                    <input type="radio" name="rad-cs" id="rad-q7">
+                    <label for="rad-q7" class="rad-name">Phòng khám ĐK Tâm Anh Q7</label>
+                </div>
+            </div>
+        </div>
+        <!-- dv -->
+        <div class="form-group">
+            <div class="label">Chọn loại dịch vụ khám</div>
+            <div id="service" class="service-lst">
+                <button type="button" class="service-option" id="service-intime">
+                    Khám trong giờ
+                </button>
+                <button type="button" class="service-option" id="service-outtime">
+                    Khám ngoài giờ
+                </button>
+                <button type="button" class="service-option" id="service-online">
+                    Khám online
+                </button>
+            </div>
+        </div>
+        <!-- block -->
+        <div class="blocker">
+            <div class="blocker-content">
+                <!-- ck -->
+                <div class="form-group ">
+                    <label for="fg-ck">Chọn chuyên khoa</label>
+                    <select id="fg-ck" name="fg-ck" class="form-control blocker" disabled>
+                        <option value="none">Chọn chuyên khoa</option>
+                        <!-- ds ck -->
+                    </select>
+                </div>
+                <!-- bs -->
+                <div class="form-group ">
+                    <label for="fg-bs">Chọn bác sĩ</label>
+                    <select id="fg-bs" name="fg-bs" class="form-control blocker" disabled>
+                        <option value="none">Chọn bác sĩ</option>
+                        <!-- ds bs -->
+                    </select>
+                </div>
+                <!-- tg -->
+                <div class="form-group ">
+                    <label for="fg-dt">Chọn ngày - khung giờ muốn khám</label>
+                    <input type="datetime-local" id="fg-dt" name="fg-dt" class="form-control blocker" disabled>
+                </div>
+            </div>
+        </div>
+        <!-- tt -->
+        <div class="form-group">
+            <div class="label" for="note">Nhập vấn đề sức khỏe cần khám</div>
+            <textarea id="note" name="note" class="form-control" rows="4"
+                placeholder="Nhập tình trạng sức khoẻ của bạn"></textarea>
+        </div>
+        <div class="buttons">
+            <button type="button" class="next-button">Tiếp Theo →</button>
+        </div>
+    </form>
+    <form action="#" id="form-booker" class="form-container">
+        <p>
+            Đối với các khách hàng lần đầu đến khám và sử dụng dịch vụ tại Hệ thống Bệnh viện Đa khoa
+            Tâm Anh,
+            xin vui lòng cung cấp đầy đủ các thông tin của người đến khám theo mẫu bên dưới. Việc
+            cung cấp đầy
+            đủ thông tin sẽ giúp Quý khách tiết kiệm được thời gian làm hồ sơ khách hàng tại bệnh
+            viện.
+        </p>
+
+        <div class="form-group">
+            <label for="name"> Họ và tên</label>
+            <input type="text" id="name" placeholder="Nhập họ và tên">
+        </div>
+        <div class="form-group">
+            <label for="phone"> Số điện thoại</label>
+            <input type="text" id="phone" placeholder="Nhập số điện thoại">
+        </div>
+        <div class="form-group">
+            <label for="dob"> Ngày sinh</label>
+            <input type="date" id="dob" placeholder="DD / MM / YYYY">
+        </div>
+        <div class="form-group">
+            <label for="customer-id">Mã khách hàng (nếu có)</label>
+            <input type="text" id="customer-id" placeholder="Nhập mã khách hàng">
+        </div>
+
+        <div class="buttons">
+            <button type="button" class="back-button">← QUAY LẠI</button>
+            <button type="button" class="check-button">KIỂM TRA THÔNG TIN →</button>
+        </div>
+    </form>
+    <form action="#" id="form-check" class="form-container">
+        <p>Đối với các khách hàng lần đầu đến khám và sử dụng dịch vụ tại Hệ thống Bệnh viện Đa khoa Tâm Anh, xin vui
+            lòng cung cấp đầy đủ các thông tin của người đến khám theo mẫu bên dưới.</p>
+        <div class="form-group d-flex gap-2">
+            <div class="form-group__item" id="fc-phone-div">
+                <div class="label">Số điện thoại</div>
+                <input type="text" id="fc-phone" placeholder="Nhập số điện thoại" class="p-2">
+            </div>
+            <div class="form-group__item" id="fc-dob-div">
+                <div class="label">Ngày sinh</div>
+                <input type="date" id="fc-dob" placeholder="DD / MM / YYYY" class="p-2">
+            </div>
+        </div>
+        <div class="form-group d-flex gap-2">
+            <div class="form-group__item" id="fc-name-div">
+                <div class="label">Họ và tên</div>
+                <input type="text" id="fc-name" placeholder="Nhập họ và tên" class="p-2">
+            </div>
+            <div class="form-group__item" id="fc-customer-id-div">
+                <div class="label">Mã khách hàng (nếu có)</div>
+                <input type="text" id="fc-customer-id" placeholder="Nhập mã khách hàng" class="p-2">
+            </div>
+        </div>
+        <div class="form-group d-flex gap-2">
+            <div class="form-group__item" id="fc-gender-div">
+                <div class="label">Giới tính</div>
+                <div class="radio-group" id="fc-gender">
+                    <div class="d-flex flex-fill" >
+                        <input type="radio" id="male" name="gender" value="male" class="hide">
+                        <label for="male" class="lb-gender">
+                            <div>
+                                Nam
+                            </div>
+                        </label>
+                    </div>
+                    <div class="d-flex flex-fill">
+                        <input type="radio" id="female" name="gender" value="female" class="hide">
+                        <label for="female" class="lb-gender">
+                            <div>
+                                Nữ
+                            </div>
+                        </label>
+                    </div>
+                </div>
+            </div>
+            <div class="form-group__item" id="fc-na">
+                <div class="label">Quốc tịch</div>
+                <select name="fc-na__select" id="fc-na__select">
+                    <option value="vietnam">VIET NAM (Việt Nam)</option>
+                </select>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class=" d-flex gap-2">
+                <div class="form-group__item">
+                    <div class="label">Tỉnh/ Thành phố</div>
+                    <select name="fc-ad__pro" id="fc-ad__pro">
+                        <option value="none" selected>Chọn tỉnh/thành phố</option>
+                        <option value="an-giang">An Giang</option>
+                        <option value="ba-ria-vung-tau">Bà Rịa - Vũng Tàu</option>
+                        <option value="bac-giang">Bắc Giang</option>
+                        <option value="bac-kan">Bắc Kạn</option>
+                        <option value="bac-lieu">Bạc Liêu</option>
+                        <option value="bac-ninh">Bắc Ninh</option>
+                        <option value="ben-tre">Bến Tre</option>
+                        <option value="binh-dinh">Bình Định</option>
+                        <option value="binh-duong">Bình Dương</option>
+                        <option value="binh-phuoc">Bình Phước</option>
+                        <option value="binh-thuan">Bình Thuận</option>
+                        <option value="ca-mau">Cà Mau</option>
+                        <option value="can-tho">Cần Thơ</option>
+                        <option value="cao-bang">Cao Bằng</option>
+                        <option value="da-nang">Đà Nẵng</option>
+                        <option value="dak-lak">Đắk Lắk</option>
+                        <option value="dak-nong">Đắk Nông</option>
+                        <option value="dien-bien">Điện Biên</option>
+                        <option value="dong-nai">Đồng Nai</option>
+                        <option value="dong-thap">Đồng Tháp</option>
+                        <option value="gia-lai">Gia Lai</option>
+                        <option value="ha-giang">Hà Giang</option>
+                        <option value="ha-nam">Hà Nam</option>
+                        <option value="ha-noi">Hà Nội</option>
+                        <option value="ha-tinh">Hà Tĩnh</option>
+                        <option value="hai-duong">Hải Dương</option>
+                        <option value="hai-phong">Hải Phòng</option>
+                        <option value="hau-giang">Hậu Giang</option>
+                        <option value="hoa-binh">Hòa Bình</option>
+                        <option value="hung-yen">Hưng Yên</option>
+                        <option value="khanh-hoa">Khánh Hòa</option>
+                        <option value="kien-giang">Kiên Giang</option>
+                        <option value="kon-tum">Kon Tum</option>
+                        <option value="lai-chau">Lai Châu</option>
+                        <option value="lam-dong">Lâm Đồng</option>
+                        <option value="lang-son">Lạng Sơn</option>
+                        <option value="lao-cai">Lào Cai</option>
+                        <option value="long-an">Long An</option>
+                        <option value="nam-dinh">Nam Định</option>
+                        <option value="nghe-an">Nghệ An</option>
+                        <option value="ninh-binh">Ninh Bình</option>
+                        <option value="ninh-thuan">Ninh Thuận</option>
+                        <option value="phu-tho">Phú Thọ</option>
+                        <option value="phu-yen">Phú Yên</option>
+                        <option value="quang-binh">Quảng Bình</option>
+                        <option value="quang-nam">Quảng Nam</option>
+                        <option value="quang-ngai">Quảng Ngãi</option>
+                        <option value="quang-ninh">Quảng Ninh</option>
+                        <option value="quang-tri">Quảng Trị</option>
+                        <option value="soc-trang">Sóc Trăng</option>
+                        <option value="son-la">Sơn La</option>
+                        <option value="tay-ninh">Tây Ninh</option>
+                        <option value="thai-binh">Thái Bình</option>
+                        <option value="thai-nguyen">Thái Nguyên</option>
+                        <option value="thanh-hoa">Thanh Hóa</option>
+                        <option value="thua-thien-hue">Thừa Thiên Huế</option>
+                        <option value="tien-giang">Tiền Giang</option>
+                        <option value="tp-ho-chi-minh">TP. Hồ Chí Minh</option>
+                        <option value="tra-vinh">Trà Vinh</option>
+                        <option value="tuyen-quang">Tuyên Quang</option>
+                        <option value="vinh-long">Vĩnh Long</option>
+                        <option value="vinh-phuc">Vĩnh Phúc</option>
+                        <option value="yen-bai">Yên Bái</option>
+                    </select>
+                </div>
+                <div class="form-group__item">
+                    <div class="label">Quận huyện</div>
+                    <select name="fc-ad__dis" id="fc-ad__dis" disabled>
+                        <option value="none">Chọn quận huyện</option>
+                    </select>
+                </div>
+                <div class="form-group__item">
+                    <div class="label">Phường xã</div>
+                    <select name="fc-ad__vil" id="fc-ad__vil" disabled>
+                        <option value="none">Chọn phường xã</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="label">Ghi chú</div>
+            <textarea name="gc" id="gc" placeholder="Nhập ghi chú"></textarea>
+        </div>
+        <div class="form-group d-flex justify-content-evenly m-2">
+            <div class="btn-back-div">
+                <button>quay lại</button>
+            </div>
+            <div class="btn-submit-div">
+                <button>đặt hẹn</button>
+            </div>
+        </div>
+
+    </form>
+
+</div>
+
+<script src="/assets/js/components/BookingForm.js"></script>

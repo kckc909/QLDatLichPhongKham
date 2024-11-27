@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Phòng khám Đa Khoa Tâm Anh | Đặt lịch</title>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/assets/css/lib/bootstrap5.css">
+    <script src="/assets/js/lib/bootstrap.bundle.min.js"></script>
+    <script src="/assets/js/lib/bootstrap5.js"></script>
+    <script src="/assets/js/lib/jquery.js"></script>
+
+    <link rel="stylesheet" href="/assets/css/pages/KhachHang/DatLich.css">
+</head>
+
+<body>
+    <div id="Navbar"></div>
+
+    <main>
+        <div class="container booking">
+            <div class="row booking-content">
+                <div class="col-sm-6 col-sm-offset-3 col-xs-12 ">
+                    <div class="text-center">
+                        <div class="booking-title text-center text-uppercase ">
+                            Đăng ký khám bệnh
+                        </div>
+                    </div>
+                    <p style="text-align: justify;">Quý khách hàng có nhu cầu đặt hẹn khám tại <a
+                            href="/index.html"><strong>Hệ thống Bệnh viện Đa khoa Tâm Anh</strong></a>,
+                        xin vui lòng thực hiện theo hướng dẫn:</p>
+                    <ul>
+                        <li>Đặt hẹn bằng cách gọi tổng đài Chăm sóc khách hàng.</li>
+                        <li>Đặt hẹn trực tuyến bằng cách điền thông tin vào mẫu bên dưới.</li>
+                        <li>Trong các trường hợp khẩn cấp, vui lòng đến cơ sở y tế gần nhất.</li>
+                    </ul>
+                    <div id="booking-form">
+                        <!-- BookingForm -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <div id="Footer"></div>
+    <script>
+        $(document).ready(function () {
+            $("#Footer").load("/components/Footer.html");
+            $("#Navbar").load("/components/Navbar.html");
+            $("#booking-form").load("/components/BookingForm.html");
+        })
+    </script>
+</body>
+
+</html>

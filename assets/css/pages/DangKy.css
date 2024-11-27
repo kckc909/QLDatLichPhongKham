@@ -1,0 +1,71 @@
+.register-container {
+    display: block;
+    margin: 20px;
+}
+
+.register-container .register-form {
+    justify-content: center;
+    min-width: 360px;
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.register-title {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 30px;
+    margin: 10px;
+}
+
+.register-form .label {
+    padding: 10px 0px 10px 0px;
+}
+
+.register-form input,
+.register-form select {
+    padding: 5px;
+}
+
+.register-form .btn-register-div {
+    padding: 20px;
+    text-align: center;
+}
+
+.register-form .btn-register {
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+    background-color: blue;
+    border: none;
+    border-radius: 5px;
+    padding: 10px
+}
+
+.register-form .login-label {
+    text-align: center;
+}
+
+.error {
+    border: 1px solid red;
+    background-color: #f8d7da;
+}
+
+input.error:focus {
+    background-color: #f1b0b7;
+}
+
+.error-message {
+    font-size: 14px;
+    color: red;
+
+}
+
+.form-group__item {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}

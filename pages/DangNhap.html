@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Phòng khám Đa Khoa Tâm Anh | Đăng nhập</title>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/assets/css/lib/bootstrap5.css">
+    <script src="/assets/js/lib/bootstrap.bundle.min.js"></script>
+    <script src="/assets/js/lib/bootstrap5.js"></script>
+    <script src="/assets/js/lib/jquery.js"></script>
+
+    <link rel="stylesheet" href="/assets/css/pages/DangNhap.css">
+    <script src="/assets/js/pages/DangNhap.js"></script>
+</head>
+
+<body>
+    <div id="Navbar"></div>
+    <main>
+        <div class="text">
+
+        </div>
+        <div class="login-container">
+            <form action="" class="login-form">
+                <div class="login-title">
+                    Đăng nhập
+                </div>
+                <label for="text-username">Tên tài khoản</label>
+                <input type="text" name="text-username" id="text-username" placeholder="Nhập tên tài khoản">
+                <label for="text-password">Mật khẩu</label>
+                <input type="password" name="text-password" id="text-password" placeholder="Nhập mật khẩu">
+                <div class="btn-login-div">
+                    <button type="button" class="btn-login" onclick="LoginClickHandler()">Đăng nhập</button>
+                </div>
+                <div class="register-label">
+                    Chưa có tài khoản ?
+                    <a href="/pages/DangKy.html" class="register-link">Đăng ký</a>
+            </form>
+        </div>
+        </div>
+
+    </main>
+    <div id="Footer"></div>
+    <script>
+        $(document).ready(function () {
+            $("#Footer").load("/components/Footer.html");
+            $("#Navbar").load("/components/Navbar.html");
+        })
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,130 @@
+.footer {
+    min-width: 250px;
+}
+
+.tieu-de {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 30px;
+    color: rgb(34, 49, 255);
+    padding: 10px 0 10px 0;
+}
+
+.footer .lien-he {
+    align-items: center;
+    justify-content: center;
+}
+
+.footer .lien-he img {
+    width: 100%;
+    height: 100%;
+}
+
+.footer .lien-he .left {
+    position: relative;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.footer .lien-he .right {
+    position: relative;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.footer .lien-he .content {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer .lien-he .noi-dung {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.doi-tac .container {
+    display: flex;
+    flex-direction: column;
+}
+
+.doi-tac .container .slide-doi-tac {
+    display: flex;
+    justify-content: space-between;
+    overflow: hidden;
+}
+
+.doi-tac .container .slide-doi-tac .lst-doi-tac {
+    margin: auto;
+    display: flex;
+    height: 100%;
+    width: 100%;
+    /* animation: slide 10s linear infinite; */
+    justify-content: space-between;
+}
+
+.doi-tac .container .slide-doi-tac .btn {
+    font-weight: 300;
+    font-size: 40px;
+
+    display: none;
+}
+
+.in4 {
+    padding: 10px 0 30px 0;
+    background-color: rgb(35, 35, 180);
+}
+
+.in4 .widget-title {
+    text-transform: uppercase;
+    text-decoration: underline solid rgb(224, 224, 224);
+    text-underline-offset: 8px;
+    font-size: large;
+    color: white;
+    padding: 0 0 8px 0;
+}
+
+.in4 .widget-text {
+    color: white;
+}
+
+.in4 .widget-text a {
+    color: wheat;
+}
+
+.in4 .widget-link a{
+    color: wheat;
+    text-decoration: none;
+}
+
+.in4 .item {
+    padding: 10px;
+    font-size: 15px;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.in4 .item img {
+    height: 50px;
+    padding: 5px;
+}
+
+.in4 .item i {
+    color: rgb(201, 201, 201);
+    font-size: 30px;
+    padding-left: 10px;
+}
+
+.in4 .item i:hover {
+    color: rgb(146, 146, 146);
+}

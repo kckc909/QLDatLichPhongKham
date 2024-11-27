@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Phòng khám Đa Khoa Tâm Anh | Bác sĩ</title>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/assets/css/lib/bootstrap5.css">
+    <script src="/assets/js/lib/bootstrap.bundle.min.js"></script>
+    <script src="/assets/js/lib/bootstrap5.js"></script>
+    <script src="/assets/js/lib/jquery.js"></script>
+    <link rel="stylesheet" href="/assets/css/pages/KhachHang/BacSiChiTiet.css">
+    <script src="/assets/js/pages/KhachHang/BacSiChiTiet.js"></script>
+</head>
+
+<body>
+    <div id="Navbar"></div>
+
+    <div class="main">
+        <div class="bs-container">
+            <div class="bs-info">
+                <div class="bs-info_content">
+                    <div class="bs-name">
+                        tên bác sĩ
+                    </div>
+                    <div class="bs-cv">
+                        Chức vụ
+                    </div>
+                    <div class="bs-cs">
+                        Cơ sở làm việc
+                    </div>
+                </div>
+                <div class="bs-content-link">
+                    <ul>
+                        <li>
+                            <a href="#gt" style=" scroll-margin-top: 200px;">
+                                Giới thiệu
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#tt" style=" scroll-margin-top: 200px;">
+                                thành tựu
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#cm" style=" scroll-margin-top: 200px;">
+                                Chuyên môn
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#cn" style=" scroll-margin-top: 200px;">
+                                Cảm nhận
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="bs-img">
+                <img src="" alt="ảnh bác sĩ" class="bs-img__img">
+            </div>
+            <div id="booking-content">
+                <!-- component -->
+            </div>
+        </div>
+        <div class="bs-navbar-div">
+            <div class="bs-navbar">
+                <div class="bs-navbar__item" id="gt" onclick="toggleBS_content('gt', 'bs-gt')">
+                    <a>giới thiệu</a>
+                </div>
+                <div class="bs-navbar__item" id="tt" onclick="toggleBS_content('tt', 'bs-tt')">
+                    <a>thành tựu</a>
+                </div>
+                <div class="bs-navbar__item" id="cm" onclick="toggleBS_content('cm', 'bs-cm')">
+                    <a>chuyên môn</a>
+                </div>
+                <div class="bs-navbar__item" id="cn" onclick="toggleBS_content('cn', 'bs-cn')">
+                    <a>cảm nhận</a>
+                </div>
+            </div>
+        </div>
+        <div class="bs-content container">
+            <div class="bs-ct hide" id="bs-gt">
+                <div class="bs-gt__gt">
+                    <div class="item-header" id="header-gt" onclick="toggleElementById('header-gt','body-gt')">
+                        <div class="item-img">
+                            <img src="/assets/image/BacSiChiTiet/icon/i_user.jpg" alt="">
+                        </div>
+                        <div class="item-title">giới thiệu</div>
+                        <div class="item-btn-toggle">
+                            <i class="fas fa-angle-down "></i>
+                            <i class="fas fa-angle-left hide"></i>
+                        </div>
+                    </div>
+                    <div class="item-body " id="body-gt">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates eos, assumenda
+                        necessitatibus laboriosam sed omnis iure suscipit aut error deserunt quas expedita ratione
+                        voluptatum sit minima! Cumque repellendus unde perspiciatis.
+
+                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptate eos perspiciatis consequatur
+                        aliquam. Rerum incidunt illo laudantium commodi suscipit enim iste deleniti eum nam nemo
+                        distinctio, ullam aspernatur dolores accusantium.
+                    </div>
+                </div>
+                <div class="bs-gt__tvtc">
+                    <div class="item-header" id="header-tvtc" onclick="toggleElementById('header-tvtc','body-tvtc')">
+                        <div class="item-img">
+                            <img src="/assets/image/BacSiChiTiet/icon/i_group.jpg" alt="">
+                        </div>
+                        <div class="item-title">thành viên tổ chức</div>
+                        <div class="item-btn-toggle">
+                            <i class="fas fa-angle-down "></i>
+                            <i class="fas fa-angle-left hide"></i>
+                        </div>
+                    </div>
+                    <div class="item-body " id="body-tvtc">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates eos, assumenda
+                        necessitatibus laboriosam sed omnis iure suscipit aut error deserunt quas expedita ratione
+                        voluptatum sit minima! Cumque repellendus unde perspiciatis.
+                    </div>
+                </div>
+            </div>
+            <div class="bs-ct hide" id="bs-tt">
+                <div class="bs-tt__dhgt">
+                    <div class="item-header" id="header-dhgt" onclick="toggleElementById('header-dhgt','body-dhgt')">
+                        <div class="item-img">
+                            <img src="/assets/image/BacSiChiTiet/icon/i_danhhieu.jpg" alt="">
+                        </div>
+                        <div class="item-title">Danh hiệu giải thưởng</div>
+                        <div class="item-btn-toggle">
+                            <i class="fas fa-angle-down "></i>
+                            <i class="fas fa-angle-left hide"></i>
+                        </div>
+                    </div>
+                    <div class="item-body " id="body-dhgt">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates eos, assumenda
+                        necessitatibus laboriosam sed omnis iure suscipit aut error deserunt quas expedita ratione
+                        voluptatum sit minima! Cumque repellendus unde perspiciatis.
+
+
+                    </div>
+                </div>
+                <div class="bs-tt__ctnc">
+                    <div class="item-header" id="header-ctnc" onclick="toggleElementById('header-ctnc','body-ctnc')">
+                        <div class="item-img">
+                            <img src="/assets/image/BacSiChiTiet/icon/i_nghiencuu.jpg" alt="">
+                        </div>
+                        <div class="item-title">công trình nghiên cứu</div>
+                        <div class="item-btn-toggle">
+                            <i class="fas fa-angle-down "></i>
+                            <i class="fas fa-angle-left hide"></i>
+                        </div>
+                    </div>
+                    <div class="item-body " id="body-ctnc">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates eos, assumenda
+                        necessitatibus laboriosam sed omnis iure suscipit aut error deserunt quas expedita ratione
+                        voluptatum sit minima! Cumque repellendus unde perspiciatis.
+
+
+                    </div>
+                </div>
+            </div>
+            <div class="bs-ct hide" id="bs-cm">
+                <div class="bs-cm__qtdt">
+                    <div class="item-header" id="header-qtdt" onclick="toggleElementById('header-qtdt','body-qtdt')">
+                        <div class="item-img">
+                            <img src="/assets/image/BacSiChiTiet/icon/i_daotao.jpg" alt="">
+                        </div>
+                        <div class="item-title">quá trình đào tạo</div>
+                        <div class="item-btn-toggle">
+                            <i class="fas fa-angle-down "></i>
+                            <i class="fas fa-angle-left hide"></i>
+                        </div>
+                    </div>
+                    <div class="item-body " id="body-qtdt">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates eos, assumenda
+                        necessitatibus laboriosam sed omnis iure suscipit aut error deserunt quas expedita ratione
+                        voluptatum sit minima! Cumque repellendus unde perspiciatis.
+
+
+                    </div>
+                </div>
+                <div class="bs-cm__knct">
+                    <div class="item-header" id="header-knct" onclick="toggleElementById('header-knct','body-knct')">
+                        <div class="item-img">
+                            <img src="/assets/image/BacSiChiTiet/icon/i_kinhnghiem.jpg" alt="">
+                        </div>
+                        <div class="item-title">kinh nghiệm công tác</div>
+                        <div class="item-btn-toggle">
+                            <i class="fas fa-angle-down "></i>
+                            <i class="fas fa-angle-left hide"></i>
+                        </div>
+                    </div>
+                    <div class="item-body " id="body-knct">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates eos, assumenda
+                        necessitatibus laboriosam sed omnis iure suscipit aut error deserunt quas expedita ratione
+                        voluptatum sit minima! Cumque repellendus unde perspiciatis.
+
+
+                    </div>
+                </div>
+            </div>
+            <div class="bs-ct hide" id="bs-cn">
+                <div class="item-header" id="header-cn" onclick="toggleElementById('header-cn','body-cn')">
+                    <div class="item-img">
+                        <img src="/assets/image/BacSiChiTiet/icon/i_camnhan.jpg" alt="">
+                    </div>
+                    <div class="item-title">cảm nhận của khách hàng</div>
+                    <div class="item-btn-toggle">
+                        <i class="fas fa-angle-down"></i>
+                        <i class="fas fa-angle-left hide"></i>
+                    </div>
+                </div>
+                <div class="item-body" id="body-cn">
+                    <div class="bs-cn-div">
+                        <div class="bs-cn">
+                            <label for="cn-name">
+                                Tên của bạn
+                            </label>
+                            <input type="text" name="cn-name" id="cn-name" placeholder="Nhập tên của bạn">
+                            <label for="cn-sdt">
+                                Số điện thoại
+                            </label>
+                            <input type="text" name="cn-sdt" id="cn-sdt" placeholder="Nhập mã khách hàng">
+                            <label>
+                                Địa chỉ
+                            </label>
+                            <div class="cn-diachi" id="cn-diachi">
+                                <select name="tinh" id="tinh">
+                                    <option value="none">Tỉnh/thành</option>
+                                    <!-- list tỉnh thành -->
+                                </select>
+                                <select name="huyen" id="huyen">
+                                    <option value="none">Quận/huyện</option>
+                                    <!-- list quận huyện -->
+                                </select>
+                            </div>
+                            <label>
+                                Đánh giá
+                            </label>
+                            <div class="div_rating">
+                                <div id="box_rate" class="box_rate">
+                                    <label class="item rate_1">
+                                        <input type="radio" class="rd_item" name="txtrating" value="1">
+                                    </label>
+                                    <label class="item rate_2">
+                                        <input type="radio" class="rd_item" name="txtrating" value="2">
+                                    </label>
+                                    <label class="item rate_3">
+                                        <input type="radio" class="rd_item" name="txtrating" value="3">
+                                    </label>
+                                    <label class="item rate_4">
+                                        <input type="radio" class="rd_item" name="txtrating" value="4">
+                                    </label>
+                                    <label class="item rate_5">
+                                        <input type="radio" class="rd_item" name="txtrating" value="5">
+                                    </label>
+                                </div>
+                                <input class="rate_total" type="hidden" name="rate_total" value="0">
+                            </div>
+                            <label for="nx">Nhận xét</label>
+                            <textarea id="nx" name="nx" rows="5" placeholder="Nhập nội dung tại đây"></textarea>
+                            <div class="btn-submit-div">
+                                <button type="submit" class="btn-submit">Gửi đánh giá</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="Footer"></div>
+    <script>
+        $(document).ready(function () {
+            $("#Footer").load("/components/Footer.html");
+            $("#Navbar").load("/components/Navbar.html");
+            $("#booking-content").load("/components/BookingForm.html");
+        })
+    </script>
+</body>
+
+</html>

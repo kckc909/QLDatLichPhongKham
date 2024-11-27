@@ -1,0 +1,12 @@
+.booking-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.booking .booking-title {
+    font-size: 28px;
+    font-weight: 500;
+    color: #333;
+    margin: 20px;
+}

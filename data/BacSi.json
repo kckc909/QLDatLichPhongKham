@@ -1,0 +1,3542 @@
+[
+    {
+        "department": "1",
+        "facility": "BVĐK Tâm Anh Hà Nội",
+        "id": "1",
+        "name": "BS.CKII Trần Thị Thanh Nga",
+        "position": "Giám đốc Trung tâm Xét nghiệm",
+        "academic_rank": "Chuyên khoa II",
+        "academic_degree": null,
+        "introduction": "Chuyên gia về xét nghiệm lâm sàng và điều trị các bệnh truyền nhiễm, kháng kháng sinh, và bệnh nhiệt đới. Bà đã có hơn 70 đề tài nghiên cứu công bố trong nước và quốc tế.",
+        "organization_membership": "Thành viên các chương trình nghiên cứu quốc tế về bệnh nhiệt đới.",
+        "specialized_fields": [
+            "Xét nghiệm lâm sàng",
+            "Nhiễm khuẩn",
+            "Bệnh truyền nhiễm"
+        ],
+        "achievements": [
+            "Bác sĩ Ưu tú",
+            "Bằng khen của Thủ tướng",
+            "Bằng khen của Bộ Y tế"
+        ],
+        "awards": [
+            "Thành tựu nghiên cứu xuất sắc"
+        ],
+        "research_projects": [
+            "Các nghiên cứu về nhiễm khuẩn ổ bụng, nhiễm khuẩn tiết niệu",
+            "Các đề tài hợp tác với Đại học Amsterdam về bệnh nhiệt đới"
+        ],
+        "training": [
+            "Tốt nghiệp Y khoa tại Đại học Y Dược TP.HCM",
+            "Tham gia chương trình chống lao hợp tác với CDC"
+        ],
+        "experience": [
+            "Nhiều năm công tác tại các trung tâm nghiên cứu hàng đầu về bệnh nhiệt đới"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2011/01/bs-tran-thi-thanh-nga.png"
+    },
+    {
+        "department": "1",
+        "facility": "BVĐK Tâm Anh Hà Nội",
+        "id": "2",
+        "name": "PGS.TS Nguyễn Anh Tuấn",
+        "position": "Giám đốc Trung tâm Hỗ trợ Sinh sản",
+        "academic_rank": "Phó Giáo sư",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "PGS.TS Nguyễn Anh Tuấn là chuyên gia đầu ngành trong lĩnh vực hỗ trợ sinh sản và điều trị vô sinh hiếm muộn. Ông đã thực hiện thành công hàng nghìn ca điều trị IVF.",
+        "organization_membership": "Hiệp hội Sinh sản và Phôi học Châu Âu (ESHRE).",
+        "specialized_fields": [
+            "Hỗ trợ sinh sản",
+            "Thụ tinh ống nghiệm (IVF)",
+            "Điều trị hiếm muộn"
+        ],
+        "achievements": [
+            "Chứng nhận ESHRE về hỗ trợ sinh sản"
+        ],
+        "awards": [
+            "Giải thưởng Thành tựu y học quốc tế"
+        ],
+        "research_projects": [
+            "Nghiên cứu về chất lượng phôi trong IVF",
+            "Các phương pháp điều trị hiếm muộn tiên tiến"
+        ],
+        "training": [
+            "Tốt nghiệp Y khoa tại Đại học Y Hà Nội",
+            "Nghiên cứu sinh tại Đại học Melbourne, Úc"
+        ],
+        "experience": [
+            "Giám đốc Trung tâm Hỗ trợ Sinh sản Bệnh viện Tâm Anh",
+            "Hơn 20 năm trong ngành y học sinh sản"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2010/01/pgs-trieu-trieu-duong.png"
+    },
+    {
+        "department": "1",
+        "facility": "BVĐK Tâm Anh Hà Nội",
+        "id": "3",
+        "name": "TS.BS Nguyễn Quốc Tuấn",
+        "position": "Trưởng khoa Nội Thần kinh",
+        "academic_rank": null,
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Nguyễn Quốc Tuấn chuyên điều trị các bệnh lý nội thần kinh như đột quỵ, đau nửa đầu, và rối loạn tiền đình.",
+        "organization_membership": "Hội Thần kinh học Việt Nam.",
+        "specialized_fields": [
+            "Đột quỵ",
+            "Rối loạn tiền đình",
+            "Đau đầu mãn tính"
+        ],
+        "achievements": [
+            "Phát triển kỹ thuật điều trị đột quỵ cấp"
+        ],
+        "awards": [
+            "Bằng khen Bộ Y tế"
+        ],
+        "research_projects": [
+            "Nghiên cứu ứng dụng trí tuệ nhân tạo trong chẩn đoán đột quỵ",
+            "Cải tiến điều trị đau đầu mãn tính"
+        ],
+        "training": [
+            "Đào tạo tại Bệnh viện Chợ Rẫy",
+            "Nghiên cứu sinh tại Đại học Y Tokyo, Nhật Bản"
+        ],
+        "experience": [
+            "20 năm kinh nghiệm trong điều trị các bệnh thần kinh",
+            "Cố vấn y khoa tại nhiều bệnh viện lớn"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2021/03/giao-su-tran-quan-anh.jpg"
+    },
+    {
+        "department": "2",
+        "facility": "BVĐK Tâm Anh Hà Nội",
+        "id": "4",
+        "name": "ThS.BS Trần Thị Hồng Nhung",
+        "position": "Phó trưởng khoa Tim mạch",
+        "academic_rank": null,
+        "academic_degree": "Thạc sĩ",
+        "introduction": "ThS.BS Trần Thị Hồng Nhung có hơn 15 năm kinh nghiệm trong điều trị các bệnh lý tim mạch, đặc biệt là bệnh lý van tim và suy tim.",
+        "organization_membership": "Hội Tim mạch học Quốc gia Việt Nam.",
+        "specialized_fields": [
+            "Điều trị bệnh lý van tim",
+            "Suy tim",
+            "Tim bẩm sinh"
+        ],
+        "achievements": [
+            "Chứng nhận điều trị chuyên sâu về tim mạch"
+        ],
+        "awards": [
+            "Bằng khen Hiệp hội Tim mạch học"
+        ],
+        "research_projects": [
+            "Nghiên cứu điều trị suy tim bằng phương pháp tiên tiến",
+            "Chẩn đoán sớm bệnh lý tim bẩm sinh ở trẻ sơ sinh"
+        ],
+        "training": [
+            "Thạc sĩ tại Đại học Y Hà Nội",
+            "Chứng chỉ điều trị chuyên sâu tại Singapore"
+        ],
+        "experience": [
+            "Phó trưởng khoa Tim mạch Bệnh viện Tâm Anh",
+            "Hơn 15 năm công tác trong lĩnh vực tim mạch"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2011/01/bs-nguyen-thi-minh-duc-avt.png"
+    },
+    {
+        "department": "2",
+        "id": "5",
+        "facility": "Phòng khám ĐK Tâm Anh Q7",
+        "name": "GS.TS Phạm Văn Minh",
+        "position": "Chuyên gia Khoa Hồi sức Cấp cứu",
+        "academic_rank": "Giáo sư",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "GS.TS Phạm Văn Minh là chuyên gia đầu ngành về hồi sức cấp cứu với kinh nghiệm phong phú trong điều trị các ca bệnh nguy hiểm.",
+        "organization_membership": "Hiệp hội Hồi sức Cấp cứu Thế giới.",
+        "specialized_fields": [
+            "Hồi sức cấp cứu",
+            "Điều trị sốc nhiễm trùng",
+            "Chăm sóc tích cực"
+        ],
+        "achievements": [
+            "Phát triển phác đồ điều trị sốc nhiễm trùng"
+        ],
+        "awards": [
+            "Huân chương Lao động hạng Nhất"
+        ],
+        "research_projects": [
+            "Nghiên cứu điều trị bệnh nhân suy đa tạng",
+            "Phác đồ hồi sức tích cực hiện đại"
+        ],
+        "training": [
+            "Đào tạo tại Đại học Y Harvard, Mỹ",
+            "Chứng chỉ chuyên sâu hồi sức cấp cứu tại Đức"
+        ],
+        "experience": [
+            "Giáo sư tại Đại học Y Hà Nội",
+            "Cố vấn chuyên môn tại các bệnh viện lớn trong và ngoài nước"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2011/01/bac-pham-nguyen-vinh.png"
+    },
+    {
+        "department": "2",
+        "id": "6",
+        "facility": "Phòng khám ĐK Tâm Anh Q7",
+        "name": "ThS.BS Nguyễn Thị Minh Tâm",
+        "position": "Trưởng khoa Nội tiết",
+        "academic_rank": null,
+        "academic_degree": "Thạc sĩ",
+        "introduction": "ThS.BS Nguyễn Thị Minh Tâm là chuyên gia trong điều trị các bệnh lý nội tiết như tiểu đường, suy giáp và hội chứng chuyển hóa, với nhiều nghiên cứu nổi bật trong lĩnh vực này.",
+        "organization_membership": "Hội Nội tiết Việt Nam.",
+        "specialized_fields": [
+            "Tiểu đường",
+            "Bệnh lý tuyến giáp",
+            "Hội chứng chuyển hóa"
+        ],
+        "achievements": [
+            "Cải tiến phác đồ điều trị tiểu đường hiệu quả"
+        ],
+        "awards": [
+            "Chứng nhận xuất sắc từ Hội Nội tiết Quốc tế"
+        ],
+        "research_projects": [
+            "Nghiên cứu về tác động của insulin thế hệ mới",
+            "Điều trị suy giáp ở người cao tuổi"
+        ],
+        "training": [
+            "Thạc sĩ tại Đại học Y Dược TP. Hồ Chí Minh",
+            "Đào tạo chuyên sâu tại Đại học Cambridge, Anh"
+        ],
+        "experience": [
+            "Trưởng khoa Nội tiết tại Bệnh viện Tâm Anh",
+            "Hơn 18 năm kinh nghiệm trong điều trị bệnh nội tiết"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2024/09/hinh-anh-bs-pham-thi-thanh-tam.png"
+    },
+    {
+        "department": "3",
+        "id": "7",
+        "facility": "Phòng khám ĐK Tâm Anh Q7",
+        "name": "TS.BS Đinh Văn Quang",
+        "position": "Phó Giám đốc Trung tâm Ung bướu",
+        "academic_rank": null,
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Đinh Văn Quang là một chuyên gia hàng đầu về điều trị ung thư, đặc biệt là ung thư đường tiêu hóa và phổi. Ông đã góp phần nâng cao hiệu quả điều trị với các phương pháp tiên tiến.",
+        "organization_membership": "Hội Ung thư học Việt Nam.",
+        "specialized_fields": [
+            "Ung thư phổi",
+            "Ung thư đường tiêu hóa",
+            "Xạ trị"
+        ],
+        "achievements": [
+            "Chứng nhận chuyên môn từ Hội Ung thư học Quốc tế"
+        ],
+        "awards": [
+            "Giải thưởng Cống hiến Y học"
+        ],
+        "research_projects": [
+            "Tác dụng của liệu pháp miễn dịch trong điều trị ung thư",
+            "Ứng dụng xạ trị chính xác cao"
+        ],
+        "training": [
+            "Nghiên cứu sinh tại Đại học Kyoto, Nhật Bản",
+            "Học bổng chuyên ngành ung thư tại Đức"
+        ],
+        "experience": [
+            "Phó Giám đốc Trung tâm Ung bướu Bệnh viện Tâm Anh",
+            "Hơn 15 năm kinh nghiệm trong điều trị ung thư"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2023/03/bs-dinh-quang-huy-avt.png"
+    },
+    {
+        "department": "3",
+        "facility": "Phòng khám ĐK Tâm Anh Q7",
+        "id": "8",
+        "name": "ThS.BS Lê Minh Hùng",
+        "position": "Chuyên gia Khoa Phẫu thuật Thần kinh",
+        "academic_rank": null,
+        "academic_degree": "Thạc sĩ",
+        "introduction": "ThS.BS Lê Minh Hùng là chuyên gia trong lĩnh vực phẫu thuật thần kinh với kỹ thuật vi phẫu hiện đại, chuyên điều trị u não và các tổn thương tủy sống.",
+        "organization_membership": "Hội Phẫu thuật Thần kinh Châu Á.",
+        "specialized_fields": [
+            "Phẫu thuật u não",
+            "Điều trị tổn thương tủy sống"
+        ],
+        "achievements": [
+            "Phát triển kỹ thuật vi phẫu thần kinh tại Việt Nam"
+        ],
+        "awards": [
+            "Giải thưởng Khoa học Công nghệ Y học"
+        ],
+        "research_projects": [
+            "Nghiên cứu vi phẫu não bộ",
+            "Ứng dụng laser trong phẫu thuật thần kinh"
+        ],
+        "training": [
+            "Thạc sĩ tại Đại học Y Hà Nội",
+            "Đào tạo phẫu thuật thần kinh tại Singapore"
+        ],
+        "experience": [
+            "Chuyên gia tại Bệnh viện Tâm Anh",
+            "Hơn 12 năm trong lĩnh vực phẫu thuật thần kinh"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2021/03/bac-si-do-minh-hung.png"
+    },
+    {
+        "department": "3",
+        "id": "9",
+        "facility": "Phòng khám ĐK Tâm Anh Q7",
+        "name": "GS.TS Nguyễn Văn Hòa",
+        "position": "Chuyên gia Khoa Nhi",
+        "academic_rank": "Giáo sư",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "GS.TS Nguyễn Văn Hòa là chuyên gia hàng đầu trong chăm sóc và điều trị các bệnh lý trẻ em, đặc biệt là bệnh hô hấp và tiêu hóa ở trẻ sơ sinh.",
+        "organization_membership": "Hiệp hội Nhi khoa Quốc tế.",
+        "specialized_fields": [
+            "Bệnh lý hô hấp ở trẻ em",
+            "Tiêu hóa sơ sinh"
+        ],
+        "achievements": [
+            "Chứng nhận điều trị tiên tiến về Nhi khoa"
+        ],
+        "awards": [
+            "Huân chương Lao động hạng Nhì"
+        ],
+        "research_projects": [
+            "Cải tiến phương pháp điều trị viêm phổi ở trẻ sơ sinh",
+            "Nghiên cứu dinh dưỡng cho trẻ thiếu cân"
+        ],
+        "training": [
+            "Giáo sư tại Đại học Y Hà Nội",
+            "Thực tập sinh tại Đại học Stanford, Mỹ"
+        ],
+        "experience": [
+            "Chuyên gia tư vấn tại Bệnh viện Nhi Trung ương",
+            "Trên 30 năm kinh nghiệm điều trị cho trẻ em"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2021/02/to-hoa-avt.png"
+    },
+    {
+        "department": "4",
+        "id": "10",
+        "facility": "Phòng khám ĐK Tâm Anh Q7",
+        "name": "TS.BS Lê Phương Anh",
+        "position": "Trưởng khoa Da liễu",
+        "academic_rank": null,
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Lê Phương Anh là chuyên gia trong điều trị các bệnh da liễu, đặc biệt là điều trị nám, sẹo và các bệnh lý về da tự miễn.",
+        "organization_membership": "Hội Da liễu Việt Nam.",
+        "specialized_fields": [
+            "Nám da",
+            "Sẹo",
+            "Bệnh lý da tự miễn"
+        ],
+        "achievements": [
+            "Ứng dụng laser trong điều trị da liễu"
+        ],
+        "awards": [
+            "Bằng khen Bộ Y tế"
+        ],
+        "research_projects": [
+            "Ứng dụng công nghệ tế bào gốc trong tái tạo da",
+            "Điều trị da lão hóa với công nghệ hiện đại"
+        ],
+        "training": [
+            "Nghiên cứu sinh tại Đại học Y Tokyo, Nhật Bản",
+            "Thực tập tại Đại học Sydney, Úc"
+        ],
+        "experience": [
+            "Trưởng khoa Da liễu Bệnh viện Tâm Anh",
+            "Hơn 20 năm kinh nghiệm trong điều trị da liễu"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2023/03/bs-tran-phan-chung-thuy.png"
+    },
+    {
+        "department": "4",
+        "facility": "BVĐK Tâm Anh Hà Nội",
+        "id": "11",
+        "name": "ThS.BS Trần Quang Vinh",
+        "position": "Trưởng khoa Chấn thương Chỉnh hình",
+        "academic_rank": null,
+        "academic_degree": "Thạc sĩ",
+        "introduction": "ThS.BS Trần Quang Vinh có kinh nghiệm lâu năm trong điều trị các chấn thương về xương khớp, đặc biệt là phẫu thuật thay khớp và điều trị chấn thương thể thao.",
+        "organization_membership": "Hiệp hội Chấn thương chỉnh hình Việt Nam.",
+        "specialized_fields": [
+            "Thay khớp",
+            "Phẫu thuật chấn thương thể thao",
+            "Điều trị gãy xương phức tạp"
+        ],
+        "achievements": [
+            "Phát triển kỹ thuật phẫu thuật ít xâm lấn cho chấn thương xương khớp"
+        ],
+        "awards": [
+            "Bằng khen từ Hội Chấn thương Chỉnh hình"
+        ],
+        "research_projects": [
+            "Ứng dụng kỹ thuật nội soi trong điều trị tổn thương khớp",
+            "Nghiên cứu về phục hồi chức năng sau phẫu thuật thay khớp"
+        ],
+        "training": [
+            "Thạc sĩ tại Đại học Y Hà Nội",
+            "Đào tạo chuyên sâu tại Đại học Johns Hopkins, Mỹ"
+        ],
+        "experience": [
+            "Trưởng khoa Chấn thương Chỉnh hình tại Bệnh viện Tâm Anh",
+            "Hơn 15 năm kinh nghiệm trong lĩnh vực chấn thương chỉnh hình"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2022/11/vu-huy-tru.png"
+    },
+    {
+        "department": "4",
+        "facility": "BVĐK Tâm Anh Hà Nội",
+        "id": "12",
+        "name": "TS.BS Nguyễn Thị Mai Anh",
+        "position": "Chuyên gia Khoa Sản",
+        "academic_rank": null,
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Nguyễn Thị Mai Anh có nhiều năm kinh nghiệm trong điều trị các bệnh lý sản phụ khoa, đặc biệt là chăm sóc thai kỳ nguy cơ cao và điều trị vô sinh hiếm muộn.",
+        "organization_membership": "Hội Sản phụ khoa Việt Nam.",
+        "specialized_fields": [
+            "Chăm sóc thai kỳ nguy cơ cao",
+            "Điều trị vô sinh",
+            "Nội soi phụ khoa"
+        ],
+        "achievements": [
+            "Ứng dụng kỹ thuật nội soi tiên tiến trong điều trị vô sinh"
+        ],
+        "awards": [
+            "Giải thưởng Xuất sắc từ Hội Sản phụ khoa Quốc tế"
+        ],
+        "research_projects": [
+            "Nghiên cứu các yếu tố nguy cơ thai kỳ",
+            "Ứng dụng công nghệ mới trong điều trị phụ khoa"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Dược TP. Hồ Chí Minh",
+            "Chứng chỉ chuyên sâu về sản phụ khoa tại Úc"
+        ],
+        "experience": [
+            "Cố vấn chuyên môn tại các bệnh viện lớn",
+            "Hơn 20 năm kinh nghiệm trong sản phụ khoa"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2011/01/bs-tran-thi-thuy-hang.png"
+    },
+    {
+        "department": "5",
+        "facility": "Phòng khám ĐK Tâm Anh Q7",
+        "id": "13",
+        "name": "PGS.TS Phạm Văn Phúc",
+        "position": "Trưởng khoa Phục hồi Chức năng",
+        "academic_rank": "Phó Giáo sư",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "PGS.TS Phạm Văn Phúc là chuyên gia hàng đầu trong phục hồi chức năng sau tai biến, chấn thương và phẫu thuật với các phương pháp hiện đại.",
+        "organization_membership": "Hội Phục hồi chức năng Quốc tế.",
+        "specialized_fields": [
+            "Phục hồi sau tai biến",
+            "Chấn thương thể thao",
+            "Điều trị đau mạn tính"
+        ],
+        "achievements": [
+            "Phát triển phác đồ phục hồi chức năng tiên tiến"
+        ],
+        "awards": [
+            "Huân chương Lao động hạng Ba"
+        ],
+        "research_projects": [
+            "Nghiên cứu về cải tiến kỹ thuật phục hồi chức năng",
+            "Ứng dụng công nghệ robot trong phục hồi chức năng"
+        ],
+        "training": [
+            "Phó Giáo sư tại Đại học Y Hà Nội",
+            "Đào tạo chuyên sâu tại Đại học Melbourne, Úc"
+        ],
+        "experience": [
+            "Trưởng khoa Phục hồi Chức năng Bệnh viện Tâm Anh",
+            "Hơn 25 năm trong lĩnh vực phục hồi chức năng"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2021/03/bac-si-le-hoang.png"
+    },
+    {
+        "department": "5",
+        "id": "14",
+        "facility": "Phòng khám ĐK Tâm Anh Q7",
+        "name": "ThS.BS Hoàng Minh Tùng",
+        "position": "Chuyên gia Khoa Nội Tiêu hóa",
+        "academic_rank": null,
+        "academic_degree": "Thạc sĩ",
+        "introduction": "ThS.BS Hoàng Minh Tùng chuyên điều trị các bệnh lý tiêu hóa và gan mật, đặc biệt là viêm gan virus và hội chứng ruột kích thích.",
+        "organization_membership": "Hội Nội khoa Tiêu hóa Việt Nam.",
+        "specialized_fields": [
+            "Điều trị viêm gan virus",
+            "Hội chứng ruột kích thích",
+            "Nội soi tiêu hóa"
+        ],
+        "achievements": [
+            "Cải tiến phương pháp điều trị viêm gan B"
+        ],
+        "awards": [
+            "Bằng khen từ Hội Nội khoa Quốc tế"
+        ],
+        "research_projects": [
+            "Ứng dụng thuốc mới trong điều trị viêm gan",
+            "Chẩn đoán sớm ung thư đường tiêu hóa"
+        ],
+        "training": [
+            "Thạc sĩ tại Đại học Y Hà Nội",
+            "Đào tạo chuyên sâu tại Nhật Bản"
+        ],
+        "experience": [
+            "Chuyên gia tiêu hóa tại Bệnh viện Tâm Anh",
+            "15 năm trong điều trị nội khoa tiêu hóa"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2021/03/bac-si-le-hoang.png"
+    },
+    {
+        "department": "5",
+        "facility": "Phòng khám ĐK Tâm Anh Q7",
+        "id": "15",
+        "name": "GS.TS Đỗ Thanh Hải",
+        "position": "Chuyên gia Khoa Hô hấp",
+        "academic_rank": "Giáo sư",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "GS.TS Đỗ Thanh Hải là chuyên gia hàng đầu trong lĩnh vực điều trị các bệnh lý về hô hấp như hen phế quản, COPD, và lao phổi.",
+        "organization_membership": "Hội Hô hấp Quốc tế.",
+        "specialized_fields": [
+            "Hen phế quản",
+            "COPD",
+            "Lao phổi"
+        ],
+        "achievements": [
+            "Chứng nhận xuất sắc từ Hội Hô hấp Quốc tế"
+        ],
+        "awards": [
+            "Giải thưởng Y học Hô hấp"
+        ],
+        "research_projects": [
+            "Nghiên cứu ứng dụng thuốc sinh học trong điều trị hen phế quản",
+            "Cải tiến kỹ thuật chẩn đoán lao phổi"
+        ],
+        "training": [
+            "Đào tạo tại Đại học Y Hà Nội",
+            "Nghiên cứu tại Đại học Oxford, Anh"
+        ],
+        "experience": [
+            "Chuyên gia cố vấn tại các bệnh viện lớn trong và ngoài nước",
+            "Hơn 30 năm kinh nghiệm điều trị bệnh hô hấp"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2021/10/avt-bac-si-giao-su-ngo-quy-chau.png"
+    },
+    {
+        "department": "6",
+        "facility": "BVĐK Tâm Anh Hà Nội",
+        "id": "16",
+        "name": "ThS.BS Phạm Quang Duy",
+        "position": "Trưởng khoa Cấp cứu",
+        "academic_rank": null,
+        "academic_degree": "Thạc sĩ",
+        "introduction": "ThS.BS Phạm Quang Duy có nhiều kinh nghiệm trong xử lý các trường hợp cấp cứu nội khoa và ngoại khoa với sự chuyên nghiệp và nhanh nhạy.",
+        "organization_membership": "Hiệp hội Cấp cứu Việt Nam.",
+        "specialized_fields": [
+            "Cấp cứu nội khoa",
+            "Chăm sóc hồi sức",
+            "Chấn thương nặng"
+        ],
+        "achievements": [
+            "Triển khai phác đồ cấp cứu nhanh tại bệnh viện"
+        ],
+        "awards": [
+            "Bằng khen từ Bộ Y tế"
+        ],
+        "research_projects": [
+            "Phát triển kỹ thuật cấp cứu nhanh trong tai biến mạch máu não",
+            "Nghiên cứu về hiệu quả chăm sóc hồi sức cấp cứu"
+        ],
+        "training": [
+            "Thạc sĩ tại Đại học Y Hà Nội",
+            "Chứng chỉ chuyên môn tại Đại học Sydney, Úc"
+        ],
+        "experience": [
+            "Trưởng khoa Cấp cứu tại Bệnh viện Tâm Anh",
+            "Hơn 12 năm kinh nghiệm trong lĩnh vực cấp cứu"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2011/01/hoang-anh-dung-avt.png"
+    },
+    {
+        "department": "6",
+        "facility": "Phòng khám ĐK Tâm Anh Q7",
+        "id": "17",
+        "name": "TS.BS Nguyễn Văn Đức",
+        "position": "Chuyên gia Nội Thận - Lọc máu",
+        "academic_rank": null,
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Nguyễn Văn Đức chuyên về điều trị bệnh thận và các phương pháp lọc máu tiên tiến, mang lại hiệu quả điều trị cao cho bệnh nhân suy thận.",
+        "organization_membership": "Hội Nội Thận Quốc tế.",
+        "specialized_fields": [
+            "Suy thận",
+            "Lọc máu",
+            "Điều trị thận đa nang"
+        ],
+        "achievements": [
+            "Áp dụng công nghệ mới trong lọc máu tại Việt Nam"
+        ],
+        "awards": [
+            "Giải thưởng Cống hiến từ Hội Nội Thận Việt Nam"
+        ],
+        "research_projects": [
+            "Phân tích hiệu quả của máy lọc máu thế hệ mới",
+            "Điều trị thận mạn tính với liệu pháp ghép thận"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Dược TP. Hồ Chí Minh",
+            "Chuyên ngành thận học tại Đại học Nagoya, Nhật Bản"
+        ],
+        "experience": [
+            "Cố vấn chuyên môn tại các bệnh viện lớn",
+            "20 năm kinh nghiệm điều trị bệnh lý thận"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2023/03/nguyen-van-truong-avt.png"
+    },
+    {
+        "department": "6",
+        "facility": "Phòng khám ĐK Tâm Anh Q7",
+        "id": "18",
+        "name": "PGS.TS Trần Hoàng An",
+        "position": "Trưởng khoa Tai Mũi Họng",
+        "academic_rank": "Phó Giáo sư",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "PGS.TS Trần Hoàng An có chuyên môn cao trong điều trị và phẫu thuật các bệnh lý tai mũi họng, đặc biệt là phẫu thuật nội soi và điều trị các bệnh lý viêm xoang mạn tính.",
+        "organization_membership": "Hội Tai Mũi Họng Việt Nam.",
+        "specialized_fields": [
+            "Phẫu thuật nội soi tai mũi họng",
+            "Điều trị viêm xoang",
+            "U thanh quản"
+        ],
+        "achievements": [
+            "Đạt chứng nhận từ Hội Tai Mũi Họng Quốc tế"
+        ],
+        "awards": [
+            "Giải thưởng Y học Tài năng"
+        ],
+        "research_projects": [
+            "Ứng dụng công nghệ nội soi trong điều trị viêm xoang",
+            "Phát triển phương pháp mới điều trị u thanh quản"
+        ],
+        "training": [
+            "Phó Giáo sư tại Đại học Y Hà Nội",
+            "Chuyên ngành nội soi tại Đại học Leipzig, Đức"
+        ],
+        "experience": [
+            "Trưởng khoa Tai Mũi Họng tại Bệnh viện Tâm Anh",
+            "Hơn 25 năm kinh nghiệm trong lĩnh vực tai mũi họng"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2011/02/bs-nguyen-xuan-hien.png"
+    },
+    {
+        "department": "7",
+        "id": "19",
+        "facility": "Phòng khám ĐK Tâm Anh Q7",
+        "name": "ThS.BS Nguyễn Văn Bình",
+        "position": "Trưởng khoa Nội Tim mạch",
+        "academic_rank": null,
+        "academic_degree": "Thạc sĩ",
+        "introduction": "ThS.BS Nguyễn Văn Bình là chuyên gia trong điều trị các bệnh lý tim mạch như tăng huyết áp, bệnh mạch vành và suy tim với các phương pháp hiện đại.",
+        "organization_membership": "Hội Tim mạch Việt Nam.",
+        "specialized_fields": [
+            "Điều trị tăng huyết áp",
+            "Bệnh mạch vành",
+            "Suy tim"
+        ],
+        "achievements": [
+            "Ứng dụng công nghệ AI trong chẩn đoán tim mạch"
+        ],
+        "awards": [
+            "Bằng khen từ Hội Tim mạch Quốc tế"
+        ],
+        "research_projects": [
+            "Nghiên cứu phác đồ điều trị suy tim mạn",
+            "Ứng dụng thiết bị cấy ghép tim nhân tạo"
+        ],
+        "training": [
+            "Thạc sĩ tại Đại học Y Dược TP. Hồ Chí Minh",
+            "Đào tạo chuyên sâu tại Đại học Toronto, Canada"
+        ],
+        "experience": [
+            "Trưởng khoa Nội Tim mạch tại Bệnh viện Tâm Anh",
+            "15 năm kinh nghiệm trong điều trị bệnh lý tim mạch"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2023/03/tran-ngoc-huu-avt.png"
+    },
+    {
+        "department": "7",
+        "facility": "Phòng khám ĐK Tâm Anh Q7",
+        "id": "20",
+        "name": "TS.BS Nguyễn Thu Trang",
+        "position": "Chuyên gia Nội Nhiễm",
+        "academic_rank": null,
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Nguyễn Thu Trang chuyên về điều trị các bệnh lý truyền nhiễm, đặc biệt là sốt xuất huyết, viêm gan virus và các bệnh nhiễm khuẩn kháng thuốc.",
+        "organization_membership": "Hội Truyền nhiễm Việt Nam.",
+        "specialized_fields": [
+            "Sốt xuất huyết",
+            "Viêm gan virus",
+            "Nhiễm khuẩn kháng thuốc"
+        ],
+        "achievements": [
+            "Phát triển phác đồ điều trị sốt xuất huyết giai đoạn nặng"
+        ],
+        "awards": [
+            "Giải thưởng Khoa học Truyền nhiễm"
+        ],
+        "research_projects": [
+            "Nghiên cứu về hiệu quả thuốc kháng virus mới",
+            "Ứng dụng công nghệ sinh học trong điều trị nhiễm khuẩn"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Hà Nội",
+            "Chứng chỉ điều trị bệnh truyền nhiễm tại Mỹ"
+        ],
+        "experience": [
+            "Chuyên gia cố vấn tại Bệnh viện Bệnh nhiệt đới",
+            "20 năm kinh nghiệm điều trị bệnh lý truyền nhiễm"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2024/08/le-thi-viet-hoa-avt.png"
+    },
+    {
+        "department": "7",
+        "facility": "Phòng khám ĐK Tâm Anh Q7",
+        "id": "21",
+        "name": "ThS.BS Lê Minh Tuấn",
+        "position": "Trưởng khoa Ngoại Thần kinh",
+        "academic_rank": null,
+        "academic_degree": "Thạc sĩ",
+        "introduction": "ThS.BS Lê Minh Tuấn chuyên sâu trong phẫu thuật thần kinh, đặc biệt là các bệnh lý liên quan đến cột sống và não bộ.",
+        "organization_membership": "Hội Ngoại Thần kinh Việt Nam.",
+        "specialized_fields": [
+            "Phẫu thuật cột sống",
+            "Phẫu thuật u não",
+            "Điều trị thoát vị đĩa đệm"
+        ],
+        "achievements": [
+            "Đóng góp cải tiến kỹ thuật vi phẫu thần kinh tại bệnh viện"
+        ],
+        "awards": [
+            "Giải thưởng Thành tựu Y khoa"
+        ],
+        "research_projects": [
+            "Ứng dụng robot trong phẫu thuật cột sống",
+            "Nghiên cứu bệnh lý thoái hóa thần kinh"
+        ],
+        "training": [
+            "Thạc sĩ tại Đại học Y Dược TP. Hồ Chí Minh",
+            "Đào tạo chuyên sâu tại Đức"
+        ],
+        "experience": [
+            "Trưởng khoa Ngoại Thần kinh tại Bệnh viện Tâm Anh",
+            "20 năm kinh nghiệm trong phẫu thuật thần kinh"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2024/10/bac-si-phung-huy-tuan-avt.png"
+    },
+    {
+        "department": "8",
+        "facility": "BVĐK Tâm Anh Hà Nội",
+        "id": "22",
+        "name": "TS.BS Phạm Minh Huy",
+        "position": "Chuyên gia Nội Nội tiết",
+        "academic_rank": null,
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Phạm Minh Huy có kinh nghiệm điều trị các bệnh lý nội tiết như đái tháo đường, cường giáp, và rối loạn chuyển hóa.",
+        "organization_membership": "Hội Nội tiết và Đái tháo đường Việt Nam.",
+        "specialized_fields": [
+            "Đái tháo đường",
+            "Cường giáp",
+            "Rối loạn chuyển hóa"
+        ],
+        "achievements": [
+            "Phát triển phác đồ điều trị tiên tiến cho bệnh nhân đái tháo đường"
+        ],
+        "awards": [
+            "Bằng khen từ Hội Nội tiết"
+        ],
+        "research_projects": [
+            "Nghiên cứu thuốc mới cho điều trị tiểu đường",
+            "Ứng dụng công nghệ đo đường huyết liên tục"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Hà Nội",
+            "Chứng chỉ chuyên ngành tại Đại học Harvard"
+        ],
+        "experience": [
+            "Cố vấn tại các bệnh viện lớn",
+            "15 năm kinh nghiệm điều trị nội tiết"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2011/01/bs-le-dang-khoa-avt.png"
+    },
+    {
+        "department": "8",
+        "facility": "BVĐK Tâm Anh Hà Nội",
+        "id": "23",
+        "name": "PGS.TS Trần Thị Hạnh",
+        "position": "Trưởng khoa Ung bướu",
+        "academic_rank": "Phó Giáo sư",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "PGS.TS Trần Thị Hạnh là chuyên gia đầu ngành trong điều trị ung thư, đặc biệt với các phương pháp xạ trị và hóa trị tiên tiến.",
+        "organization_membership": "Hiệp hội Ung thư Quốc tế.",
+        "specialized_fields": [
+            "Xạ trị ung thư",
+            "Hóa trị liệu",
+            "Ung thư vú"
+        ],
+        "achievements": [
+            "Đạt nhiều thành tựu trong điều trị ung thư tại Việt Nam"
+        ],
+        "awards": [
+            "Giải thưởng Ung bướu Quốc tế"
+        ],
+        "research_projects": [
+            "Ứng dụng công nghệ xạ trị Proton",
+            "Phát triển thuốc hóa trị thế hệ mới"
+        ],
+        "training": [
+            "Phó Giáo sư tại Đại học Y Hà Nội",
+            "Nghiên cứu tại Đại học Johns Hopkins"
+        ],
+        "experience": [
+            "Trưởng khoa Ung bướu tại Bệnh viện Tâm Anh",
+            "Hơn 25 năm kinh nghiệm trong điều trị ung thư"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2011/01/bac-si-nguyen-thi-lien-huong-avt.png"
+    },
+    {
+        "department": "8",
+        "facility": "BVĐK Tâm Anh Hà Nội",
+        "id": "24",
+        "name": "ThS.BS Lê Thị Kim Lan",
+        "position": "Chuyên gia Khoa Nhi",
+        "academic_rank": null,
+        "academic_degree": "Thạc sĩ",
+        "introduction": "ThS.BS Lê Thị Kim Lan có nhiều kinh nghiệm trong chăm sóc và điều trị bệnh lý trẻ em như sốt xuất huyết, suy dinh dưỡng và nhiễm khuẩn.",
+        "organization_membership": "Hội Nhi khoa Việt Nam.",
+        "specialized_fields": [
+            "Sốt xuất huyết ở trẻ em",
+            "Suy dinh dưỡng",
+            "Nhiễm khuẩn đường hô hấp"
+        ],
+        "achievements": [
+            "Phát triển chương trình dinh dưỡng cộng đồng cho trẻ"
+        ],
+        "awards": [
+            "Bằng khen từ Bộ Y tế"
+        ],
+        "research_projects": [
+            "Nghiên cứu dinh dưỡng cho trẻ em dưới 5 tuổi",
+            "Ứng dụng phương pháp điều trị mới cho bệnh nhiễm khuẩn"
+        ],
+        "training": [
+            "Thạc sĩ tại Đại học Y Dược TP. Hồ Chí Minh",
+            "Đào tạo nâng cao tại Đại học Tokyo, Nhật Bản"
+        ],
+        "experience": [
+            "Chuyên gia khoa Nhi tại Bệnh viện Tâm Anh",
+            "20 năm chăm sóc sức khỏe trẻ em"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2021/09/phan-thi-xuan-avt.png"
+    },
+    {
+        "department": "9",
+        "facility": "BVĐK Tâm Anh Hà Nội",
+        "id": "25",
+        "name": "TS.BS Hoàng Văn Tùng",
+        "position": "Chuyên gia Khoa Dị ứng và Miễn dịch lâm sàng",
+        "academic_rank": null,
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Hoàng Văn Tùng chuyên điều trị các bệnh lý dị ứng và miễn dịch như viêm mũi dị ứng, lupus ban đỏ hệ thống và các bệnh tự miễn.",
+        "organization_membership": "Hội Miễn dịch học Quốc tế.",
+        "specialized_fields": [
+            "Dị ứng thuốc",
+            "Lupus ban đỏ",
+            "Bệnh tự miễn"
+        ],
+        "achievements": [
+            "Đạt chứng nhận từ Hội Miễn dịch học Quốc tế"
+        ],
+        "awards": [
+            "Giải thưởng Khoa học Dị ứng"
+        ],
+        "research_projects": [
+            "Phát triển liệu pháp miễn dịch cho lupus",
+            "Ứng dụng công nghệ gene trong điều trị bệnh dị ứng"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Hà Nội",
+            "Chứng chỉ về miễn dịch tại Đại học Stanford"
+        ],
+        "experience": [
+            "Chuyên gia tại Bệnh viện Bạch Mai",
+            "15 năm kinh nghiệm điều trị miễn dịch"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2022/06/bac-si-nguyen-duc-hinh-avt.png"
+    },
+    {
+        "department": "9",
+        "facility": "BVĐK Tâm Anh Hà Nội",
+        "id": "26",
+        "name": "TS.BS Phan Thị Minh",
+        "position": "Chuyên gia Nội Hô hấp",
+        "academic_rank": null,
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Phan Thị Minh là chuyên gia về bệnh lý hô hấp, đặc biệt là hen phế quản, COPD, và bệnh phổi nhiễm khuẩn.",
+        "organization_membership": "Hội Hô hấp Quốc tế.",
+        "specialized_fields": [
+            "Hen phế quản",
+            "COPD",
+            "Nhiễm khuẩn đường hô hấp"
+        ],
+        "achievements": [
+            "Triển khai kỹ thuật đo chức năng phổi tiên tiến"
+        ],
+        "awards": [
+            "Giải thưởng Cống hiến ngành Hô hấp"
+        ],
+        "research_projects": [
+            "Nghiên cứu thuốc mới điều trị COPD",
+            "Ứng dụng kỹ thuật điều trị không xâm lấn trong hen phế quản"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Hà Nội",
+            "Đào tạo chuyên sâu tại Anh"
+        ],
+        "experience": [
+            "15 năm kinh nghiệm trong điều trị bệnh lý hô hấp",
+            "Cố vấn chuyên môn tại các bệnh viện lớn"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2011/01/luu-thi-hong-avt.png"
+    },
+    {
+        "department": "9",
+        "facility": "BVĐK Tâm Anh Hà Nội",
+        "id": "27",
+        "name": "ThS.BS Nguyễn Văn Hiếu",
+        "position": "Chuyên gia Ngoại Chấn thương chỉnh hình",
+        "academic_rank": null,
+        "academic_degree": "Thạc sĩ",
+        "introduction": "ThS.BS Nguyễn Văn Hiếu có kinh nghiệm xử lý chấn thương phức tạp và phẫu thuật chỉnh hình hiện đại.",
+        "organization_membership": "Hội Chấn thương Chỉnh hình Việt Nam.",
+        "specialized_fields": [
+            "Chấn thương cột sống",
+            "Chỉnh hình chi dưới",
+            "Phẫu thuật nội soi khớp"
+        ],
+        "achievements": [
+            "Triển khai kỹ thuật phẫu thuật nội soi tiên tiến"
+        ],
+        "awards": [
+            "Bằng khen từ Bộ Y tế"
+        ],
+        "research_projects": [
+            "Nghiên cứu công nghệ robot hỗ trợ phẫu thuật chỉnh hình",
+            "Ứng dụng vật liệu sinh học trong chấn thương"
+        ],
+        "training": [
+            "Thạc sĩ tại Đại học Y Dược TP. Hồ Chí Minh",
+            "Học bổng nghiên cứu tại Đức"
+        ],
+        "experience": [
+            "Trưởng khoa Ngoại tại Bệnh viện Tâm Anh",
+            "15 năm kinh nghiệm trong lĩnh vực chấn thương"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2011/01/nguyen-van-lieu-avt.png"
+    },
+    {
+        "department": "10",
+        "facility": "BVĐK Tâm Anh Hà Nội",
+        "id": "28",
+        "name": "PGS.TS Nguyễn Đức Minh",
+        "position": "Trưởng khoa Nội tiêu hóa",
+        "academic_rank": "Phó Giáo sư",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "PGS.TS Nguyễn Đức Minh có chuyên môn cao trong điều trị bệnh lý tiêu hóa, đặc biệt là nội soi tiêu hóa và điều trị viêm gan.",
+        "organization_membership": "Hội Tiêu hóa Việt Nam.",
+        "specialized_fields": [
+            "Nội soi tiêu hóa",
+            "Viêm gan",
+            "Bệnh lý dạ dày-tá tràng"
+        ],
+        "achievements": [
+            "Triển khai kỹ thuật nội soi tiêu hóa tiên tiến"
+        ],
+        "awards": [
+            "Giải thưởng Y học Tiêu hóa Quốc tế"
+        ],
+        "research_projects": [
+            "Ứng dụng công nghệ AI trong nội soi tiêu hóa",
+            "Điều trị viêm gan virus bằng thuốc kháng virus thế hệ mới"
+        ],
+        "training": [
+            "Phó Giáo sư tại Đại học Y Hà Nội",
+            "Đào tạo chuyên sâu tại Nhật Bản"
+        ],
+        "experience": [
+            "Trưởng khoa Tiêu hóa tại Bệnh viện Tâm Anh",
+            "Hơn 20 năm kinh nghiệm trong điều trị tiêu hóa"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2023/07/ngo-van-hao-avt.png"
+    },
+    {
+        "department": "10",
+        "facility": "BVĐK Tâm Anh Hà Nội",
+        "id": "29",
+        "name": "TS.BS Đặng Thị Hương",
+        "position": "Chuyên gia Nội Nội tiết - Đái tháo đường",
+        "academic_rank": null,
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Đặng Thị Hương có nhiều đóng góp trong nghiên cứu và điều trị bệnh lý nội tiết và đái tháo đường.",
+        "organization_membership": "Hội Nội tiết và Đái tháo đường Quốc tế.",
+        "specialized_fields": [
+            "Đái tháo đường",
+            "Rối loạn lipid máu",
+            "Cường giáp"
+        ],
+        "achievements": [
+            "Ứng dụng công nghệ mới trong theo dõi đường huyết"
+        ],
+        "awards": [
+            "Giải thưởng Nghiên cứu Y học Nội tiết"
+        ],
+        "research_projects": [
+            "Ứng dụng AI trong theo dõi đường huyết liên tục",
+            "Phát triển thuốc thế hệ mới điều trị tiểu đường"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Hà Nội",
+            "Chuyên ngành nội tiết tại Đại học Melbourne"
+        ],
+        "experience": [
+            "Chuyên gia cố vấn tại Bệnh viện Tâm Anh",
+            "Hơn 15 năm kinh nghiệm điều trị nội tiết"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2011/01/bs-nguyen-thi-minh-duc-avt.png"
+    },
+    {
+        "department": "10",
+        "facility": "BVĐK Tâm Anh Hà Nội",
+        "id": "30",
+        "name": "ThS.BS Phạm Văn Hải",
+        "position": "Chuyên gia Ngoại Tim mạch",
+        "academic_rank": null,
+        "academic_degree": "Thạc sĩ",
+        "introduction": "ThS.BS Phạm Văn Hải là chuyên gia phẫu thuật tim mạch với các kỹ thuật can thiệp tiên tiến và hiệu quả.",
+        "organization_membership": "Hội Tim mạch Việt Nam.",
+        "specialized_fields": [
+            "Phẫu thuật tim mạch",
+            "Can thiệp mạch vành",
+            "Điều trị bệnh lý van tim"
+        ],
+        "achievements": [
+            "Đạt chứng nhận về kỹ thuật can thiệp tiên tiến"
+        ],
+        "awards": [
+            "Giải thưởng Cống hiến ngành Tim mạch"
+        ],
+        "research_projects": [
+            "Phát triển phương pháp phẫu thuật không xâm lấn trong điều trị tim mạch",
+            "Ứng dụng vật liệu sinh học trong ghép tim"
+        ],
+        "training": [
+            "Thạc sĩ tại Đại học Y Dược TP. Hồ Chí Minh",
+            "Đào tạo chuyên sâu tại Mỹ"
+        ],
+        "experience": [
+            "15 năm kinh nghiệm phẫu thuật tim mạch",
+            "Chuyên gia cố vấn tại các bệnh viện lớn"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2023/08/nguyen-duc-anh-avt.png"
+    },
+    {
+        "department": "11",
+        "facility": "BVĐK Tâm Anh Hà Nội",
+        "id": "31",
+        "name": "TS.BS Nguyễn Văn Thành",
+        "position": "Chuyên gia Ngoại Lồng ngực",
+        "academic_rank": null,
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Nguyễn Văn Thành là chuyên gia trong lĩnh vực phẫu thuật lồng ngực và điều trị các bệnh lý phổi, màng phổi và trung thất.",
+        "organization_membership": "Hội Phẫu thuật Lồng ngực Quốc tế.",
+        "specialized_fields": [
+            "Phẫu thuật ung thư phổi",
+            "Điều trị u trung thất",
+            "Phẫu thuật nội soi lồng ngực"
+        ],
+        "achievements": [
+            "Phát triển kỹ thuật nội soi tiên tiến trong phẫu thuật phổi"
+        ],
+        "awards": [
+            "Giải thưởng Khoa học Y học Quốc tế"
+        ],
+        "research_projects": [
+            "Nghiên cứu điều trị ung thư phổi bằng phương pháp mới",
+            "Ứng dụng công nghệ robot trong phẫu thuật lồng ngực"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Hà Nội",
+            "Đào tạo chuyên sâu tại Pháp"
+        ],
+        "experience": [
+            "15 năm kinh nghiệm trong phẫu thuật lồng ngực",
+            "Cố vấn chuyên môn tại các bệnh viện lớn"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2011/01/ts-bs-nguyen-van-tuan-avt.png"
+    },
+    {
+        "department": "11",
+        "facility": "BVĐK Tâm Anh Hà Nội",
+        "id": "32",
+        "name": "ThS.BS Trần Thị Lan Anh",
+        "position": "Chuyên gia Nội Da liễu",
+        "academic_rank": null,
+        "academic_degree": "Thạc sĩ",
+        "introduction": "ThS.BS Trần Thị Lan Anh có chuyên môn sâu trong điều trị bệnh da liễu như vảy nến, viêm da cơ địa và các bệnh da do miễn dịch.",
+        "organization_membership": "Hội Da liễu Việt Nam.",
+        "specialized_fields": [
+            "Vảy nến",
+            "Viêm da cơ địa",
+            "Bệnh da do miễn dịch"
+        ],
+        "achievements": [
+            "Triển khai phác đồ điều trị cá nhân hóa cho bệnh nhân da liễu"
+        ],
+        "awards": [
+            "Bằng khen từ Hội Da liễu"
+        ],
+        "research_projects": [
+            "Ứng dụng liệu pháp sinh học trong điều trị vảy nến",
+            "Phát triển công nghệ laser mới trong điều trị da"
+        ],
+        "training": [
+            "Thạc sĩ tại Đại học Y Dược TP. Hồ Chí Minh",
+            "Đào tạo chuyên sâu tại Hàn Quốc"
+        ],
+        "experience": [
+            "Hơn 10 năm kinh nghiệm điều trị bệnh da liễu",
+            "Cố vấn cho các bệnh viện chuyên ngành"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2011/01/dang-hong-hoa-avt.png"
+    },
+    {
+        "department": "11",
+        "facility": "BVĐK Tâm Anh Hà Nội",
+        "id": "33",
+        "name": "TS.BS Đỗ Minh Quân",
+        "position": "Chuyên gia Nội Cơ xương khớp",
+        "academic_rank": null,
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Đỗ Minh Quân có chuyên môn cao trong điều trị các bệnh lý cơ xương khớp như viêm khớp, loãng xương, và thoái hóa khớp.",
+        "organization_membership": "Hội Cơ Xương Khớp Quốc tế.",
+        "specialized_fields": [
+            "Thoái hóa khớp",
+            "Viêm khớp dạng thấp",
+            "Loãng xương"
+        ],
+        "achievements": [
+            "Triển khai kỹ thuật tiêm nội khớp tiên tiến"
+        ],
+        "awards": [
+            "Giải thưởng Nghiên cứu Y học Cơ Xương Khớp"
+        ],
+        "research_projects": [
+            "Nghiên cứu thuốc điều trị viêm khớp",
+            "Ứng dụng vật liệu mới trong điều trị loãng xương"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Hà Nội",
+            "Chứng chỉ chuyên ngành tại Đại học Cambridge"
+        ],
+        "experience": [
+            "15 năm kinh nghiệm trong điều trị bệnh cơ xương khớp",
+            "Tham gia nghiên cứu quốc tế về bệnh xương khớp"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2011/01/bs-le-minh-ky.png"
+    },
+    {
+        "department": "12",
+        "facility": "BVĐK Tâm Anh TP. HCM",
+        "id": "34",
+        "name": "PGS.TS Nguyễn Thu Hà",
+        "position": "Trưởng khoa Nội Nhiễm",
+        "academic_rank": "Phó Giáo sư",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "PGS.TS Nguyễn Thu Hà là chuyên gia đầu ngành trong điều trị các bệnh lý nhiễm trùng, đặc biệt là bệnh lý nhiễm khuẩn huyết và nhiễm virus. Bà có nhiều nghiên cứu quan trọng về vi khuẩn kháng thuốc và các phương pháp điều trị nhiễm trùng mới.",
+        "organization_membership": "Hội Nhiễm khuẩn Việt Nam, Hội Nhiễm trùng Quốc tế",
+        "specialized_fields": [
+            "Nhiễm khuẩn huyết",
+            "Nhiễm virus",
+            "Kháng sinh và kháng thuốc"
+        ],
+        "achievements": [
+            "Nghiên cứu tiên phong trong điều trị vi khuẩn kháng thuốc"
+        ],
+        "awards": [
+            "Giải thưởng Khoa học Y tế Quốc gia"
+        ],
+        "research_projects": [
+            "Phát triển phương pháp điều trị mới cho nhiễm khuẩn huyết",
+            "Nghiên cứu về kháng sinh mới điều trị nhiễm khuẩn kháng thuốc"
+        ],
+        "training": [
+            "Phó Giáo sư tại Đại học Y Hà Nội",
+            "Đào tạo tại các trung tâm y tế quốc tế tại Mỹ và Châu Âu"
+        ],
+        "experience": [
+            "Hơn 20 năm kinh nghiệm trong điều trị nhiễm trùng",
+            "Cố vấn y tế cho các bệnh viện lớn trong nước và quốc tế"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2011/01/bac-si-chu-thi-hanh.png"
+    },
+    {
+        "department": "12",
+        "facility": "BVĐK Tâm Anh TP. HCM",
+        "id": "35",
+        "name": "TS.BS Nguyễn Thiên Tài",
+        "position": "Chuyên gia Ngoại Niệu",
+        "academic_rank": null,
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Nguyễn Thiên Tài là chuyên gia trong lĩnh vực phẫu thuật niệu khoa, đặc biệt là phẫu thuật cắt thận, phẫu thuật niệu đạo và điều trị các bệnh lý niệu khoa khác. Ông cũng nghiên cứu sâu về các bệnh lý sinh lý đường tiết niệu.",
+        "organization_membership": "Hội Niệu khoa Việt Nam, Hội Niệu khoa Quốc tế",
+        "specialized_fields": [
+            "Phẫu thuật thận",
+            "Phẫu thuật niệu đạo",
+            "Bệnh lý sinh lý đường tiết niệu"
+        ],
+        "achievements": [
+            "Đạt chứng nhận về kỹ thuật phẫu thuật niệu khoa tiên tiến"
+        ],
+        "awards": [
+            "Giải thưởng Y học Niệu khoa Quốc tế"
+        ],
+        "research_projects": [
+            "Nghiên cứu phương pháp phẫu thuật niệu đạo ít xâm lấn",
+            "Ứng dụng kỹ thuật mới trong điều trị sỏi thận"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Dược TP. Hồ Chí Minh",
+            "Đào tạo tại các bệnh viện uy tín quốc tế tại Nhật Bản và Mỹ"
+        ],
+        "experience": [
+            "15 năm kinh nghiệm trong điều trị niệu khoa",
+            "Giảng viên và nghiên cứu tại các hội nghị y học quốc tế"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2011/01/bs-trinh-tuan-dung-avt.png"
+    },
+    {
+        "department": "12",
+        "id": "36",
+        "facility": "BVĐK Tâm Anh TP. HCM",
+        "name": "TS.BS Nguyễn Minh Tuấn",
+        "position": "Chuyên gia Ngoại Tổng quát",
+        "academic_rank": null,
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Nguyễn Minh Tuấn là chuyên gia trong lĩnh vực ngoại khoa, đặc biệt là phẫu thuật các bệnh lý về đường tiêu hóa, nội tiết và các phẫu thuật khác. Ông đã thực hiện hàng ngàn ca phẫu thuật thành công và có nhiều sáng kiến trong việc cải thiện kỹ thuật mổ nội soi.",
+        "organization_membership": "Hội Ngoại khoa Việt Nam, Hội Phẫu thuật nội soi Quốc tế",
+        "specialized_fields": [
+            "Ngoại khoa đường tiêu hóa",
+            "Phẫu thuật nội soi",
+            "Phẫu thuật điều trị u bướu"
+        ],
+        "achievements": [
+            "Sáng chế phương pháp mổ nội soi tiên tiến giúp giảm đau và thời gian hồi phục cho bệnh nhân"
+        ],
+        "awards": [
+            "Giải thưởng Y tế Quốc gia",
+            "Chứng nhận chuyên gia ngoại khoa hàng đầu"
+        ],
+        "research_projects": [
+            "Nghiên cứu về phương pháp mổ nội soi trong điều trị ung thư đại trực tràng",
+            "Ứng dụng công nghệ cao trong phẫu thuật u bướu"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Hà Nội",
+            "Đào tạo tại các bệnh viện hàng đầu tại Mỹ và Châu Âu"
+        ],
+        "experience": [
+            "Hơn 18 năm kinh nghiệm trong phẫu thuật ngoại khoa",
+            "Giảng viên tại Đại học Y Hà Nội và các hội nghị y học quốc tế"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2011/01/nguyen-hoag-duc-avt.png"
+    },
+    {
+        "department": "13",
+        "id": "37",
+        "facility": "BVĐK Tâm Anh TP. HCM",
+        "name": "PGS.TS Nguyễn Thị Lan",
+        "position": "Chuyên gia Sản phụ khoa",
+        "academic_rank": "Phó Giáo sư",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "PGS.TS Nguyễn Thị Lan là chuyên gia về sản phụ khoa, đặc biệt trong việc điều trị vô sinh hiếm muộn, thụ tinh trong ống nghiệm (IVF) và các vấn đề sức khỏe sinh sản của phụ nữ. Bà đã có hơn 20 năm nghiên cứu và điều trị cho hàng ngàn ca vô sinh, giúp nhiều cặp vợ chồng có được niềm hạnh phúc làm cha mẹ.",
+        "organization_membership": "Hội Phụ sản Việt Nam, Hội Vô sinh và Hiếm muộn Quốc tế",
+        "specialized_fields": [
+            "Vô sinh hiếm muộn",
+            "Thụ tinh trong ống nghiệm",
+            "Chăm sóc sức khỏe sinh sản cho phụ nữ"
+        ],
+        "achievements": [
+            "Được công nhận là chuyên gia IVF hàng đầu Việt Nam"
+        ],
+        "awards": [
+            "Giải thưởng Y học Quốc gia",
+            "Huy chương vàng trong lĩnh vực IVF"
+        ],
+        "research_projects": [
+            "Nghiên cứu về các phương pháp điều trị vô sinh cho phụ nữ tuổi cao",
+            "Ứng dụng phương pháp mới trong thụ tinh trong ống nghiệm"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Dược TP. Hồ Chí Minh",
+            "Đào tạo tại các bệnh viện lớn tại Pháp và Nhật Bản"
+        ],
+        "experience": [
+            "20 năm kinh nghiệm trong điều trị vô sinh và hiếm muộn",
+            "Cố vấn cho nhiều trung tâm IVF và các bệnh viện lớn trong nước"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2011/01/le-to-nhu-avt.png"
+    },
+    {
+        "department": "13",
+        "id": "38",
+        "facility": "BVĐK Tâm Anh TP. HCM",
+        "name": "TS.BS Trần Hoàng Hải",
+        "position": "Chuyên gia Ngoại thần kinh",
+        "academic_rank": "Tiến sĩ",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Trần Hoàng Hải là chuyên gia hàng đầu về phẫu thuật thần kinh, đặc biệt là phẫu thuật các bệnh lý về não và cột sống. Ông đã tham gia nhiều nghiên cứu về các phương pháp điều trị chấn thương não và cột sống, giúp cải thiện tỉ lệ phục hồi cho bệnh nhân sau phẫu thuật.",
+        "organization_membership": "Hội Thần kinh học Việt Nam, Hội Phẫu thuật thần kinh Quốc tế",
+        "specialized_fields": [
+            "Phẫu thuật thần kinh",
+            "Chấn thương sọ não",
+            "Điều trị bệnh lý cột sống"
+        ],
+        "achievements": [
+            "Được công nhận là chuyên gia thần kinh hàng đầu Việt Nam"
+        ],
+        "awards": [
+            "Giải thưởng Y tế xuất sắc",
+            "Giải thưởng Công nghệ y học quốc tế"
+        ],
+        "research_projects": [
+            "Nghiên cứu về phương pháp phẫu thuật cột sống không cần mổ mở",
+            "Ứng dụng công nghệ cao trong điều trị chấn thương sọ não"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Hà Nội",
+            "Đào tạo tại các bệnh viện lớn ở Mỹ và Nhật Bản"
+        ],
+        "experience": [
+            "Hơn 15 năm kinh nghiệm trong phẫu thuật thần kinh",
+            "Giảng viên tại Đại học Y Hà Nội và các hội nghị quốc tế"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2014/12/avt-bac-si-duc-nhuan-1.png"
+    },
+    {
+        "department": "13",
+        "id": "39",
+        "facility": "BVĐK Tâm Anh TP. HCM",
+        "name": "PGS.TS Nguyễn Thị Lan",
+        "position": "Chuyên gia Nội khoa",
+        "academic_rank": "Phó Giáo sư",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "PGS.TS Nguyễn Thị Lan là chuyên gia về nội khoa, với nhiều năm kinh nghiệm trong việc điều trị các bệnh lý tim mạch và hô hấp. Bà đã công tác tại các bệnh viện lớn, tham gia nhiều nghiên cứu khoa học giúp cải thiện việc chẩn đoán và điều trị các bệnh lý này.",
+        "organization_membership": "Hội Nội khoa Việt Nam, Hội Tim mạch Quốc tế",
+        "specialized_fields": [
+            "Tim mạch",
+            "Hô hấp",
+            "Điều trị bệnh lý mãn tính"
+        ],
+        "achievements": [
+            "Giải thưởng nghiên cứu y khoa quốc tế",
+            "Được công nhận là chuyên gia trong điều trị bệnh tim mạch"
+        ],
+        "awards": [
+            "Giải thưởng nghiên cứu khoa học quốc gia",
+            "Giải thưởng nội khoa xuất sắc"
+        ],
+        "research_projects": [
+            "Nghiên cứu về phương pháp điều trị bệnh lý tim mạch bằng thuốc mới",
+            "Ứng dụng công nghệ trong chẩn đoán và điều trị bệnh hô hấp"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Hà Nội",
+            "Đào tạo tại các bệnh viện lớn ở Đức và Mỹ"
+        ],
+        "experience": [
+            "Hơn 20 năm kinh nghiệm trong lĩnh vực nội khoa",
+            "Giảng viên tại Đại học Y Dược TP.HCM"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2011/02/bs-le-thi-diem-tuyet-avt.png"
+    },
+    {
+        "department": "14",
+        "id": "40",
+        "facility": "BVĐK Tâm Anh TP. HCM",
+        "name": "TS.BS Lê Thị Thu Hằng",
+        "position": "Chuyên gia Ngoại thần kinh",
+        "academic_rank": "Tiến sĩ",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Lê Thị Thu Hằng là chuyên gia về ngoại thần kinh, đặc biệt trong các ca phẫu thuật điều trị các bệnh lý về thần kinh ngoại vi và đột quỵ. Bà đã có nhiều sáng kiến trong việc ứng dụng công nghệ mới trong chẩn đoán và điều trị.",
+        "organization_membership": "Hội Thần kinh học Việt Nam, Hội Ngoại thần kinh Quốc tế",
+        "specialized_fields": [
+            "Ngoại thần kinh",
+            "Điều trị đột quỵ",
+            "Chấn thương hệ thần kinh ngoại vi"
+        ],
+        "achievements": [
+            "Giải thưởng Y khoa xuất sắc về ngoại thần kinh"
+        ],
+        "awards": [
+            "Huy chương vàng trong nghiên cứu y học",
+            "Giải thưởng công trình nghiên cứu đột phá"
+        ],
+        "research_projects": [
+            "Nghiên cứu về ứng dụng công nghệ mới trong điều trị đột quỵ",
+            "Phát triển phương pháp phẫu thuật thần kinh tối ưu"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Hà Nội",
+            "Đào tạo tại các bệnh viện hàng đầu ở Nhật Bản và Mỹ"
+        ],
+        "experience": [
+            "Hơn 12 năm kinh nghiệm trong ngoại thần kinh",
+            "Thực hiện nhiều ca phẫu thuật điều trị đột quỵ và các bệnh lý thần kinh nặng"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2023/04/ths-bs-chau-thi-ngoc-anh.png"
+    },
+    {
+        "department": "14",
+        "id": "41",
+        "facility": "BVĐK Tâm Anh TP. HCM",
+        "name": "TS.BS Nguyễn Hoàng Duy",
+        "position": "Chuyên gia Tai mũi họng",
+        "academic_rank": "Tiến sĩ",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Nguyễn Hoàng Duy là chuyên gia về tai mũi họng, chuyên điều trị các bệnh lý về tai, mũi, họng và phẫu thuật điều trị bệnh lý vùng cổ. Ông là một trong những bác sĩ tiên phong trong việc áp dụng kỹ thuật phẫu thuật nội soi vào điều trị các bệnh lý vùng tai mũi họng.",
+        "organization_membership": "Hội Tai Mũi Họng Việt Nam, Hội Tai Mũi Họng Quốc tế",
+        "specialized_fields": [
+            "Điều trị bệnh lý tai mũi họng",
+            "Phẫu thuật nội soi vùng cổ"
+        ],
+        "achievements": [
+            "Được công nhận là chuyên gia phẫu thuật nội soi vùng cổ hàng đầu"
+        ],
+        "awards": [
+            "Giải thưởng Y khoa xuất sắc",
+            "Chứng nhận chuyên gia về phẫu thuật tai mũi họng"
+        ],
+        "research_projects": [
+            "Nghiên cứu về phẫu thuật nội soi trong điều trị các bệnh lý tai mũi họng",
+            "Cải tiến kỹ thuật mổ nội soi giúp phục hồi nhanh hơn"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Dược TP.HCM",
+            "Đào tạo tại các bệnh viện lớn ở Pháp và Đức"
+        ],
+        "experience": [
+            "Hơn 10 năm kinh nghiệm trong điều trị các bệnh lý tai mũi họng",
+            "Giảng viên tại Đại học Y Hà Nội và các hội nghị quốc tế"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2011/02/bs-nguyen-duy-trinh.png"
+    },
+    {
+        "department": "14",
+        "id": "42",
+        "facility": "BVĐK Tâm Anh TP. HCM",
+        "name": "TS.BS Vũ Quang Hưng",
+        "position": "Chuyên gia Ngoại khoa",
+        "academic_rank": "Tiến sĩ",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Vũ Quang Hưng là chuyên gia trong lĩnh vực ngoại khoa, đặc biệt trong điều trị các bệnh lý liên quan đến các cơ quan nội tạng và các bệnh lý phẫu thuật cấp cứu. Ông nổi bật với những kỹ thuật mổ tiên tiến và khả năng điều trị hiệu quả các ca phẫu thuật khó.",
+        "organization_membership": "Hội Ngoại khoa Việt Nam, Hội Phẫu thuật Quốc tế",
+        "specialized_fields": [
+            "Ngoại khoa nội tạng",
+            "Phẫu thuật cấp cứu"
+        ],
+        "achievements": [
+            "Sáng chế phương pháp mổ giảm thiểu tổn thương cho bệnh nhân"
+        ],
+        "awards": [
+            "Giải thưởng Y học quốc gia",
+            "Chứng nhận về phẫu thuật an toàn và hiệu quả"
+        ],
+        "research_projects": [
+            "Nghiên cứu về kỹ thuật mổ nội tạng ít xâm lấn",
+            "Ứng dụng công nghệ mới trong phẫu thuật cấp cứu"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Hà Nội",
+            "Đào tạo tại các bệnh viện hàng đầu ở Mỹ và Nhật Bản"
+        ],
+        "experience": [
+            "Hơn 18 năm kinh nghiệm trong ngoại khoa",
+            "Thực hiện hơn 500 ca phẫu thuật phức tạp mỗi năm"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2014/12/avt-bac-si-ngoc-lam1.png"
+    },
+    {
+        "department": "15",
+        "id": "43",
+        "facility": "BVĐK Tâm Anh TP. HCM",
+        "name": "PGS.TS Phan Hữu Tân",
+        "position": "Chuyên gia Ngoại thần kinh",
+        "academic_rank": "Phó Giáo sư",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "PGS.TS Phan Hữu Tân là chuyên gia nổi bật trong lĩnh vực ngoại thần kinh với hơn 20 năm kinh nghiệm. Ông chuyên điều trị các bệnh lý liên quan đến thần kinh cột sống và các phẫu thuật phức tạp liên quan đến não bộ và cột sống. Các nghiên cứu của ông đã đóng góp quan trọng vào việc cải thiện kỹ thuật phẫu thuật và phục hồi chức năng cho bệnh nhân.",
+        "organization_membership": "Hội Thần kinh học Việt Nam, Hội Ngoại thần kinh Quốc tế",
+        "specialized_fields": [
+            "Phẫu thuật thần kinh",
+            "Điều trị bệnh lý cột sống",
+            "Chấn thương sọ não"
+        ],
+        "achievements": [
+            "Nghiên cứu về phẫu thuật thần kinh cột sống",
+            "Được công nhận là chuyên gia phẫu thuật thần kinh hàng đầu"
+        ],
+        "awards": [
+            "Giải thưởng Y khoa Xuất sắc",
+            "Giải thưởng nghiên cứu y học quốc tế"
+        ],
+        "research_projects": [
+            "Nghiên cứu về phẫu thuật cột sống không mổ mở",
+            "Ứng dụng công nghệ mới trong điều trị bệnh lý thần kinh cột sống"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Hà Nội",
+            "Đào tạo tại các bệnh viện lớn ở Pháp, Nhật Bản"
+        ],
+        "experience": [
+            "Hơn 20 năm kinh nghiệm trong ngoại thần kinh",
+            "Giảng viên tại Đại học Y Dược TP.HCM"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2011/02/bs-le-van-khanh-avt.png"
+    },
+    {
+        "department": "15",
+        "facility": "BVĐK Tâm Anh Hà Nội",
+        "id": "44",
+        "name": "TS.BS Lê Minh Tân",
+        "position": "Chuyên gia Ngoại thần kinh",
+        "academic_rank": "Tiến sĩ",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Lê Minh Tân là chuyên gia về phẫu thuật thần kinh và điều trị các bệnh lý thần kinh phức tạp, bao gồm các bệnh lý về cột sống, não bộ và các chấn thương thần kinh. Ông đã thực hiện nhiều ca phẫu thuật tiên tiến và nghiên cứu về phương pháp phẫu thuật giúp tăng tỷ lệ hồi phục cho bệnh nhân.",
+        "organization_membership": "Hội Thần kinh học Việt Nam, Hội Ngoại thần kinh Quốc tế",
+        "specialized_fields": [
+            "Ngoại thần kinh",
+            "Điều trị bệnh lý thần kinh cột sống",
+            "Điều trị chấn thương sọ não"
+        ],
+        "achievements": [
+            "Giải thưởng nghiên cứu y học xuất sắc",
+            "Được công nhận là chuyên gia hàng đầu về phẫu thuật thần kinh"
+        ],
+        "awards": [
+            "Giải thưởng Y khoa quốc tế",
+            "Chứng nhận chuyên gia phẫu thuật thần kinh"
+        ],
+        "research_projects": [
+            "Nghiên cứu về phẫu thuật cột sống bằng phương pháp mới",
+            "Nghiên cứu về điều trị các chấn thương sọ não"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Dược TP.HCM",
+            "Đào tạo tại các bệnh viện hàng đầu ở Mỹ và Nhật Bản"
+        ],
+        "experience": [
+            "Hơn 15 năm kinh nghiệm trong điều trị các bệnh lý thần kinh",
+            "Giảng viên tại các hội nghị quốc tế"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2024/04/bs-le-van-tuan-avt.png"
+    },
+    {
+        "department": "15",
+        "id": "45",
+        "facility": "BVĐK Tâm Anh TP. HCM",
+        "name": "PGS.TS Đoàn Quang Học",
+        "position": "Chuyên gia Ngoại thần kinh",
+        "academic_rank": "Phó Giáo sư",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "PGS.TS Đoàn Quang Học là một trong những chuyên gia hàng đầu về ngoại thần kinh tại Việt Nam. Ông đã có nhiều đóng góp trong việc nghiên cứu và ứng dụng các kỹ thuật phẫu thuật hiện đại vào điều trị các bệnh lý về cột sống và não bộ, mang lại hiệu quả cao trong việc phục hồi chức năng cho bệnh nhân.",
+        "organization_membership": "Hội Thần kinh học Việt Nam, Hội Ngoại thần kinh Quốc tế",
+        "specialized_fields": [
+            "Ngoại thần kinh",
+            "Phẫu thuật cột sống",
+            "Điều trị chấn thương sọ não"
+        ],
+        "achievements": [
+            "Được vinh danh tại các hội nghị y học quốc tế",
+            "Cải tiến kỹ thuật phẫu thuật thần kinh"
+        ],
+        "awards": [
+            "Giải thưởng Y học quốc tế",
+            "Chứng nhận chuyên gia về phẫu thuật cột sống"
+        ],
+        "research_projects": [
+            "Nghiên cứu về phương pháp điều trị đột quỵ bằng phẫu thuật",
+            "Cải tiến kỹ thuật điều trị bệnh lý cột sống"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Hà Nội",
+            "Đào tạo tại các bệnh viện hàng đầu ở Mỹ và Pháp"
+        ],
+        "experience": [
+            "Hơn 18 năm kinh nghiệm trong phẫu thuật thần kinh",
+            "Giảng viên tại Đại học Y Hà Nội và các hội nghị quốc tế"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2024/10/bac-si-ho-huu-dung-avt.png"
+    },
+    {
+        "department": "16",
+        "id": "46",
+        "facility": "BVĐK Tâm Anh TP. HCM",
+        "name": "TS.BS Nguyễn Đăng Khoa",
+        "position": "Chuyên gia Nội khoa",
+        "academic_rank": "Tiến sĩ",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Nguyễn Đăng Khoa là chuyên gia nội khoa, nổi bật trong việc điều trị các bệnh lý tim mạch và nội tiết. Ông đã thực hiện nhiều nghiên cứu y học giúp cải tiến các phương pháp chẩn đoán và điều trị cho bệnh nhân, đặc biệt là trong các ca bệnh mãn tính như cao huyết áp, đái tháo đường.",
+        "organization_membership": "Hội Nội khoa Việt Nam, Hội Tim mạch Quốc tế",
+        "specialized_fields": [
+            "Tim mạch",
+            "Nội tiết",
+            "Điều trị bệnh lý mãn tính"
+        ],
+        "achievements": [
+            "Được công nhận là chuyên gia hàng đầu trong điều trị bệnh tim mạch"
+        ],
+        "awards": [
+            "Giải thưởng nghiên cứu khoa học xuất sắc",
+            "Giải thưởng tim mạch quốc tế"
+        ],
+        "research_projects": [
+            "Nghiên cứu về phương pháp điều trị bệnh cao huyết áp bằng thuốc mới",
+            "Ứng dụng công nghệ trong điều trị bệnh lý tim mạch"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Hà Nội",
+            "Đào tạo tại các bệnh viện lớn ở Đức và Mỹ"
+        ],
+        "experience": [
+            "Hơn 20 năm kinh nghiệm trong điều trị các bệnh tim mạch và nội tiết",
+            "Giảng viên tại Đại học Y Dược TP.HCM"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2022/12/le-ba-ngoc-avt.png"
+    },
+    {
+        "department": "16",
+        "id": "47",
+        "facility": "BVĐK Tâm Anh TP. HCM",
+        "name": "BS.CKII NGUYỄN ĐẠI NAM",
+        "position": "Chuyên gia Ngoại khoa",
+        "academic_rank": "Tiến sĩ",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Trần Minh Đạo là chuyên gia trong lĩnh vực ngoại khoa, đặc biệt trong điều trị các bệnh lý về gan, mật, tiêu hóa và phẫu thuật các bệnh lý ung thư. Ông đã có nhiều công trình nghiên cứu nổi bật giúp cải thiện phương pháp điều trị ung thư và các bệnh lý về gan mật.",
+        "organization_membership": "Hội Ngoại khoa Việt Nam, Hội Tiêu hóa Quốc tế",
+        "specialized_fields": [
+            "Ngoại khoa tiêu hóa",
+            "Điều trị bệnh lý gan mật",
+            "Phẫu thuật ung thư"
+        ],
+        "achievements": [
+            "Giải thưởng nghiên cứu y học xuất sắc",
+            "Được công nhận là chuyên gia trong điều trị ung thư"
+        ],
+        "awards": [
+            "Giải thưởng y khoa quốc gia",
+            "Giải thưởng nghiên cứu xuất sắc"
+        ],
+        "research_projects": [
+            "Nghiên cứu về phẫu thuật điều trị bệnh lý gan mật",
+            "Ứng dụng công nghệ mới trong điều trị ung thư"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Dược TP.HCM",
+            "Đào tạo tại các bệnh viện hàng đầu ở Mỹ và Nhật Bản"
+        ],
+        "experience": [
+            "Hơn 15 năm kinh nghiệm trong điều trị bệnh lý ung thư và gan mật",
+            "Giảng viên tại Đại học Y Hà Nội"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2021/03/nguyen-minh-tri-vien-avt.png"
+    },
+    {
+        "department": "16",
+        "id": "48",
+        "facility": "BVĐK Tâm Anh TP. HCM",
+        "name": "TS.BS Trần Minh Đạo",
+        "position": "Chuyên gia Ngoại khoa",
+        "academic_rank": "Tiến sĩ",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Trần Minh Đạo là chuyên gia trong lĩnh vực ngoại khoa, đặc biệt trong điều trị các bệnh lý về gan, mật, tiêu hóa và phẫu thuật các bệnh lý ung thư. Ông đã có nhiều công trình nghiên cứu nổi bật giúp cải thiện phương pháp điều trị ung thư và các bệnh lý về gan mật.",
+        "organization_membership": "Hội Ngoại khoa Việt Nam, Hội Tiêu hóa Quốc tế",
+        "specialized_fields": [
+            "Ngoại khoa tiêu hóa",
+            "Điều trị bệnh lý gan mật",
+            "Phẫu thuật ung thư"
+        ],
+        "achievements": [
+            "Giải thưởng nghiên cứu y học xuất sắc",
+            "Được công nhận là chuyên gia trong điều trị ung thư"
+        ],
+        "awards": [
+            "Giải thưởng y khoa quốc gia",
+            "Giải thưởng nghiên cứu xuất sắc"
+        ],
+        "research_projects": [
+            "Nghiên cứu về phẫu thuật điều trị bệnh lý gan mật",
+            "Ứng dụng công nghệ mới trong điều trị ung thư"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Dược TP.HCM",
+            "Đào tạo tại các bệnh viện hàng đầu ở Mỹ và Nhật Bản"
+        ],
+        "experience": [
+            "Hơn 15 năm kinh nghiệm trong điều trị bệnh lý ung thư và gan mật",
+            "Giảng viên tại Đại học Y Hà Nội"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2013/05/bs-nguyen-anh-dung.png"
+    },
+    {
+        "department": "17",
+        "id": "49",
+        "facility": "BVĐK Tâm Anh TP. HCM",
+        "name": "THS.BS NGUYỄN ĐỖ THÙY GIANG",
+        "position": "Chuyên gia Ngoại khoa",
+        "academic_rank": "Tiến sĩ",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Trần Minh Đạo là chuyên gia trong lĩnh vực ngoại khoa, đặc biệt trong điều trị các bệnh lý về gan, mật, tiêu hóa và phẫu thuật các bệnh lý ung thư. Ông đã có nhiều công trình nghiên cứu nổi bật giúp cải thiện phương pháp điều trị ung thư và các bệnh lý về gan mật.",
+        "organization_membership": "Hội Ngoại khoa Việt Nam, Hội Tiêu hóa Quốc tế",
+        "specialized_fields": [
+            "Ngoại khoa tiêu hóa",
+            "Điều trị bệnh lý gan mật",
+            "Phẫu thuật ung thư"
+        ],
+        "achievements": [
+            "Giải thưởng nghiên cứu y học xuất sắc",
+            "Được công nhận là chuyên gia trong điều trị ung thư"
+        ],
+        "awards": [
+            "Giải thưởng y khoa quốc gia",
+            "Giải thưởng nghiên cứu xuất sắc"
+        ],
+        "research_projects": [
+            "Nghiên cứu về phẫu thuật điều trị bệnh lý gan mật",
+            "Ứng dụng công nghệ mới trong điều trị ung thư"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Dược TP.HCM",
+            "Đào tạo tại các bệnh viện hàng đầu ở Mỹ và Nhật Bản"
+        ],
+        "experience": [
+            "Hơn 15 năm kinh nghiệm trong điều trị bệnh lý ung thư và gan mật",
+            "Giảng viên tại Đại học Y Hà Nội"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2012/09/bs-huynh-phuc-nguyen.png"
+    },
+    {
+        "department": "17",
+        "id": "50",
+        "facility": "BVĐK Tâm Anh TP. HCM",
+        "name": "BS.CKII TRẦN THỊ THANH TRÚC",
+        "position": "Chuyên gia Ngoại khoa",
+        "academic_rank": "Tiến sĩ",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Trần Minh Đạo là chuyên gia trong lĩnh vực ngoại khoa, đặc biệt trong điều trị các bệnh lý về gan, mật, tiêu hóa và phẫu thuật các bệnh lý ung thư. Ông đã có nhiều công trình nghiên cứu nổi bật giúp cải thiện phương pháp điều trị ung thư và các bệnh lý về gan mật.",
+        "organization_membership": "Hội Ngoại khoa Việt Nam, Hội Tiêu hóa Quốc tế",
+        "specialized_fields": [
+            "Ngoại khoa tiêu hóa",
+            "Điều trị bệnh lý gan mật",
+            "Phẫu thuật ung thư"
+        ],
+        "achievements": [
+            "Giải thưởng nghiên cứu y học xuất sắc",
+            "Được công nhận là chuyên gia trong điều trị ung thư"
+        ],
+        "awards": [
+            "Giải thưởng y khoa quốc gia",
+            "Giải thưởng nghiên cứu xuất sắc"
+        ],
+        "research_projects": [
+            "Nghiên cứu về phẫu thuật điều trị bệnh lý gan mật",
+            "Ứng dụng công nghệ mới trong điều trị ung thư"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Dược TP.HCM",
+            "Đào tạo tại các bệnh viện hàng đầu ở Mỹ và Nhật Bản"
+        ],
+        "experience": [
+            "Hơn 15 năm kinh nghiệm trong điều trị bệnh lý ung thư và gan mật",
+            "Giảng viên tại Đại học Y Hà Nội"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2021/02/tran-thi-thanh-truc-avt.png"
+    },
+    {
+        "department": "17",
+        "id": "51",
+        "facility": "BVĐK Tâm Anh TP. HCM",
+        "name": "BS.CKII Trần Thị Thanh Nga",
+        "position": "Giám đốc Trung tâm Xét nghiệm",
+        "academic_rank": "Chuyên khoa II",
+        "academic_degree": null,
+        "introduction": "Chuyên gia về xét nghiệm lâm sàng và điều trị các bệnh truyền nhiễm, kháng kháng sinh, và bệnh nhiệt đới. Bà đã có hơn 70 đề tài nghiên cứu công bố trong nước và quốc tế.",
+        "organization_membership": "Thành viên các chương trình nghiên cứu quốc tế về bệnh nhiệt đới.",
+        "specialized_fields": [
+            "Xét nghiệm lâm sàng",
+            "Nhiễm khuẩn",
+            "Bệnh truyền nhiễm"
+        ],
+        "achievements": [
+            "Bác sĩ Ưu tú",
+            "Bằng khen của Thủ tướng",
+            "Bằng khen của Bộ Y tế"
+        ],
+        "awards": [
+            "Thành tựu nghiên cứu xuất sắc"
+        ],
+        "research_projects": [
+            "Các nghiên cứu về nhiễm khuẩn ổ bụng, nhiễm khuẩn tiết niệu",
+            "Các đề tài hợp tác với Đại học Amsterdam về bệnh nhiệt đới"
+        ],
+        "training": [
+            "Tốt nghiệp Y khoa tại Đại học Y Dược TP.HCM",
+            "Tham gia chương trình chống lao hợp tác với CDC"
+        ],
+        "experience": [
+            "Nhiều năm công tác tại các trung tâm nghiên cứu hàng đầu về bệnh nhiệt đới"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2011/01/bs-tran-thi-thanh-nga.png"
+    },
+    {
+        "department": "18",
+        "id": "52",
+        "facility": "BVĐK Tâm Anh TP. HCM",
+        "name": "PGS.TS Nguyễn Anh Tuấn",
+        "position": "Giám đốc Trung tâm Hỗ trợ Sinh sản",
+        "academic_rank": "Phó Giáo sư",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "PGS.TS Nguyễn Anh Tuấn là chuyên gia đầu ngành trong lĩnh vực hỗ trợ sinh sản và điều trị vô sinh hiếm muộn. Ông đã thực hiện thành công hàng nghìn ca điều trị IVF.",
+        "organization_membership": "Hiệp hội Sinh sản và Phôi học Châu Âu (ESHRE).",
+        "specialized_fields": [
+            "Hỗ trợ sinh sản",
+            "Thụ tinh ống nghiệm (IVF)",
+            "Điều trị hiếm muộn"
+        ],
+        "achievements": [
+            "Chứng nhận ESHRE về hỗ trợ sinh sản"
+        ],
+        "awards": [
+            "Giải thưởng Thành tựu y học quốc tế"
+        ],
+        "research_projects": [
+            "Nghiên cứu về chất lượng phôi trong IVF",
+            "Các phương pháp điều trị hiếm muộn tiên tiến"
+        ],
+        "training": [
+            "Tốt nghiệp Y khoa tại Đại học Y Hà Nội",
+            "Nghiên cứu sinh tại Đại học Melbourne, Úc"
+        ],
+        "experience": [
+            "Giám đốc Trung tâm Hỗ trợ Sinh sản Bệnh viện Tâm Anh",
+            "Hơn 20 năm trong ngành y học sinh sản"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2010/01/pgs-trieu-trieu-duong.png"
+    },
+    {
+        "department": "18",
+        "id": "53",
+        "facility": "BVĐK Tâm Anh TP. HCM",
+        "name": "TS.BS Nguyễn Quốc Tuấn",
+        "position": "Trưởng khoa Nội Thần kinh",
+        "academic_rank": null,
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Nguyễn Quốc Tuấn chuyên điều trị các bệnh lý nội thần kinh như đột quỵ, đau nửa đầu, và rối loạn tiền đình.",
+        "organization_membership": "Hội Thần kinh học Việt Nam.",
+        "specialized_fields": [
+            "Đột quỵ",
+            "Rối loạn tiền đình",
+            "Đau đầu mãn tính"
+        ],
+        "achievements": [
+            "Phát triển kỹ thuật điều trị đột quỵ cấp"
+        ],
+        "awards": [
+            "Bằng khen Bộ Y tế"
+        ],
+        "research_projects": [
+            "Nghiên cứu ứng dụng trí tuệ nhân tạo trong chẩn đoán đột quỵ",
+            "Cải tiến điều trị đau đầu mãn tính"
+        ],
+        "training": [
+            "Đào tạo tại Bệnh viện Chợ Rẫy",
+            "Nghiên cứu sinh tại Đại học Y Tokyo, Nhật Bản"
+        ],
+        "experience": [
+            "20 năm kinh nghiệm trong điều trị các bệnh thần kinh",
+            "Cố vấn y khoa tại nhiều bệnh viện lớn"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2021/03/giao-su-tran-quan-anh.jpg"
+    },
+    {
+        "department": "18",
+        "id": "54",
+        "facility": "BVĐK Tâm Anh TP. HCM",
+        "name": "ThS.BS Trần Thị Hồng Nhung",
+        "position": "Phó trưởng khoa Tim mạch",
+        "academic_rank": null,
+        "academic_degree": "Thạc sĩ",
+        "introduction": "ThS.BS Trần Thị Hồng Nhung có hơn 15 năm kinh nghiệm trong điều trị các bệnh lý tim mạch, đặc biệt là bệnh lý van tim và suy tim.",
+        "organization_membership": "Hội Tim mạch học Quốc gia Việt Nam.",
+        "specialized_fields": [
+            "Điều trị bệnh lý van tim",
+            "Suy tim",
+            "Tim bẩm sinh"
+        ],
+        "achievements": [
+            "Chứng nhận điều trị chuyên sâu về tim mạch"
+        ],
+        "awards": [
+            "Bằng khen Hiệp hội Tim mạch học"
+        ],
+        "research_projects": [
+            "Nghiên cứu điều trị suy tim bằng phương pháp tiên tiến",
+            "Chẩn đoán sớm bệnh lý tim bẩm sinh ở trẻ sơ sinh"
+        ],
+        "training": [
+            "Thạc sĩ tại Đại học Y Hà Nội",
+            "Chứng chỉ điều trị chuyên sâu tại Singapore"
+        ],
+        "experience": [
+            "Phó trưởng khoa Tim mạch Bệnh viện Tâm Anh",
+            "Hơn 15 năm công tác trong lĩnh vực tim mạch"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2011/01/bs-nguyen-thi-minh-duc-avt.png"
+    },
+    {
+        "department": "19",
+        "facility": "BVĐK Tâm Anh Hà Nội",
+        "id": "55",
+        "name": "GS.TS Phạm Văn Minh",
+        "position": "Chuyên gia Khoa Hồi sức Cấp cứu",
+        "academic_rank": "Giáo sư",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "GS.TS Phạm Văn Minh là chuyên gia đầu ngành về hồi sức cấp cứu với kinh nghiệm phong phú trong điều trị các ca bệnh nguy hiểm.",
+        "organization_membership": "Hiệp hội Hồi sức Cấp cứu Thế giới.",
+        "specialized_fields": [
+            "Hồi sức cấp cứu",
+            "Điều trị sốc nhiễm trùng",
+            "Chăm sóc tích cực"
+        ],
+        "achievements": [
+            "Phát triển phác đồ điều trị sốc nhiễm trùng"
+        ],
+        "awards": [
+            "Huân chương Lao động hạng Nhất"
+        ],
+        "research_projects": [
+            "Nghiên cứu điều trị bệnh nhân suy đa tạng",
+            "Phác đồ hồi sức tích cực hiện đại"
+        ],
+        "training": [
+            "Đào tạo tại Đại học Y Harvard, Mỹ",
+            "Chứng chỉ chuyên sâu hồi sức cấp cứu tại Đức"
+        ],
+        "experience": [
+            "Giáo sư tại Đại học Y Hà Nội",
+            "Cố vấn chuyên môn tại các bệnh viện lớn trong và ngoài nước"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2011/01/bac-pham-nguyen-vinh.png"
+    },
+    {
+        "department": "19",
+        "id": "56",
+        "facility": "BVĐK Tâm Anh TP. HCM",
+        "name": "ThS.BS Nguyễn Thị Minh Tâm",
+        "position": "Trưởng khoa Nội tiết",
+        "academic_rank": null,
+        "academic_degree": "Thạc sĩ",
+        "introduction": "ThS.BS Nguyễn Thị Minh Tâm là chuyên gia trong điều trị các bệnh lý nội tiết như tiểu đường, suy giáp và hội chứng chuyển hóa, với nhiều nghiên cứu nổi bật trong lĩnh vực này.",
+        "organization_membership": "Hội Nội tiết Việt Nam.",
+        "specialized_fields": [
+            "Tiểu đường",
+            "Bệnh lý tuyến giáp",
+            "Hội chứng chuyển hóa"
+        ],
+        "achievements": [
+            "Cải tiến phác đồ điều trị tiểu đường hiệu quả"
+        ],
+        "awards": [
+            "Chứng nhận xuất sắc từ Hội Nội tiết Quốc tế"
+        ],
+        "research_projects": [
+            "Nghiên cứu về tác động của insulin thế hệ mới",
+            "Điều trị suy giáp ở người cao tuổi"
+        ],
+        "training": [
+            "Thạc sĩ tại Đại học Y Dược TP. Hồ Chí Minh",
+            "Đào tạo chuyên sâu tại Đại học Cambridge, Anh"
+        ],
+        "experience": [
+            "Trưởng khoa Nội tiết tại Bệnh viện Tâm Anh",
+            "Hơn 18 năm kinh nghiệm trong điều trị bệnh nội tiết"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2024/09/hinh-anh-bs-pham-thi-thanh-tam.png"
+    },
+    {
+        "department": "19",
+        "id": "57",
+        "facility": "BVĐK Tâm Anh TP. HCM",
+        "name": "TS.BS Đinh Văn Quang",
+        "position": "Phó Giám đốc Trung tâm Ung bướu",
+        "academic_rank": null,
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Đinh Văn Quang là một chuyên gia hàng đầu về điều trị ung thư, đặc biệt là ung thư đường tiêu hóa và phổi. Ông đã góp phần nâng cao hiệu quả điều trị với các phương pháp tiên tiến.",
+        "organization_membership": "Hội Ung thư học Việt Nam.",
+        "specialized_fields": [
+            "Ung thư phổi",
+            "Ung thư đường tiêu hóa",
+            "Xạ trị"
+        ],
+        "achievements": [
+            "Chứng nhận chuyên môn từ Hội Ung thư học Quốc tế"
+        ],
+        "awards": [
+            "Giải thưởng Cống hiến Y học"
+        ],
+        "research_projects": [
+            "Tác dụng của liệu pháp miễn dịch trong điều trị ung thư",
+            "Ứng dụng xạ trị chính xác cao"
+        ],
+        "training": [
+            "Nghiên cứu sinh tại Đại học Kyoto, Nhật Bản",
+            "Học bổng chuyên ngành ung thư tại Đức"
+        ],
+        "experience": [
+            "Phó Giám đốc Trung tâm Ung bướu Bệnh viện Tâm Anh",
+            "Hơn 15 năm kinh nghiệm trong điều trị ung thư"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2023/03/bs-dinh-quang-huy-avt.png"
+    },
+    {
+        "department": "20",
+        "id": "58",
+        "facility": "BVĐK Tâm Anh TP. HCM",
+        "name": "ThS.BS Lê Minh Hùng",
+        "position": "Chuyên gia Khoa Phẫu thuật Thần kinh",
+        "academic_rank": null,
+        "academic_degree": "Thạc sĩ",
+        "introduction": "ThS.BS Lê Minh Hùng là chuyên gia trong lĩnh vực phẫu thuật thần kinh với kỹ thuật vi phẫu hiện đại, chuyên điều trị u não và các tổn thương tủy sống.",
+        "organization_membership": "Hội Phẫu thuật Thần kinh Châu Á.",
+        "specialized_fields": [
+            "Phẫu thuật u não",
+            "Điều trị tổn thương tủy sống"
+        ],
+        "achievements": [
+            "Phát triển kỹ thuật vi phẫu thần kinh tại Việt Nam"
+        ],
+        "awards": [
+            "Giải thưởng Khoa học Công nghệ Y học"
+        ],
+        "research_projects": [
+            "Nghiên cứu vi phẫu não bộ",
+            "Ứng dụng laser trong phẫu thuật thần kinh"
+        ],
+        "training": [
+            "Thạc sĩ tại Đại học Y Hà Nội",
+            "Đào tạo phẫu thuật thần kinh tại Singapore"
+        ],
+        "experience": [
+            "Chuyên gia tại Bệnh viện Tâm Anh",
+            "Hơn 12 năm trong lĩnh vực phẫu thuật thần kinh"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2021/03/bac-si-do-minh-hung.png"
+    },
+    {
+        "department": "20",
+        "id": "59",
+        "facility": "BVĐK Tâm Anh TP. HCM",
+        "name": "GS.TS Nguyễn Văn Hòa",
+        "position": "Chuyên gia Khoa Nhi",
+        "academic_rank": "Giáo sư",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "GS.TS Nguyễn Văn Hòa là chuyên gia hàng đầu trong chăm sóc và điều trị các bệnh lý trẻ em, đặc biệt là bệnh hô hấp và tiêu hóa ở trẻ sơ sinh.",
+        "organization_membership": "Hiệp hội Nhi khoa Quốc tế.",
+        "specialized_fields": [
+            "Bệnh lý hô hấp ở trẻ em",
+            "Tiêu hóa sơ sinh"
+        ],
+        "achievements": [
+            "Chứng nhận điều trị tiên tiến về Nhi khoa"
+        ],
+        "awards": [
+            "Huân chương Lao động hạng Nhì"
+        ],
+        "research_projects": [
+            "Cải tiến phương pháp điều trị viêm phổi ở trẻ sơ sinh",
+            "Nghiên cứu dinh dưỡng cho trẻ thiếu cân"
+        ],
+        "training": [
+            "Giáo sư tại Đại học Y Hà Nội",
+            "Thực tập sinh tại Đại học Stanford, Mỹ"
+        ],
+        "experience": [
+            "Chuyên gia tư vấn tại Bệnh viện Nhi Trung ương",
+            "Trên 30 năm kinh nghiệm điều trị cho trẻ em"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2021/02/to-hoa-avt.png"
+    },
+    {
+        "department": "20",
+        "id": "60",
+        "facility": "BVĐK Tâm Anh Q8",
+        "name": "TS.BS Lê Phương Anh",
+        "position": "Trưởng khoa Da liễu",
+        "academic_rank": null,
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Lê Phương Anh là chuyên gia trong điều trị các bệnh da liễu, đặc biệt là điều trị nám, sẹo và các bệnh lý về da tự miễn.",
+        "organization_membership": "Hội Da liễu Việt Nam.",
+        "specialized_fields": [
+            "Nám da",
+            "Sẹo",
+            "Bệnh lý da tự miễn"
+        ],
+        "achievements": [
+            "Ứng dụng laser trong điều trị da liễu"
+        ],
+        "awards": [
+            "Bằng khen Bộ Y tế"
+        ],
+        "research_projects": [
+            "Ứng dụng công nghệ tế bào gốc trong tái tạo da",
+            "Điều trị da lão hóa với công nghệ hiện đại"
+        ],
+        "training": [
+            "Nghiên cứu sinh tại Đại học Y Tokyo, Nhật Bản",
+            "Thực tập tại Đại học Sydney, Úc"
+        ],
+        "experience": [
+            "Trưởng khoa Da liễu Bệnh viện Tâm Anh",
+            "Hơn 20 năm kinh nghiệm trong điều trị da liễu"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2023/03/bs-tran-phan-chung-thuy.png"
+    },
+    {
+        "department": "21",
+        "id": "61",
+        "facility": "BVĐK Tâm Anh Q8",
+        "name": "ThS.BS Trần Quang Vinh",
+        "position": "Trưởng khoa Chấn thương Chỉnh hình",
+        "academic_rank": null,
+        "academic_degree": "Thạc sĩ",
+        "introduction": "ThS.BS Trần Quang Vinh có kinh nghiệm lâu năm trong điều trị các chấn thương về xương khớp, đặc biệt là phẫu thuật thay khớp và điều trị chấn thương thể thao.",
+        "organization_membership": "Hiệp hội Chấn thương chỉnh hình Việt Nam.",
+        "specialized_fields": [
+            "Thay khớp",
+            "Phẫu thuật chấn thương thể thao",
+            "Điều trị gãy xương phức tạp"
+        ],
+        "achievements": [
+            "Phát triển kỹ thuật phẫu thuật ít xâm lấn cho chấn thương xương khớp"
+        ],
+        "awards": [
+            "Bằng khen từ Hội Chấn thương Chỉnh hình"
+        ],
+        "research_projects": [
+            "Ứng dụng kỹ thuật nội soi trong điều trị tổn thương khớp",
+            "Nghiên cứu về phục hồi chức năng sau phẫu thuật thay khớp"
+        ],
+        "training": [
+            "Thạc sĩ tại Đại học Y Hà Nội",
+            "Đào tạo chuyên sâu tại Đại học Johns Hopkins, Mỹ"
+        ],
+        "experience": [
+            "Trưởng khoa Chấn thương Chỉnh hình tại Bệnh viện Tâm Anh",
+            "Hơn 15 năm kinh nghiệm trong lĩnh vực chấn thương chỉnh hình"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2022/11/vu-huy-tru.png"
+    },
+    {
+        "department": "21",
+        "id": "62",
+        "facility": "BVĐK Tâm Anh Q8",
+        "name": "TS.BS Nguyễn Thị Mai Anh",
+        "position": "Chuyên gia Khoa Sản",
+        "academic_rank": null,
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Nguyễn Thị Mai Anh có nhiều năm kinh nghiệm trong điều trị các bệnh lý sản phụ khoa, đặc biệt là chăm sóc thai kỳ nguy cơ cao và điều trị vô sinh hiếm muộn.",
+        "organization_membership": "Hội Sản phụ khoa Việt Nam.",
+        "specialized_fields": [
+            "Chăm sóc thai kỳ nguy cơ cao",
+            "Điều trị vô sinh",
+            "Nội soi phụ khoa"
+        ],
+        "achievements": [
+            "Ứng dụng kỹ thuật nội soi tiên tiến trong điều trị vô sinh"
+        ],
+        "awards": [
+            "Giải thưởng Xuất sắc từ Hội Sản phụ khoa Quốc tế"
+        ],
+        "research_projects": [
+            "Nghiên cứu các yếu tố nguy cơ thai kỳ",
+            "Ứng dụng công nghệ mới trong điều trị phụ khoa"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Dược TP. Hồ Chí Minh",
+            "Chứng chỉ chuyên sâu về sản phụ khoa tại Úc"
+        ],
+        "experience": [
+            "Cố vấn chuyên môn tại các bệnh viện lớn",
+            "Hơn 20 năm kinh nghiệm trong sản phụ khoa"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2011/01/bs-tran-thi-thuy-hang.png"
+    },
+    {
+        "department": "21",
+        "id": "63",
+        "facility": "BVĐK Tâm Anh Q8",
+        "name": "PGS.TS Phạm Văn Phúc",
+        "position": "Trưởng khoa Phục hồi Chức năng",
+        "academic_rank": "Phó Giáo sư",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "PGS.TS Phạm Văn Phúc là chuyên gia hàng đầu trong phục hồi chức năng sau tai biến, chấn thương và phẫu thuật với các phương pháp hiện đại.",
+        "organization_membership": "Hội Phục hồi chức năng Quốc tế.",
+        "specialized_fields": [
+            "Phục hồi sau tai biến",
+            "Chấn thương thể thao",
+            "Điều trị đau mạn tính"
+        ],
+        "achievements": [
+            "Phát triển phác đồ phục hồi chức năng tiên tiến"
+        ],
+        "awards": [
+            "Huân chương Lao động hạng Ba"
+        ],
+        "research_projects": [
+            "Nghiên cứu về cải tiến kỹ thuật phục hồi chức năng",
+            "Ứng dụng công nghệ robot trong phục hồi chức năng"
+        ],
+        "training": [
+            "Phó Giáo sư tại Đại học Y Hà Nội",
+            "Đào tạo chuyên sâu tại Đại học Melbourne, Úc"
+        ],
+        "experience": [
+            "Trưởng khoa Phục hồi Chức năng Bệnh viện Tâm Anh",
+            "Hơn 25 năm trong lĩnh vực phục hồi chức năng"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2021/03/bac-si-le-hoang.png"
+    },
+    {
+        "department": "22",
+        "id": "64",
+        "facility": "BVĐK Tâm Anh Q8",
+        "name": "ThS.BS Hoàng Minh Tùng",
+        "position": "Chuyên gia Khoa Nội Tiêu hóa",
+        "academic_rank": null,
+        "academic_degree": "Thạc sĩ",
+        "introduction": "ThS.BS Hoàng Minh Tùng chuyên điều trị các bệnh lý tiêu hóa và gan mật, đặc biệt là viêm gan virus và hội chứng ruột kích thích.",
+        "organization_membership": "Hội Nội khoa Tiêu hóa Việt Nam.",
+        "specialized_fields": [
+            "Điều trị viêm gan virus",
+            "Hội chứng ruột kích thích",
+            "Nội soi tiêu hóa"
+        ],
+        "achievements": [
+            "Cải tiến phương pháp điều trị viêm gan B"
+        ],
+        "awards": [
+            "Bằng khen từ Hội Nội khoa Quốc tế"
+        ],
+        "research_projects": [
+            "Ứng dụng thuốc mới trong điều trị viêm gan",
+            "Chẩn đoán sớm ung thư đường tiêu hóa"
+        ],
+        "training": [
+            "Thạc sĩ tại Đại học Y Hà Nội",
+            "Đào tạo chuyên sâu tại Nhật Bản"
+        ],
+        "experience": [
+            "Chuyên gia tiêu hóa tại Bệnh viện Tâm Anh",
+            "15 năm trong điều trị nội khoa tiêu hóa"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2021/03/bac-si-le-hoang.png"
+    },
+    {
+        "department": "22",
+        "id": "65",
+        "facility": "BVĐK Tâm Anh Q8",
+        "name": "GS.TS Đỗ Thanh Hải",
+        "position": "Chuyên gia Khoa Hô hấp",
+        "academic_rank": "Giáo sư",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "GS.TS Đỗ Thanh Hải là chuyên gia hàng đầu trong lĩnh vực điều trị các bệnh lý về hô hấp như hen phế quản, COPD, và lao phổi.",
+        "organization_membership": "Hội Hô hấp Quốc tế.",
+        "specialized_fields": [
+            "Hen phế quản",
+            "COPD",
+            "Lao phổi"
+        ],
+        "achievements": [
+            "Chứng nhận xuất sắc từ Hội Hô hấp Quốc tế"
+        ],
+        "awards": [
+            "Giải thưởng Y học Hô hấp"
+        ],
+        "research_projects": [
+            "Nghiên cứu ứng dụng thuốc sinh học trong điều trị hen phế quản",
+            "Cải tiến kỹ thuật chẩn đoán lao phổi"
+        ],
+        "training": [
+            "Đào tạo tại Đại học Y Hà Nội",
+            "Nghiên cứu tại Đại học Oxford, Anh"
+        ],
+        "experience": [
+            "Chuyên gia cố vấn tại các bệnh viện lớn trong và ngoài nước",
+            "Hơn 30 năm kinh nghiệm điều trị bệnh hô hấp"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2021/10/avt-bac-si-giao-su-ngo-quy-chau.png"
+    },
+    {
+        "department": "22",
+        "facility": "BVĐK Tâm Anh Hà Nội",
+        "id": "66",
+        "name": "ThS.BS Phạm Quang Duy",
+        "position": "Trưởng khoa Cấp cứu",
+        "academic_rank": null,
+        "academic_degree": "Thạc sĩ",
+        "introduction": "ThS.BS Phạm Quang Duy có nhiều kinh nghiệm trong xử lý các trường hợp cấp cứu nội khoa và ngoại khoa với sự chuyên nghiệp và nhanh nhạy.",
+        "organization_membership": "Hiệp hội Cấp cứu Việt Nam.",
+        "specialized_fields": [
+            "Cấp cứu nội khoa",
+            "Chăm sóc hồi sức",
+            "Chấn thương nặng"
+        ],
+        "achievements": [
+            "Triển khai phác đồ cấp cứu nhanh tại bệnh viện"
+        ],
+        "awards": [
+            "Bằng khen từ Bộ Y tế"
+        ],
+        "research_projects": [
+            "Phát triển kỹ thuật cấp cứu nhanh trong tai biến mạch máu não",
+            "Nghiên cứu về hiệu quả chăm sóc hồi sức cấp cứu"
+        ],
+        "training": [
+            "Thạc sĩ tại Đại học Y Hà Nội",
+            "Chứng chỉ chuyên môn tại Đại học Sydney, Úc"
+        ],
+        "experience": [
+            "Trưởng khoa Cấp cứu tại Bệnh viện Tâm Anh",
+            "Hơn 12 năm kinh nghiệm trong lĩnh vực cấp cứu"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2011/01/hoang-anh-dung-avt.png"
+    },
+    {
+        "department": "23",
+        "id": "67",
+        "facility": "BVĐK Tâm Anh Q8",
+        "name": "TS.BS Nguyễn Văn Đức",
+        "position": "Chuyên gia Nội Thận - Lọc máu",
+        "academic_rank": null,
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Nguyễn Văn Đức chuyên về điều trị bệnh thận và các phương pháp lọc máu tiên tiến, mang lại hiệu quả điều trị cao cho bệnh nhân suy thận.",
+        "organization_membership": "Hội Nội Thận Quốc tế.",
+        "specialized_fields": [
+            "Suy thận",
+            "Lọc máu",
+            "Điều trị thận đa nang"
+        ],
+        "achievements": [
+            "Áp dụng công nghệ mới trong lọc máu tại Việt Nam"
+        ],
+        "awards": [
+            "Giải thưởng Cống hiến từ Hội Nội Thận Việt Nam"
+        ],
+        "research_projects": [
+            "Phân tích hiệu quả của máy lọc máu thế hệ mới",
+            "Điều trị thận mạn tính với liệu pháp ghép thận"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Dược TP. Hồ Chí Minh",
+            "Chuyên ngành thận học tại Đại học Nagoya, Nhật Bản"
+        ],
+        "experience": [
+            "Cố vấn chuyên môn tại các bệnh viện lớn",
+            "20 năm kinh nghiệm điều trị bệnh lý thận"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2023/03/nguyen-van-truong-avt.png"
+    },
+    {
+        "department": "23",
+        "id": "68",
+        "facility": "BVĐK Tâm Anh Q8",
+        "name": "PGS.TS Trần Hoàng An",
+        "position": "Trưởng khoa Tai Mũi Họng",
+        "academic_rank": "Phó Giáo sư",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "PGS.TS Trần Hoàng An có chuyên môn cao trong điều trị và phẫu thuật các bệnh lý tai mũi họng, đặc biệt là phẫu thuật nội soi và điều trị các bệnh lý viêm xoang mạn tính.",
+        "organization_membership": "Hội Tai Mũi Họng Việt Nam.",
+        "specialized_fields": [
+            "Phẫu thuật nội soi tai mũi họng",
+            "Điều trị viêm xoang",
+            "U thanh quản"
+        ],
+        "achievements": [
+            "Đạt chứng nhận từ Hội Tai Mũi Họng Quốc tế"
+        ],
+        "awards": [
+            "Giải thưởng Y học Tài năng"
+        ],
+        "research_projects": [
+            "Ứng dụng công nghệ nội soi trong điều trị viêm xoang",
+            "Phát triển phương pháp mới điều trị u thanh quản"
+        ],
+        "training": [
+            "Phó Giáo sư tại Đại học Y Hà Nội",
+            "Chuyên ngành nội soi tại Đại học Leipzig, Đức"
+        ],
+        "experience": [
+            "Trưởng khoa Tai Mũi Họng tại Bệnh viện Tâm Anh",
+            "Hơn 25 năm kinh nghiệm trong lĩnh vực tai mũi họng"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2011/02/bs-nguyen-xuan-hien.png"
+    },
+    {
+        "department": "23",
+        "id": "69",
+        "facility": "BVĐK Tâm Anh Q8",
+        "name": "ThS.BS Nguyễn Văn Bình",
+        "position": "Trưởng khoa Nội Tim mạch",
+        "academic_rank": null,
+        "academic_degree": "Thạc sĩ",
+        "introduction": "ThS.BS Nguyễn Văn Bình là chuyên gia trong điều trị các bệnh lý tim mạch như tăng huyết áp, bệnh mạch vành và suy tim với các phương pháp hiện đại.",
+        "organization_membership": "Hội Tim mạch Việt Nam.",
+        "specialized_fields": [
+            "Điều trị tăng huyết áp",
+            "Bệnh mạch vành",
+            "Suy tim"
+        ],
+        "achievements": [
+            "Ứng dụng công nghệ AI trong chẩn đoán tim mạch"
+        ],
+        "awards": [
+            "Bằng khen từ Hội Tim mạch Quốc tế"
+        ],
+        "research_projects": [
+            "Nghiên cứu phác đồ điều trị suy tim mạn",
+            "Ứng dụng thiết bị cấy ghép tim nhân tạo"
+        ],
+        "training": [
+            "Thạc sĩ tại Đại học Y Dược TP. Hồ Chí Minh",
+            "Đào tạo chuyên sâu tại Đại học Toronto, Canada"
+        ],
+        "experience": [
+            "Trưởng khoa Nội Tim mạch tại Bệnh viện Tâm Anh",
+            "15 năm kinh nghiệm trong điều trị bệnh lý tim mạch"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2023/03/tran-ngoc-huu-avt.png"
+    },
+    {
+        "department": "24",
+        "id": "70",
+        "facility": "BVĐK Tâm Anh Q8",
+        "name": "TS.BS Nguyễn Thu Trang",
+        "position": "Chuyên gia Nội Nhiễm",
+        "academic_rank": null,
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Nguyễn Thu Trang chuyên về điều trị các bệnh lý truyền nhiễm, đặc biệt là sốt xuất huyết, viêm gan virus và các bệnh nhiễm khuẩn kháng thuốc.",
+        "organization_membership": "Hội Truyền nhiễm Việt Nam.",
+        "specialized_fields": [
+            "Sốt xuất huyết",
+            "Viêm gan virus",
+            "Nhiễm khuẩn kháng thuốc"
+        ],
+        "achievements": [
+            "Phát triển phác đồ điều trị sốt xuất huyết giai đoạn nặng"
+        ],
+        "awards": [
+            "Giải thưởng Khoa học Truyền nhiễm"
+        ],
+        "research_projects": [
+            "Nghiên cứu về hiệu quả thuốc kháng virus mới",
+            "Ứng dụng công nghệ sinh học trong điều trị nhiễm khuẩn"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Hà Nội",
+            "Chứng chỉ điều trị bệnh truyền nhiễm tại Mỹ"
+        ],
+        "experience": [
+            "Chuyên gia cố vấn tại Bệnh viện Bệnh nhiệt đới",
+            "20 năm kinh nghiệm điều trị bệnh lý truyền nhiễm"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2024/08/le-thi-viet-hoa-avt.png"
+    },
+    {
+        "department": "24",
+        "id": "71",
+        "facility": "BVĐK Tâm Anh Q8",
+        "name": "ThS.BS Lê Minh Tuấn",
+        "position": "Trưởng khoa Ngoại Thần kinh",
+        "academic_rank": null,
+        "academic_degree": "Thạc sĩ",
+        "introduction": "ThS.BS Lê Minh Tuấn chuyên sâu trong phẫu thuật thần kinh, đặc biệt là các bệnh lý liên quan đến cột sống và não bộ.",
+        "organization_membership": "Hội Ngoại Thần kinh Việt Nam.",
+        "specialized_fields": [
+            "Phẫu thuật cột sống",
+            "Phẫu thuật u não",
+            "Điều trị thoát vị đĩa đệm"
+        ],
+        "achievements": [
+            "Đóng góp cải tiến kỹ thuật vi phẫu thần kinh tại bệnh viện"
+        ],
+        "awards": [
+            "Giải thưởng Thành tựu Y khoa"
+        ],
+        "research_projects": [
+            "Ứng dụng robot trong phẫu thuật cột sống",
+            "Nghiên cứu bệnh lý thoái hóa thần kinh"
+        ],
+        "training": [
+            "Thạc sĩ tại Đại học Y Dược TP. Hồ Chí Minh",
+            "Đào tạo chuyên sâu tại Đức"
+        ],
+        "experience": [
+            "Trưởng khoa Ngoại Thần kinh tại Bệnh viện Tâm Anh",
+            "20 năm kinh nghiệm trong phẫu thuật thần kinh"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2024/10/bac-si-phung-huy-tuan-avt.png"
+    },
+    {
+        "department": "24",
+        "id": "72",
+        "facility": "BVĐK Tâm Anh Q8",
+        "name": "TS.BS Phạm Minh Huy",
+        "position": "Chuyên gia Nội Nội tiết",
+        "academic_rank": null,
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Phạm Minh Huy có kinh nghiệm điều trị các bệnh lý nội tiết như đái tháo đường, cường giáp, và rối loạn chuyển hóa.",
+        "organization_membership": "Hội Nội tiết và Đái tháo đường Việt Nam.",
+        "specialized_fields": [
+            "Đái tháo đường",
+            "Cường giáp",
+            "Rối loạn chuyển hóa"
+        ],
+        "achievements": [
+            "Phát triển phác đồ điều trị tiên tiến cho bệnh nhân đái tháo đường"
+        ],
+        "awards": [
+            "Bằng khen từ Hội Nội tiết"
+        ],
+        "research_projects": [
+            "Nghiên cứu thuốc mới cho điều trị tiểu đường",
+            "Ứng dụng công nghệ đo đường huyết liên tục"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Hà Nội",
+            "Chứng chỉ chuyên ngành tại Đại học Harvard"
+        ],
+        "experience": [
+            "Cố vấn tại các bệnh viện lớn",
+            "15 năm kinh nghiệm điều trị nội tiết"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2011/01/bs-le-dang-khoa-avt.png"
+    },
+    {
+        "department": "25",
+        "id": "73",
+        "facility": "BVĐK Tâm Anh Q8",
+        "name": "PGS.TS Trần Thị Hạnh",
+        "position": "Trưởng khoa Ung bướu",
+        "academic_rank": "Phó Giáo sư",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "PGS.TS Trần Thị Hạnh là chuyên gia đầu ngành trong điều trị ung thư, đặc biệt với các phương pháp xạ trị và hóa trị tiên tiến.",
+        "organization_membership": "Hiệp hội Ung thư Quốc tế.",
+        "specialized_fields": [
+            "Xạ trị ung thư",
+            "Hóa trị liệu",
+            "Ung thư vú"
+        ],
+        "achievements": [
+            "Đạt nhiều thành tựu trong điều trị ung thư tại Việt Nam"
+        ],
+        "awards": [
+            "Giải thưởng Ung bướu Quốc tế"
+        ],
+        "research_projects": [
+            "Ứng dụng công nghệ xạ trị Proton",
+            "Phát triển thuốc hóa trị thế hệ mới"
+        ],
+        "training": [
+            "Phó Giáo sư tại Đại học Y Hà Nội",
+            "Nghiên cứu tại Đại học Johns Hopkins"
+        ],
+        "experience": [
+            "Trưởng khoa Ung bướu tại Bệnh viện Tâm Anh",
+            "Hơn 25 năm kinh nghiệm trong điều trị ung thư"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2011/01/bac-si-nguyen-thi-lien-huong-avt.png"
+    },
+    {
+        "department": "25",
+        "id": "74",
+        "facility": "BVĐK Tâm Anh Q8",
+        "name": "ThS.BS Lê Thị Kim Lan",
+        "position": "Chuyên gia Khoa Nhi",
+        "academic_rank": null,
+        "academic_degree": "Thạc sĩ",
+        "introduction": "ThS.BS Lê Thị Kim Lan có nhiều kinh nghiệm trong chăm sóc và điều trị bệnh lý trẻ em như sốt xuất huyết, suy dinh dưỡng và nhiễm khuẩn.",
+        "organization_membership": "Hội Nhi khoa Việt Nam.",
+        "specialized_fields": [
+            "Sốt xuất huyết ở trẻ em",
+            "Suy dinh dưỡng",
+            "Nhiễm khuẩn đường hô hấp"
+        ],
+        "achievements": [
+            "Phát triển chương trình dinh dưỡng cộng đồng cho trẻ"
+        ],
+        "awards": [
+            "Bằng khen từ Bộ Y tế"
+        ],
+        "research_projects": [
+            "Nghiên cứu dinh dưỡng cho trẻ em dưới 5 tuổi",
+            "Ứng dụng phương pháp điều trị mới cho bệnh nhiễm khuẩn"
+        ],
+        "training": [
+            "Thạc sĩ tại Đại học Y Dược TP. Hồ Chí Minh",
+            "Đào tạo nâng cao tại Đại học Tokyo, Nhật Bản"
+        ],
+        "experience": [
+            "Chuyên gia khoa Nhi tại Bệnh viện Tâm Anh",
+            "20 năm chăm sóc sức khỏe trẻ em"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2021/09/phan-thi-xuan-avt.png"
+    },
+    {
+        "department": "25",
+        "id": "75",
+        "facility": "BVĐK Tâm Anh Q8",
+        "name": "TS.BS Hoàng Văn Tùng",
+        "position": "Chuyên gia Khoa Dị ứng và Miễn dịch lâm sàng",
+        "academic_rank": null,
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Hoàng Văn Tùng chuyên điều trị các bệnh lý dị ứng và miễn dịch như viêm mũi dị ứng, lupus ban đỏ hệ thống và các bệnh tự miễn.",
+        "organization_membership": "Hội Miễn dịch học Quốc tế.",
+        "specialized_fields": [
+            "Dị ứng thuốc",
+            "Lupus ban đỏ",
+            "Bệnh tự miễn"
+        ],
+        "achievements": [
+            "Đạt chứng nhận từ Hội Miễn dịch học Quốc tế"
+        ],
+        "awards": [
+            "Giải thưởng Khoa học Dị ứng"
+        ],
+        "research_projects": [
+            "Phát triển liệu pháp miễn dịch cho lupus",
+            "Ứng dụng công nghệ gene trong điều trị bệnh dị ứng"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Hà Nội",
+            "Chứng chỉ về miễn dịch tại Đại học Stanford"
+        ],
+        "experience": [
+            "Chuyên gia tại Bệnh viện Bạch Mai",
+            "15 năm kinh nghiệm điều trị miễn dịch"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2022/06/bac-si-nguyen-duc-hinh-avt.png"
+    },
+    {
+        "department": "26",
+        "id": "76",
+        "facility": "BVĐK Tâm Anh Q8",
+        "name": "TS.BS Phan Thị Minh",
+        "position": "Chuyên gia Nội Hô hấp",
+        "academic_rank": null,
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Phan Thị Minh là chuyên gia về bệnh lý hô hấp, đặc biệt là hen phế quản, COPD, và bệnh phổi nhiễm khuẩn.",
+        "organization_membership": "Hội Hô hấp Quốc tế.",
+        "specialized_fields": [
+            "Hen phế quản",
+            "COPD",
+            "Nhiễm khuẩn đường hô hấp"
+        ],
+        "achievements": [
+            "Triển khai kỹ thuật đo chức năng phổi tiên tiến"
+        ],
+        "awards": [
+            "Giải thưởng Cống hiến ngành Hô hấp"
+        ],
+        "research_projects": [
+            "Nghiên cứu thuốc mới điều trị COPD",
+            "Ứng dụng kỹ thuật điều trị không xâm lấn trong hen phế quản"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Hà Nội",
+            "Đào tạo chuyên sâu tại Anh"
+        ],
+        "experience": [
+            "15 năm kinh nghiệm trong điều trị bệnh lý hô hấp",
+            "Cố vấn chuyên môn tại các bệnh viện lớn"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2011/01/luu-thi-hong-avt.png"
+    },
+    {
+        "department": "26",
+        "facility": "BVĐK Tâm Anh Hà Nội",
+        "id": "77",
+        "name": "ThS.BS Nguyễn Văn Hiếu",
+        "position": "Chuyên gia Ngoại Chấn thương chỉnh hình",
+        "academic_rank": null,
+        "academic_degree": "Thạc sĩ",
+        "introduction": "ThS.BS Nguyễn Văn Hiếu có kinh nghiệm xử lý chấn thương phức tạp và phẫu thuật chỉnh hình hiện đại.",
+        "organization_membership": "Hội Chấn thương Chỉnh hình Việt Nam.",
+        "specialized_fields": [
+            "Chấn thương cột sống",
+            "Chỉnh hình chi dưới",
+            "Phẫu thuật nội soi khớp"
+        ],
+        "achievements": [
+            "Triển khai kỹ thuật phẫu thuật nội soi tiên tiến"
+        ],
+        "awards": [
+            "Bằng khen từ Bộ Y tế"
+        ],
+        "research_projects": [
+            "Nghiên cứu công nghệ robot hỗ trợ phẫu thuật chỉnh hình",
+            "Ứng dụng vật liệu sinh học trong chấn thương"
+        ],
+        "training": [
+            "Thạc sĩ tại Đại học Y Dược TP. Hồ Chí Minh",
+            "Học bổng nghiên cứu tại Đức"
+        ],
+        "experience": [
+            "Trưởng khoa Ngoại tại Bệnh viện Tâm Anh",
+            "15 năm kinh nghiệm trong lĩnh vực chấn thương"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2011/01/nguyen-van-lieu-avt.png"
+    },
+    {
+        "department": "26",
+        "id": "78",
+        "facility": "BVĐK Tâm Anh Q8",
+        "name": "PGS.TS Nguyễn Đức Minh",
+        "position": "Trưởng khoa Nội tiêu hóa",
+        "academic_rank": "Phó Giáo sư",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "PGS.TS Nguyễn Đức Minh có chuyên môn cao trong điều trị bệnh lý tiêu hóa, đặc biệt là nội soi tiêu hóa và điều trị viêm gan.",
+        "organization_membership": "Hội Tiêu hóa Việt Nam.",
+        "specialized_fields": [
+            "Nội soi tiêu hóa",
+            "Viêm gan",
+            "Bệnh lý dạ dày-tá tràng"
+        ],
+        "achievements": [
+            "Triển khai kỹ thuật nội soi tiêu hóa tiên tiến"
+        ],
+        "awards": [
+            "Giải thưởng Y học Tiêu hóa Quốc tế"
+        ],
+        "research_projects": [
+            "Ứng dụng công nghệ AI trong nội soi tiêu hóa",
+            "Điều trị viêm gan virus bằng thuốc kháng virus thế hệ mới"
+        ],
+        "training": [
+            "Phó Giáo sư tại Đại học Y Hà Nội",
+            "Đào tạo chuyên sâu tại Nhật Bản"
+        ],
+        "experience": [
+            "Trưởng khoa Tiêu hóa tại Bệnh viện Tâm Anh",
+            "Hơn 20 năm kinh nghiệm trong điều trị tiêu hóa"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2023/07/ngo-van-hao-avt.png"
+    },
+    {
+        "department": "27",
+        "id": "79",
+        "facility": "BVĐK Tâm Anh Q8",
+        "name": "TS.BS Đặng Thị Hương",
+        "position": "Chuyên gia Nội Nội tiết - Đái tháo đường",
+        "academic_rank": null,
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Đặng Thị Hương có nhiều đóng góp trong nghiên cứu và điều trị bệnh lý nội tiết và đái tháo đường.",
+        "organization_membership": "Hội Nội tiết và Đái tháo đường Quốc tế.",
+        "specialized_fields": [
+            "Đái tháo đường",
+            "Rối loạn lipid máu",
+            "Cường giáp"
+        ],
+        "achievements": [
+            "Ứng dụng công nghệ mới trong theo dõi đường huyết"
+        ],
+        "awards": [
+            "Giải thưởng Nghiên cứu Y học Nội tiết"
+        ],
+        "research_projects": [
+            "Ứng dụng AI trong theo dõi đường huyết liên tục",
+            "Phát triển thuốc thế hệ mới điều trị tiểu đường"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Hà Nội",
+            "Chuyên ngành nội tiết tại Đại học Melbourne"
+        ],
+        "experience": [
+            "Chuyên gia cố vấn tại Bệnh viện Tâm Anh",
+            "Hơn 15 năm kinh nghiệm điều trị nội tiết"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2011/01/bs-nguyen-thi-minh-duc-avt.png"
+    },
+    {
+        "department": "27",
+        "id": "80",
+        "facility": "BVĐK Tâm Anh Q8",
+        "name": "ThS.BS Phạm Văn Hải",
+        "position": "Chuyên gia Ngoại Tim mạch",
+        "academic_rank": null,
+        "academic_degree": "Thạc sĩ",
+        "introduction": "ThS.BS Phạm Văn Hải là chuyên gia phẫu thuật tim mạch với các kỹ thuật can thiệp tiên tiến và hiệu quả.",
+        "organization_membership": "Hội Tim mạch Việt Nam.",
+        "specialized_fields": [
+            "Phẫu thuật tim mạch",
+            "Can thiệp mạch vành",
+            "Điều trị bệnh lý van tim"
+        ],
+        "achievements": [
+            "Đạt chứng nhận về kỹ thuật can thiệp tiên tiến"
+        ],
+        "awards": [
+            "Giải thưởng Cống hiến ngành Tim mạch"
+        ],
+        "research_projects": [
+            "Phát triển phương pháp phẫu thuật không xâm lấn trong điều trị tim mạch",
+            "Ứng dụng vật liệu sinh học trong ghép tim"
+        ],
+        "training": [
+            "Thạc sĩ tại Đại học Y Dược TP. Hồ Chí Minh",
+            "Đào tạo chuyên sâu tại Mỹ"
+        ],
+        "experience": [
+            "15 năm kinh nghiệm phẫu thuật tim mạch",
+            "Chuyên gia cố vấn tại các bệnh viện lớn"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2023/08/nguyen-duc-anh-avt.png"
+    },
+    {
+        "department": "27",
+        "id": "81",
+        "facility": "BVĐK Tâm Anh Q8",
+        "name": "TS.BS Nguyễn Văn Thành",
+        "position": "Chuyên gia Ngoại Lồng ngực",
+        "academic_rank": null,
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Nguyễn Văn Thành là chuyên gia trong lĩnh vực phẫu thuật lồng ngực và điều trị các bệnh lý phổi, màng phổi và trung thất.",
+        "organization_membership": "Hội Phẫu thuật Lồng ngực Quốc tế.",
+        "specialized_fields": [
+            "Phẫu thuật ung thư phổi",
+            "Điều trị u trung thất",
+            "Phẫu thuật nội soi lồng ngực"
+        ],
+        "achievements": [
+            "Phát triển kỹ thuật nội soi tiên tiến trong phẫu thuật phổi"
+        ],
+        "awards": [
+            "Giải thưởng Khoa học Y học Quốc tế"
+        ],
+        "research_projects": [
+            "Nghiên cứu điều trị ung thư phổi bằng phương pháp mới",
+            "Ứng dụng công nghệ robot trong phẫu thuật lồng ngực"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Hà Nội",
+            "Đào tạo chuyên sâu tại Pháp"
+        ],
+        "experience": [
+            "15 năm kinh nghiệm trong phẫu thuật lồng ngực",
+            "Cố vấn chuyên môn tại các bệnh viện lớn"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2011/01/ts-bs-nguyen-van-tuan-avt.png"
+    },
+    {
+        "department": "29",
+        "id": "82",
+        "facility": "BVĐK Tâm Anh Q8",
+        "name": "ThS.BS Trần Thị Lan Anh",
+        "position": "Chuyên gia Nội Da liễu",
+        "academic_rank": null,
+        "academic_degree": "Thạc sĩ",
+        "introduction": "ThS.BS Trần Thị Lan Anh có chuyên môn sâu trong điều trị bệnh da liễu như vảy nến, viêm da cơ địa và các bệnh da do miễn dịch.",
+        "organization_membership": "Hội Da liễu Việt Nam.",
+        "specialized_fields": [
+            "Vảy nến",
+            "Viêm da cơ địa",
+            "Bệnh da do miễn dịch"
+        ],
+        "achievements": [
+            "Triển khai phác đồ điều trị cá nhân hóa cho bệnh nhân da liễu"
+        ],
+        "awards": [
+            "Bằng khen từ Hội Da liễu"
+        ],
+        "research_projects": [
+            "Ứng dụng liệu pháp sinh học trong điều trị vảy nến",
+            "Phát triển công nghệ laser mới trong điều trị da"
+        ],
+        "training": [
+            "Thạc sĩ tại Đại học Y Dược TP. Hồ Chí Minh",
+            "Đào tạo chuyên sâu tại Hàn Quốc"
+        ],
+        "experience": [
+            "Hơn 10 năm kinh nghiệm điều trị bệnh da liễu",
+            "Cố vấn cho các bệnh viện chuyên ngành"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2011/01/dang-hong-hoa-avt.png"
+    },
+    {
+        "department": "29",
+        "id": "83",
+        "facility": "Phòng khám ĐK Tâm Anh Q7",
+        "name": "TS.BS Đỗ Minh Quân",
+        "position": "Chuyên gia Nội Cơ xương khớp",
+        "academic_rank": null,
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Đỗ Minh Quân có chuyên môn cao trong điều trị các bệnh lý cơ xương khớp như viêm khớp, loãng xương, và thoái hóa khớp.",
+        "organization_membership": "Hội Cơ Xương Khớp Quốc tế.",
+        "specialized_fields": [
+            "Thoái hóa khớp",
+            "Viêm khớp dạng thấp",
+            "Loãng xương"
+        ],
+        "achievements": [
+            "Triển khai kỹ thuật tiêm nội khớp tiên tiến"
+        ],
+        "awards": [
+            "Giải thưởng Nghiên cứu Y học Cơ Xương Khớp"
+        ],
+        "research_projects": [
+            "Nghiên cứu thuốc điều trị viêm khớp",
+            "Ứng dụng vật liệu mới trong điều trị loãng xương"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Hà Nội",
+            "Chứng chỉ chuyên ngành tại Đại học Cambridge"
+        ],
+        "experience": [
+            "15 năm kinh nghiệm trong điều trị bệnh cơ xương khớp",
+            "Tham gia nghiên cứu quốc tế về bệnh xương khớp"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2011/01/bs-le-minh-ky.png"
+    },
+    {
+        "department": "29",
+        "id": "84",
+        "facility": "Phòng khám ĐK Tâm Anh Q7",
+        "name": "PGS.TS Nguyễn Thu Hà",
+        "position": "Trưởng khoa Nội Nhiễm",
+        "academic_rank": "Phó Giáo sư",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "PGS.TS Nguyễn Thu Hà là chuyên gia đầu ngành trong điều trị các bệnh lý nhiễm trùng, đặc biệt là bệnh lý nhiễm khuẩn huyết và nhiễm virus. Bà có nhiều nghiên cứu quan trọng về vi khuẩn kháng thuốc và các phương pháp điều trị nhiễm trùng mới.",
+        "organization_membership": "Hội Nhiễm khuẩn Việt Nam, Hội Nhiễm trùng Quốc tế",
+        "specialized_fields": [
+            "Nhiễm khuẩn huyết",
+            "Nhiễm virus",
+            "Kháng sinh và kháng thuốc"
+        ],
+        "achievements": [
+            "Nghiên cứu tiên phong trong điều trị vi khuẩn kháng thuốc"
+        ],
+        "awards": [
+            "Giải thưởng Khoa học Y tế Quốc gia"
+        ],
+        "research_projects": [
+            "Phát triển phương pháp điều trị mới cho nhiễm khuẩn huyết",
+            "Nghiên cứu về kháng sinh mới điều trị nhiễm khuẩn kháng thuốc"
+        ],
+        "training": [
+            "Phó Giáo sư tại Đại học Y Hà Nội",
+            "Đào tạo tại các trung tâm y tế quốc tế tại Mỹ và Châu Âu"
+        ],
+        "experience": [
+            "Hơn 20 năm kinh nghiệm trong điều trị nhiễm trùng",
+            "Cố vấn y tế cho các bệnh viện lớn trong nước và quốc tế"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2011/01/bac-si-chu-thi-hanh.png"
+    },
+    {
+        "department": "30",
+        "id": "85",
+        "facility": "Phòng khám ĐK Tâm Anh Q7",
+        "name": "TS.BS Nguyễn Thiên Tài",
+        "position": "Chuyên gia Ngoại Niệu",
+        "academic_rank": null,
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Nguyễn Thiên Tài là chuyên gia trong lĩnh vực phẫu thuật niệu khoa, đặc biệt là phẫu thuật cắt thận, phẫu thuật niệu đạo và điều trị các bệnh lý niệu khoa khác. Ông cũng nghiên cứu sâu về các bệnh lý sinh lý đường tiết niệu.",
+        "organization_membership": "Hội Niệu khoa Việt Nam, Hội Niệu khoa Quốc tế",
+        "specialized_fields": [
+            "Phẫu thuật thận",
+            "Phẫu thuật niệu đạo",
+            "Bệnh lý sinh lý đường tiết niệu"
+        ],
+        "achievements": [
+            "Đạt chứng nhận về kỹ thuật phẫu thuật niệu khoa tiên tiến"
+        ],
+        "awards": [
+            "Giải thưởng Y học Niệu khoa Quốc tế"
+        ],
+        "research_projects": [
+            "Nghiên cứu phương pháp phẫu thuật niệu đạo ít xâm lấn",
+            "Ứng dụng kỹ thuật mới trong điều trị sỏi thận"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Dược TP. Hồ Chí Minh",
+            "Đào tạo tại các bệnh viện uy tín quốc tế tại Nhật Bản và Mỹ"
+        ],
+        "experience": [
+            "15 năm kinh nghiệm trong điều trị niệu khoa",
+            "Giảng viên và nghiên cứu tại các hội nghị y học quốc tế"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2011/01/bs-trinh-tuan-dung-avt.png"
+    },
+    {
+        "department": "30",
+        "id": "86",
+        "facility": "Phòng khám ĐK Tâm Anh Q7",
+        "name": "TS.BS Nguyễn Minh Tuấn",
+        "position": "Chuyên gia Ngoại Tổng quát",
+        "academic_rank": null,
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Nguyễn Minh Tuấn là chuyên gia trong lĩnh vực ngoại khoa, đặc biệt là phẫu thuật các bệnh lý về đường tiêu hóa, nội tiết và các phẫu thuật khác. Ông đã thực hiện hàng ngàn ca phẫu thuật thành công và có nhiều sáng kiến trong việc cải thiện kỹ thuật mổ nội soi.",
+        "organization_membership": "Hội Ngoại khoa Việt Nam, Hội Phẫu thuật nội soi Quốc tế",
+        "specialized_fields": [
+            "Ngoại khoa đường tiêu hóa",
+            "Phẫu thuật nội soi",
+            "Phẫu thuật điều trị u bướu"
+        ],
+        "achievements": [
+            "Sáng chế phương pháp mổ nội soi tiên tiến giúp giảm đau và thời gian hồi phục cho bệnh nhân"
+        ],
+        "awards": [
+            "Giải thưởng Y tế Quốc gia",
+            "Chứng nhận chuyên gia ngoại khoa hàng đầu"
+        ],
+        "research_projects": [
+            "Nghiên cứu về phương pháp mổ nội soi trong điều trị ung thư đại trực tràng",
+            "Ứng dụng công nghệ cao trong phẫu thuật u bướu"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Hà Nội",
+            "Đào tạo tại các bệnh viện hàng đầu tại Mỹ và Châu Âu"
+        ],
+        "experience": [
+            "Hơn 18 năm kinh nghiệm trong phẫu thuật ngoại khoa",
+            "Giảng viên tại Đại học Y Hà Nội và các hội nghị y học quốc tế"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2011/01/nguyen-hoag-duc-avt.png"
+    },
+    {
+        "department": "30",
+        "id": "87",
+        "facility": "Phòng khám ĐK Tâm Anh Q7",
+        "name": "PGS.TS Nguyễn Thị Lan",
+        "position": "Chuyên gia Sản phụ khoa",
+        "academic_rank": "Phó Giáo sư",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "PGS.TS Nguyễn Thị Lan là chuyên gia về sản phụ khoa, đặc biệt trong việc điều trị vô sinh hiếm muộn, thụ tinh trong ống nghiệm (IVF) và các vấn đề sức khỏe sinh sản của phụ nữ. Bà đã có hơn 20 năm nghiên cứu và điều trị cho hàng ngàn ca vô sinh, giúp nhiều cặp vợ chồng có được niềm hạnh phúc làm cha mẹ.",
+        "organization_membership": "Hội Phụ sản Việt Nam, Hội Vô sinh và Hiếm muộn Quốc tế",
+        "specialized_fields": [
+            "Vô sinh hiếm muộn",
+            "Thụ tinh trong ống nghiệm",
+            "Chăm sóc sức khỏe sinh sản cho phụ nữ"
+        ],
+        "achievements": [
+            "Được công nhận là chuyên gia IVF hàng đầu Việt Nam"
+        ],
+        "awards": [
+            "Giải thưởng Y học Quốc gia",
+            "Huy chương vàng trong lĩnh vực IVF"
+        ],
+        "research_projects": [
+            "Nghiên cứu về các phương pháp điều trị vô sinh cho phụ nữ tuổi cao",
+            "Ứng dụng phương pháp mới trong thụ tinh trong ống nghiệm"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Dược TP. Hồ Chí Minh",
+            "Đào tạo tại các bệnh viện lớn tại Pháp và Nhật Bản"
+        ],
+        "experience": [
+            "20 năm kinh nghiệm trong điều trị vô sinh và hiếm muộn",
+            "Cố vấn cho nhiều trung tâm IVF và các bệnh viện lớn trong nước"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2011/01/le-to-nhu-avt.png"
+    },
+    {
+        "department": "31",
+        "facility": "BVĐK Tâm Anh Hà Nội",
+        "id": "88",
+        "name": "TS.BS Trần Hoàng Hải",
+        "position": "Chuyên gia Ngoại thần kinh",
+        "academic_rank": "Tiến sĩ",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Trần Hoàng Hải là chuyên gia hàng đầu về phẫu thuật thần kinh, đặc biệt là phẫu thuật các bệnh lý về não và cột sống. Ông đã tham gia nhiều nghiên cứu về các phương pháp điều trị chấn thương não và cột sống, giúp cải thiện tỉ lệ phục hồi cho bệnh nhân sau phẫu thuật.",
+        "organization_membership": "Hội Thần kinh học Việt Nam, Hội Phẫu thuật thần kinh Quốc tế",
+        "specialized_fields": [
+            "Phẫu thuật thần kinh",
+            "Chấn thương sọ não",
+            "Điều trị bệnh lý cột sống"
+        ],
+        "achievements": [
+            "Được công nhận là chuyên gia thần kinh hàng đầu Việt Nam"
+        ],
+        "awards": [
+            "Giải thưởng Y tế xuất sắc",
+            "Giải thưởng Công nghệ y học quốc tế"
+        ],
+        "research_projects": [
+            "Nghiên cứu về phương pháp phẫu thuật cột sống không cần mổ mở",
+            "Ứng dụng công nghệ cao trong điều trị chấn thương sọ não"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Hà Nội",
+            "Đào tạo tại các bệnh viện lớn ở Mỹ và Nhật Bản"
+        ],
+        "experience": [
+            "Hơn 15 năm kinh nghiệm trong phẫu thuật thần kinh",
+            "Giảng viên tại Đại học Y Hà Nội và các hội nghị quốc tế"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2014/12/avt-bac-si-duc-nhuan-1.png"
+    },
+    {
+        "department": "31",
+        "id": "89",
+        "facility": "Phòng khám ĐK Tâm Anh Q7",
+        "name": "PGS.TS Nguyễn Thị Lan",
+        "position": "Chuyên gia Nội khoa",
+        "academic_rank": "Phó Giáo sư",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "PGS.TS Nguyễn Thị Lan là chuyên gia về nội khoa, với nhiều năm kinh nghiệm trong việc điều trị các bệnh lý tim mạch và hô hấp. Bà đã công tác tại các bệnh viện lớn, tham gia nhiều nghiên cứu khoa học giúp cải thiện việc chẩn đoán và điều trị các bệnh lý này.",
+        "organization_membership": "Hội Nội khoa Việt Nam, Hội Tim mạch Quốc tế",
+        "specialized_fields": [
+            "Tim mạch",
+            "Hô hấp",
+            "Điều trị bệnh lý mãn tính"
+        ],
+        "achievements": [
+            "Giải thưởng nghiên cứu y khoa quốc tế",
+            "Được công nhận là chuyên gia trong điều trị bệnh tim mạch"
+        ],
+        "awards": [
+            "Giải thưởng nghiên cứu khoa học quốc gia",
+            "Giải thưởng nội khoa xuất sắc"
+        ],
+        "research_projects": [
+            "Nghiên cứu về phương pháp điều trị bệnh lý tim mạch bằng thuốc mới",
+            "Ứng dụng công nghệ trong chẩn đoán và điều trị bệnh hô hấp"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Hà Nội",
+            "Đào tạo tại các bệnh viện lớn ở Đức và Mỹ"
+        ],
+        "experience": [
+            "Hơn 20 năm kinh nghiệm trong lĩnh vực nội khoa",
+            "Giảng viên tại Đại học Y Dược TP.HCM"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2011/02/bs-le-thi-diem-tuyet-avt.png"
+    },
+    {
+        "department": "31",
+        "id": "90",
+        "facility": "Phòng khám ĐK Tâm Anh Q7",
+        "name": "TS.BS Lê Thị Thu Hằng",
+        "position": "Chuyên gia Ngoại thần kinh",
+        "academic_rank": "Tiến sĩ",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Lê Thị Thu Hằng là chuyên gia về ngoại thần kinh, đặc biệt trong các ca phẫu thuật điều trị các bệnh lý về thần kinh ngoại vi và đột quỵ. Bà đã có nhiều sáng kiến trong việc ứng dụng công nghệ mới trong chẩn đoán và điều trị.",
+        "organization_membership": "Hội Thần kinh học Việt Nam, Hội Ngoại thần kinh Quốc tế",
+        "specialized_fields": [
+            "Ngoại thần kinh",
+            "Điều trị đột quỵ",
+            "Chấn thương hệ thần kinh ngoại vi"
+        ],
+        "achievements": [
+            "Giải thưởng Y khoa xuất sắc về ngoại thần kinh"
+        ],
+        "awards": [
+            "Huy chương vàng trong nghiên cứu y học",
+            "Giải thưởng công trình nghiên cứu đột phá"
+        ],
+        "research_projects": [
+            "Nghiên cứu về ứng dụng công nghệ mới trong điều trị đột quỵ",
+            "Phát triển phương pháp phẫu thuật thần kinh tối ưu"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Hà Nội",
+            "Đào tạo tại các bệnh viện hàng đầu ở Nhật Bản và Mỹ"
+        ],
+        "experience": [
+            "Hơn 12 năm kinh nghiệm trong ngoại thần kinh",
+            "Thực hiện nhiều ca phẫu thuật điều trị đột quỵ và các bệnh lý thần kinh nặng"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2023/04/ths-bs-chau-thi-ngoc-anh.png"
+    },
+    {
+        "department": "32",
+        "id": "91",
+        "facility": "Phòng khám ĐK Tâm Anh Q7",
+        "name": "TS.BS Nguyễn Hoàng Duy",
+        "position": "Chuyên gia Tai mũi họng",
+        "academic_rank": "Tiến sĩ",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Nguyễn Hoàng Duy là chuyên gia về tai mũi họng, chuyên điều trị các bệnh lý về tai, mũi, họng và phẫu thuật điều trị bệnh lý vùng cổ. Ông là một trong những bác sĩ tiên phong trong việc áp dụng kỹ thuật phẫu thuật nội soi vào điều trị các bệnh lý vùng tai mũi họng.",
+        "organization_membership": "Hội Tai Mũi Họng Việt Nam, Hội Tai Mũi Họng Quốc tế",
+        "specialized_fields": [
+            "Điều trị bệnh lý tai mũi họng",
+            "Phẫu thuật nội soi vùng cổ"
+        ],
+        "achievements": [
+            "Được công nhận là chuyên gia phẫu thuật nội soi vùng cổ hàng đầu"
+        ],
+        "awards": [
+            "Giải thưởng Y khoa xuất sắc",
+            "Chứng nhận chuyên gia về phẫu thuật tai mũi họng"
+        ],
+        "research_projects": [
+            "Nghiên cứu về phẫu thuật nội soi trong điều trị các bệnh lý tai mũi họng",
+            "Cải tiến kỹ thuật mổ nội soi giúp phục hồi nhanh hơn"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Dược TP.HCM",
+            "Đào tạo tại các bệnh viện lớn ở Pháp và Đức"
+        ],
+        "experience": [
+            "Hơn 10 năm kinh nghiệm trong điều trị các bệnh lý tai mũi họng",
+            "Giảng viên tại Đại học Y Hà Nội và các hội nghị quốc tế"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2011/02/bs-nguyen-duy-trinh.png"
+    },
+    {
+        "department": "32",
+        "id": "92",
+        "facility": "Phòng khám ĐK Tâm Anh Q7",
+        "name": "TS.BS Vũ Quang Hưng",
+        "position": "Chuyên gia Ngoại khoa",
+        "academic_rank": "Tiến sĩ",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Vũ Quang Hưng là chuyên gia trong lĩnh vực ngoại khoa, đặc biệt trong điều trị các bệnh lý liên quan đến các cơ quan nội tạng và các bệnh lý phẫu thuật cấp cứu. Ông nổi bật với những kỹ thuật mổ tiên tiến và khả năng điều trị hiệu quả các ca phẫu thuật khó.",
+        "organization_membership": "Hội Ngoại khoa Việt Nam, Hội Phẫu thuật Quốc tế",
+        "specialized_fields": [
+            "Ngoại khoa nội tạng",
+            "Phẫu thuật cấp cứu"
+        ],
+        "achievements": [
+            "Sáng chế phương pháp mổ giảm thiểu tổn thương cho bệnh nhân"
+        ],
+        "awards": [
+            "Giải thưởng Y học quốc gia",
+            "Chứng nhận về phẫu thuật an toàn và hiệu quả"
+        ],
+        "research_projects": [
+            "Nghiên cứu về kỹ thuật mổ nội tạng ít xâm lấn",
+            "Ứng dụng công nghệ mới trong phẫu thuật cấp cứu"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Hà Nội",
+            "Đào tạo tại các bệnh viện hàng đầu ở Mỹ và Nhật Bản"
+        ],
+        "experience": [
+            "Hơn 18 năm kinh nghiệm trong ngoại khoa",
+            "Thực hiện hơn 500 ca phẫu thuật phức tạp mỗi năm"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2014/12/avt-bac-si-ngoc-lam1.png"
+    },
+    {
+        "department": "32",
+        "id": "93",
+        "facility": "Phòng khám ĐK Tâm Anh Q7",
+        "name": "PGS.TS Phan Hữu Tân",
+        "position": "Chuyên gia Ngoại thần kinh",
+        "academic_rank": "Phó Giáo sư",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "PGS.TS Phan Hữu Tân là chuyên gia nổi bật trong lĩnh vực ngoại thần kinh với hơn 20 năm kinh nghiệm. Ông chuyên điều trị các bệnh lý liên quan đến thần kinh cột sống và các phẫu thuật phức tạp liên quan đến não bộ và cột sống. Các nghiên cứu của ông đã đóng góp quan trọng vào việc cải thiện kỹ thuật phẫu thuật và phục hồi chức năng cho bệnh nhân.",
+        "organization_membership": "Hội Thần kinh học Việt Nam, Hội Ngoại thần kinh Quốc tế",
+        "specialized_fields": [
+            "Phẫu thuật thần kinh",
+            "Điều trị bệnh lý cột sống",
+            "Chấn thương sọ não"
+        ],
+        "achievements": [
+            "Nghiên cứu về phẫu thuật thần kinh cột sống",
+            "Được công nhận là chuyên gia phẫu thuật thần kinh hàng đầu"
+        ],
+        "awards": [
+            "Giải thưởng Y khoa Xuất sắc",
+            "Giải thưởng nghiên cứu y học quốc tế"
+        ],
+        "research_projects": [
+            "Nghiên cứu về phẫu thuật cột sống không mổ mở",
+            "Ứng dụng công nghệ mới trong điều trị bệnh lý thần kinh cột sống"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Hà Nội",
+            "Đào tạo tại các bệnh viện lớn ở Pháp, Nhật Bản"
+        ],
+        "experience": [
+            "Hơn 20 năm kinh nghiệm trong ngoại thần kinh",
+            "Giảng viên tại Đại học Y Dược TP.HCM"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2011/02/bs-le-van-khanh-avt.png"
+    },
+    {
+        "department": "33",
+        "id": "94",
+        "facility": "Phòng khám ĐK Tâm Anh Q7",
+        "name": "TS.BS Lê Minh Tân",
+        "position": "Chuyên gia Ngoại thần kinh",
+        "academic_rank": "Tiến sĩ",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Lê Minh Tân là chuyên gia về phẫu thuật thần kinh và điều trị các bệnh lý thần kinh phức tạp, bao gồm các bệnh lý về cột sống, não bộ và các chấn thương thần kinh. Ông đã thực hiện nhiều ca phẫu thuật tiên tiến và nghiên cứu về phương pháp phẫu thuật giúp tăng tỷ lệ hồi phục cho bệnh nhân.",
+        "organization_membership": "Hội Thần kinh học Việt Nam, Hội Ngoại thần kinh Quốc tế",
+        "specialized_fields": [
+            "Ngoại thần kinh",
+            "Điều trị bệnh lý thần kinh cột sống",
+            "Điều trị chấn thương sọ não"
+        ],
+        "achievements": [
+            "Giải thưởng nghiên cứu y học xuất sắc",
+            "Được công nhận là chuyên gia hàng đầu về phẫu thuật thần kinh"
+        ],
+        "awards": [
+            "Giải thưởng Y khoa quốc tế",
+            "Chứng nhận chuyên gia phẫu thuật thần kinh"
+        ],
+        "research_projects": [
+            "Nghiên cứu về phẫu thuật cột sống bằng phương pháp mới",
+            "Nghiên cứu về điều trị các chấn thương sọ não"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Dược TP.HCM",
+            "Đào tạo tại các bệnh viện hàng đầu ở Mỹ và Nhật Bản"
+        ],
+        "experience": [
+            "Hơn 15 năm kinh nghiệm trong điều trị các bệnh lý thần kinh",
+            "Giảng viên tại các hội nghị quốc tế"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2024/04/bs-le-van-tuan-avt.png"
+    },
+    {
+        "department": "33",
+        "id": "95",
+        "facility": "Phòng khám ĐK Tâm Anh Q7",
+        "name": "PGS.TS Đoàn Quang Học",
+        "position": "Chuyên gia Ngoại thần kinh",
+        "academic_rank": "Phó Giáo sư",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "PGS.TS Đoàn Quang Học là một trong những chuyên gia hàng đầu về ngoại thần kinh tại Việt Nam. Ông đã có nhiều đóng góp trong việc nghiên cứu và ứng dụng các kỹ thuật phẫu thuật hiện đại vào điều trị các bệnh lý về cột sống và não bộ, mang lại hiệu quả cao trong việc phục hồi chức năng cho bệnh nhân.",
+        "organization_membership": "Hội Thần kinh học Việt Nam, Hội Ngoại thần kinh Quốc tế",
+        "specialized_fields": [
+            "Ngoại thần kinh",
+            "Phẫu thuật cột sống",
+            "Điều trị chấn thương sọ não"
+        ],
+        "achievements": [
+            "Được vinh danh tại các hội nghị y học quốc tế",
+            "Cải tiến kỹ thuật phẫu thuật thần kinh"
+        ],
+        "awards": [
+            "Giải thưởng Y học quốc tế",
+            "Chứng nhận chuyên gia về phẫu thuật cột sống"
+        ],
+        "research_projects": [
+            "Nghiên cứu về phương pháp điều trị đột quỵ bằng phẫu thuật",
+            "Cải tiến kỹ thuật điều trị bệnh lý cột sống"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Hà Nội",
+            "Đào tạo tại các bệnh viện hàng đầu ở Mỹ và Pháp"
+        ],
+        "experience": [
+            "Hơn 18 năm kinh nghiệm trong phẫu thuật thần kinh",
+            "Giảng viên tại Đại học Y Hà Nội và các hội nghị quốc tế"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2024/10/bac-si-ho-huu-dung-avt.png"
+    },
+    {
+        "department": "34",
+        "id": "96",
+        "name": "TS.BS Nguyễn Đăng Khoa",
+        "facility": "Phòng khám ĐK Tâm Anh Q7",
+        "position": "Chuyên gia Nội khoa",
+        "academic_rank": "Tiến sĩ",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Nguyễn Đăng Khoa là chuyên gia nội khoa, nổi bật trong việc điều trị các bệnh lý tim mạch và nội tiết. Ông đã thực hiện nhiều nghiên cứu y học giúp cải tiến các phương pháp chẩn đoán và điều trị cho bệnh nhân, đặc biệt là trong các ca bệnh mãn tính như cao huyết áp, đái tháo đường.",
+        "organization_membership": "Hội Nội khoa Việt Nam, Hội Tim mạch Quốc tế",
+        "specialized_fields": [
+            "Tim mạch",
+            "Nội tiết",
+            "Điều trị bệnh lý mãn tính"
+        ],
+        "achievements": [
+            "Được công nhận là chuyên gia hàng đầu trong điều trị bệnh tim mạch"
+        ],
+        "awards": [
+            "Giải thưởng nghiên cứu khoa học xuất sắc",
+            "Giải thưởng tim mạch quốc tế"
+        ],
+        "research_projects": [
+            "Nghiên cứu về phương pháp điều trị bệnh cao huyết áp bằng thuốc mới",
+            "Ứng dụng công nghệ trong điều trị bệnh lý tim mạch"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Hà Nội",
+            "Đào tạo tại các bệnh viện lớn ở Đức và Mỹ"
+        ],
+        "experience": [
+            "Hơn 20 năm kinh nghiệm trong điều trị các bệnh tim mạch và nội tiết",
+            "Giảng viên tại Đại học Y Dược TP.HCM"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2022/12/le-ba-ngoc-avt.png"
+    },
+    {
+        "department": "34",
+        "id": "97",
+        "facility": "Phòng khám ĐK Tâm Anh Q7",
+        "name": "BS.CKII NGUYỄN ĐẠI NAM",
+        "position": "Chuyên gia Ngoại khoa",
+        "academic_rank": "Tiến sĩ",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Trần Minh Đạo là chuyên gia trong lĩnh vực ngoại khoa, đặc biệt trong điều trị các bệnh lý về gan, mật, tiêu hóa và phẫu thuật các bệnh lý ung thư. Ông đã có nhiều công trình nghiên cứu nổi bật giúp cải thiện phương pháp điều trị ung thư và các bệnh lý về gan mật.",
+        "organization_membership": "Hội Ngoại khoa Việt Nam, Hội Tiêu hóa Quốc tế",
+        "specialized_fields": [
+            "Ngoại khoa tiêu hóa",
+            "Điều trị bệnh lý gan mật",
+            "Phẫu thuật ung thư"
+        ],
+        "achievements": [
+            "Giải thưởng nghiên cứu y học xuất sắc",
+            "Được công nhận là chuyên gia trong điều trị ung thư"
+        ],
+        "awards": [
+            "Giải thưởng y khoa quốc gia",
+            "Giải thưởng nghiên cứu xuất sắc"
+        ],
+        "research_projects": [
+            "Nghiên cứu về phẫu thuật điều trị bệnh lý gan mật",
+            "Ứng dụng công nghệ mới trong điều trị ung thư"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Dược TP.HCM",
+            "Đào tạo tại các bệnh viện hàng đầu ở Mỹ và Nhật Bản"
+        ],
+        "experience": [
+            "Hơn 15 năm kinh nghiệm trong điều trị bệnh lý ung thư và gan mật",
+            "Giảng viên tại Đại học Y Hà Nội"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2021/03/nguyen-minh-tri-vien-avt.png"
+    },
+    {
+        "department": "34",
+        "id": "98",
+        "facility": "Phòng khám ĐK Tâm Anh Q7",
+        "name": "TS.BS Trần Minh Đạo",
+        "position": "Chuyên gia Ngoại khoa",
+        "academic_rank": "Tiến sĩ",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Trần Minh Đạo là chuyên gia trong lĩnh vực ngoại khoa, đặc biệt trong điều trị các bệnh lý về gan, mật, tiêu hóa và phẫu thuật các bệnh lý ung thư. Ông đã có nhiều công trình nghiên cứu nổi bật giúp cải thiện phương pháp điều trị ung thư và các bệnh lý về gan mật.",
+        "organization_membership": "Hội Ngoại khoa Việt Nam, Hội Tiêu hóa Quốc tế",
+        "specialized_fields": [
+            "Ngoại khoa tiêu hóa",
+            "Điều trị bệnh lý gan mật",
+            "Phẫu thuật ung thư"
+        ],
+        "achievements": [
+            "Giải thưởng nghiên cứu y học xuất sắc",
+            "Được công nhận là chuyên gia trong điều trị ung thư"
+        ],
+        "awards": [
+            "Giải thưởng y khoa quốc gia",
+            "Giải thưởng nghiên cứu xuất sắc"
+        ],
+        "research_projects": [
+            "Nghiên cứu về phẫu thuật điều trị bệnh lý gan mật",
+            "Ứng dụng công nghệ mới trong điều trị ung thư"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Dược TP.HCM",
+            "Đào tạo tại các bệnh viện hàng đầu ở Mỹ và Nhật Bản"
+        ],
+        "experience": [
+            "Hơn 15 năm kinh nghiệm trong điều trị bệnh lý ung thư và gan mật",
+            "Giảng viên tại Đại học Y Hà Nội"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2013/05/bs-nguyen-anh-dung.png"
+    },
+    {
+        "department": "35",
+        "facility": "BVĐK Tâm Anh Hà Nội",
+        "id": "99",
+        "name": "THS.BS NGUYỄN ĐỖ THÙY GIANG",
+        "position": "Chuyên gia Ngoại khoa",
+        "academic_rank": "Tiến sĩ",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Trần Minh Đạo là chuyên gia trong lĩnh vực ngoại khoa, đặc biệt trong điều trị các bệnh lý về gan, mật, tiêu hóa và phẫu thuật các bệnh lý ung thư. Ông đã có nhiều công trình nghiên cứu nổi bật giúp cải thiện phương pháp điều trị ung thư và các bệnh lý về gan mật.",
+        "organization_membership": "Hội Ngoại khoa Việt Nam, Hội Tiêu hóa Quốc tế",
+        "specialized_fields": [
+            "Ngoại khoa tiêu hóa",
+            "Điều trị bệnh lý gan mật",
+            "Phẫu thuật ung thư"
+        ],
+        "achievements": [
+            "Giải thưởng nghiên cứu y học xuất sắc",
+            "Được công nhận là chuyên gia trong điều trị ung thư"
+        ],
+        "awards": [
+            "Giải thưởng y khoa quốc gia",
+            "Giải thưởng nghiên cứu xuất sắc"
+        ],
+        "research_projects": [
+            "Nghiên cứu về phẫu thuật điều trị bệnh lý gan mật",
+            "Ứng dụng công nghệ mới trong điều trị ung thư"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Dược TP.HCM",
+            "Đào tạo tại các bệnh viện hàng đầu ở Mỹ và Nhật Bản"
+        ],
+        "experience": [
+            "Hơn 15 năm kinh nghiệm trong điều trị bệnh lý ung thư và gan mật",
+            "Giảng viên tại Đại học Y Hà Nội"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2012/09/bs-huynh-phuc-nguyen.png"
+    },
+    {
+        "department": "35",
+        "id": "100",
+        "facility": "Phòng khám ĐK Tâm Anh Q7",
+        "name": "BS.CKII TRẦN THỊ THANH TRÚC",
+        "position": "Chuyên gia Ngoại khoa",
+        "academic_rank": "Tiến sĩ",
+        "academic_degree": "Tiến sĩ",
+        "introduction": "TS.BS Trần Minh Đạo là chuyên gia trong lĩnh vực ngoại khoa, đặc biệt trong điều trị các bệnh lý về gan, mật, tiêu hóa và phẫu thuật các bệnh lý ung thư. Ông đã có nhiều công trình nghiên cứu nổi bật giúp cải thiện phương pháp điều trị ung thư và các bệnh lý về gan mật.",
+        "organization_membership": "Hội Ngoại khoa Việt Nam, Hội Tiêu hóa Quốc tế",
+        "specialized_fields": [
+            "Ngoại khoa tiêu hóa",
+            "Điều trị bệnh lý gan mật",
+            "Phẫu thuật ung thư"
+        ],
+        "achievements": [
+            "Giải thưởng nghiên cứu y học xuất sắc",
+            "Được công nhận là chuyên gia trong điều trị ung thư"
+        ],
+        "awards": [
+            "Giải thưởng y khoa quốc gia",
+            "Giải thưởng nghiên cứu xuất sắc"
+        ],
+        "research_projects": [
+            "Nghiên cứu về phẫu thuật điều trị bệnh lý gan mật",
+            "Ứng dụng công nghệ mới trong điều trị ung thư"
+        ],
+        "training": [
+            "Tiến sĩ tại Đại học Y Dược TP.HCM",
+            "Đào tạo tại các bệnh viện hàng đầu ở Mỹ và Nhật Bản"
+        ],
+        "experience": [
+            "Hơn 15 năm kinh nghiệm trong điều trị bệnh lý ung thư và gan mật",
+            "Giảng viên tại Đại học Y Hà Nội"
+        ],
+        "image": "https://tamanhhospital.vn/wp-content/uploads/2021/02/tran-thi-thanh-truc-avt.png"
+    }
+]

@@ -1,0 +1,147 @@
+<!doctype html>
+
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="/assets/css/components/Navbar.css">
+    <script src="/assets/js/components/Navbar.js"></script>
+</head>
+
+<body>
+    <div id="header" class="mb-center bg-primary">
+        <div class="container row">
+            <!-- logo -->
+            <div class="col-md-6">
+                <a href="/index.html">
+                    <img src="/assets/image/logo/ta/logo-ta.png" alt="logo">
+                </a>
+            </div>
+            <!-- other -->
+            <div class="col-md-6 p-3">
+                <div class="row tellphone">
+                    <div class="col-6 header-top">
+                        <div class="khu-vuc row">
+                            <div>
+                                <i class="fa fa-map-marker"></i>
+                                hotline hà nội
+                            </div>
+                        </div>
+                        <div class="tel row d-inline-block">
+                            <a href="#">
+                                024 7106 6858 - 024 3872 3872
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-6 header-top">
+                        <div class="khu-vuc row">
+                            <div>
+                                <i class="fa fa-map-marker"></i>
+                                hồ chí minh
+                            </div>
+                        </div>
+                        <div class="tel row d-inline-block">
+                            <a href="#">
+                                0287 102 6789 - 093 180 6858
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row widget">
+                    <div class="hoi-dap">
+                        <i class="fa-solid fa-headphones"></i>
+                        <a href="#">
+                            Hỏi đáp
+                        </a>
+                    </div>
+                    <div class="dat-lich-kham">
+                        <i class="fa-regular fa-calendar-days"></i>
+                        <a href="/pages/KhachHang/DatLich.html">
+                            Đặt lịch khám
+                        </a>
+                    </div>
+                    <div class="authority">
+                        <div class="login-register">
+                            <i class="fa-solid fa-user"></i>
+                            <a href="/pages/DangNhap.html">Đăng nhập</a>
+                            /
+                            <a href="/pages/DangKy.html">Đăng ký</a>
+                        </div>
+                        <div class="user-div hide">
+                            <div class="user" onclick="UserClickHandler()">
+                                <img src="/assets/image/Header/user/avatar-user.png" alt=""
+                                    style="background-color: transparent; border-radius: 50%;">
+                                <div class="user-name">
+                                    Tài khoản của bạn
+                                </div>
+                            </div>
+                        </div>
+                        <div class="user-more-info hide">
+                            <ul class="cs-list-group">
+                                <li class="cs-list-group-item">
+                                    <a href="#">
+                                        Thông tin tài khoản
+                                    </a>
+                                </li>
+                                <li class="cs-list-group-item">
+                                    <a href="#">
+                                        Thay đổi mật khẩu
+                                    </a>
+                                </li>
+                                <li class="cs-list-group-item" id="user-role">
+                                    <a href="/pages/QuanLy/QuanTri.html">
+                                        Truy cập trang quản trị
+                                    </a>
+                                </li>
+                                <li class="cs-list-group-item">
+                                    <a onclick="LoggedOut()">
+                                        Đăng xuất
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <nav id="navigation-bar" class="navbar navbar-expand-sm bg-light">
+            <div class="container">
+                <div class="collapse navbar-collapse" id="nav">
+                    <ul class="navbar-nav me-auto mt-2 mt-lg-0 ">
+                        <li class="nav-item"><a href="/index.html" class="nav-link">
+                                Trang chủ
+                            </a></li>
+                        <li class="nav-item"><a href="/pages/KhachHang/ChuyenKhoa.html" class="nav-link">
+                                Chuyên khoa
+                            </a></li>
+                        <li class="nav-item"><a href="/pages/KhachHang/BacSi.html" class="nav-link">
+                                bác sĩ - chuyên gia
+                            </a></li>
+                        <li class="nav-item"><a href="#" class="nav-link">
+                                Dịch vụ đặc biệt
+                            </a></li>
+                        <li class="nav-item"><a href="#" class="nav-link">
+                                Tiện nghi
+                            </a></li>
+                        <li class="nav-item"><a href="/pages/KhachHang/ThanhTuu.html" class="nav-link">
+                                thành tựu
+                            </a></li>
+                        <li class="nav-item"><a href="/pages/KhachHang/TinTuc.html" class="nav-link">
+                                tin tức
+                            </a></li>
+                        <li class="nav-item"><a href="#" class="nav-link">
+                                liên hệ
+                            </a></li>
+                    </ul>
+                    <div class="hidden-search">
+                        <i class="fa-solid fa-magnifying-glass fa-lg icon"></i>
+                    </div>
+                </div>
+            </div>
+        </nav>
+
+
+    </div>
+    <div class="d-flex temp"></div>
+</body>
+
+
+</html>

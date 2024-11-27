@@ -1,0 +1,152 @@
+/* Header */
+#header-background {
+    width: 100%;
+    min-height: 200px;
+}
+
+#header {
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+}
+
+#header .container {
+    padding: auto;
+    margin: auto;
+}
+
+#header .container img {
+    max-height: 100px;
+}
+
+#header .container .row.tellphone {
+    display: flex;
+    text-align: center;
+}
+
+#header .header-top {
+    display: flex;
+    flex-direction: column;
+    text-transform: uppercase;
+    color: rgb(255, 146, 113);
+    font-weight: 500;
+}
+
+#header .header-top a,
+#header .widget a {
+    color: white;
+    text-decoration: none;
+    font-size: large;
+    text-align: center;
+}
+
+#header .widget {
+    display: flex;
+    justify-content: flex-end;
+    color: white;
+    font-size: large;
+}
+
+#header .widget>div {
+    width: fit-content;
+    margin-left: 10px;
+}
+
+/* Navigation Bar */
+#navigation-bar {
+    padding: 0;
+}
+
+#navigation-bar ul {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    padding: 0;
+}
+
+#navigation-bar li.nav-item {
+    padding: 0.5rem;
+    font-size: 1.2em;
+    text-transform: uppercase;
+    width: fit-content;
+    align-items: center;
+}
+
+#nav {
+    flex-basis: 100%;
+    flex-grow: 1;
+    align-items: center
+}
+
+.icon {
+    margin: auto;
+}
+
+#navigation-bar li.nav-item:hover,
+#navigation-bar .hidden-search:hover {
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+    background-color: rgb(240, 240, 240);
+}
+
+#navigation-bar li.nav-item a.nav-link,
+#navigation-bar .icon {
+    color: #007bff;
+    align-items: center;
+}
+
+.temp {
+    height: 170px;
+}
+
+.authority .user {
+    display: flex !important;
+    flex-direction: row;
+    position: relative;
+    cursor: pointer;
+    padding-bottom: 2px;
+    align-items: center;
+}
+
+.authority .user img {
+    width: 30px;
+    height: 30px;
+}
+
+.authority .user-name {
+    width: fit-content;
+    padding-left: 2px;
+}
+
+.cs-list-group {
+    z-index: 101;
+    position: absolute;
+    border: 1px solid rgb(255, 234, 224);
+    border-radius: 5px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.cs-list-group-item {
+    text-decoration: none;
+    background-color: rgb(255, 246, 246);
+}
+
+.cs-list-group-item>a {
+    display: block;
+    color: #007bff !important;
+    padding: 10px;
+}
+
+.cs-list-group-item:hover {
+    background-color: rgb(235, 235, 235);
+}
+
+.hide {
+    display: none !important;
+}
+
+.show {
+    display: block !important;
+}

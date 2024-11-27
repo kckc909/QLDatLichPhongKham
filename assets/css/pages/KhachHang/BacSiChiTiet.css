@@ -1,0 +1,214 @@
+body {
+    --bg-input-color: rgb(222, 222, 222);
+}
+
+.bs-container {
+    display: flex;
+    max-width: 70%;
+    margin: auto;
+}
+
+.bs-info,
+.bs-img,
+#booking-content {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.bs-info {
+    justify-content: center;
+}
+
+.bs-info_content .bs-name {
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+div.bs-content-link ul {
+    list-style-type: none;
+    padding-left: 0;
+    padding-top: 20px;
+}
+
+.bs-content-link ul li {
+    position: relative;
+    padding-left: 25px;
+}
+
+.bs-content-link ul li::before {
+    content: "-";
+    position: absolute;
+    left: 0;
+    top: 30%;
+    transform: translateY(-50%);
+    font-size: 50px;
+    font-weight: 100;
+}
+
+.bs-content-link ul li a {
+    text-decoration: none ;
+    font-size: large;
+    text-transform: uppercase;
+}
+
+.bs-img {
+    justify-content: center;
+}
+
+.bs-img img {
+    width: 100%;
+}
+
+.bs-navbar-div {
+    background-color: rgb(90, 90, 255);
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.bs-navbar {
+    display: flex;
+    flex-direction: row;
+    width: 70%;
+    margin: auto;
+}
+
+.bs-navbar__item {
+    padding: 10px 0px;
+}
+
+.bs-navbar__item+.bs-navbar__item {
+    margin-left: 1px;
+}
+
+.bs-navbar__item a {
+    text-transform: uppercase;
+    font-weight: 400;
+    text-decoration: none;
+    color: white !important;
+    padding: 10px 20px;
+}
+
+.bs-navbar__item a:hover {
+    background-color: blue;
+}
+
+.bs-navbar__item.active {
+    background-color: blue;
+}
+
+.bs-content .item-header {
+    display: flex;
+    margin-bottom: 10px;
+    border-bottom: solid 1px #fffff3;
+}
+
+.item-header .item-img img {
+    width: 40px;
+}
+
+.item-header .item-title {
+    flex: 1;
+    display: flex;
+    padding-left: 10px;
+    text-transform: uppercase;
+    align-items: center;
+}
+
+.item-header .item-btn-toggle {
+    padding: 10px;
+}
+
+.item-body {
+    padding: 0px 0px 10px 20px;
+}
+
+.bs-cn-div {
+    display: flex;
+    padding: 20px;
+}
+
+.bs-cn {
+    margin: auto;
+    background-color: #ffffff;
+    width: 60%;
+    min-width: 400px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 3px;
+}
+
+.bs-cn-div label {
+    text-align: left;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: large;
+    padding: 10px 0px;
+}
+
+.bs-cn-div input {
+    padding: 10px;
+    border: none;
+    border-radius: 2px;
+    background-color: var(--bg-input-color);
+}
+
+.cn-diachi {
+    display: flex;
+    gap: 10px;
+}
+
+.cn-diachi select {
+    flex: 1;
+    padding: 10px;
+    border: none;
+    border-radius: 2px;
+    background-color: var(--bg-input-color);
+}
+
+.div_rating {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+}
+
+.box_rate {
+    display: flex;
+}
+
+.div_rating .item {
+    width: 30px;
+    height: 30px;
+    background: url('/assets/image/BacSiChiTiet/icon/star-empty.png') no-repeat center center / contain;
+    cursor: pointer;
+}
+
+.item.active {
+    background: url('/assets/image/BacSiChiTiet/icon/star-filled.png') no-repeat center center / contain;
+
+}
+
+input[type="radio"] {
+    display: none;
+}
+
+textarea#nx {
+    background-color: var(--bg-input-color);
+    padding: 10px;
+}
+
+.btn-submit-div {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.btn-submit-div .btn-submit {
+    padding: 10px 20px;
+    background-color: rgb(40, 40, 255);
+    border-radius: 5px;
+    border: none;
+    color: #ffffff;
+}

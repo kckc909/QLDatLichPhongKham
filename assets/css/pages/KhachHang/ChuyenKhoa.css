@@ -1,0 +1,122 @@
+.container .search-box {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.container .search-box .search-bar {
+    display: flex;
+    width: 30%;
+    height: 40px;
+    margin: auto;
+    border: 1px solid rgb(197, 197, 197);
+    border-radius: 20px;
+}
+
+.container .search-box .search-bar input {
+    border: none;
+    border-radius: 20px 0 0 20px;
+}
+
+.container .search-box .search-bar .i-fa-search {
+    align-self: center;
+    border-radius: 0 20px 20px 0;
+}
+
+.container .search-box .search-bar .i-fa-search:hover {
+    cursor: pointer;
+    background-color: rgb(197, 197, 197, 0.4);
+}
+
+.container .search-box .search-bar i {
+    font-size: 20px;
+    padding: 10px;
+}
+
+.container .title {
+    padding: 20px;
+    text-align: center;
+}
+
+.container .title .text {
+    font-size: 30px;
+    text-transform: uppercase;
+    color: rgb(34, 49, 255);
+}
+
+.list-ck {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 10px;
+}
+
+.list-ck .card-ck {
+    width: 24%;
+    height: 250px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+    background-color: rgb(245, 245, 245);
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.list-ck .card-ck:hover .img-ck {
+    background-color: rgb(8, 140, 255);
+}
+
+.list-ck .card-ck:hover img {
+    filter: brightness(0) invert(1);
+}
+
+.list-ck .card-ck .img-ck {
+    width: 150px;
+    height: 150px;
+    margin: 10px auto 5px auto;
+    text-align: center;
+    border: 3px solid rgb(0, 17, 255);
+    border-radius: 50%;
+    padding: 20px;
+}
+
+.list-ck .card-ck .img-ck img {
+    width: auto;
+    height: 100%;
+}
+
+.list-ck .card-ck .name-ck {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.container .pagination-div {
+    display: flex;
+    justify-content: center;
+}
+
+.container .pagination-div .prev-page,
+.container .pagination-div .next-page {
+    cursor: pointer;
+    padding: 15px;
+}
+
+.container .pagination-div .pagination {
+    display: flex;
+}
+
+.container .pagination-div .pagination .page-number {
+    padding: 15px;
+    justify-content: center;
+}
+
+.container .pagination-div .pagination .page-number:hover,
+.container .pagination-div .prev-page:hover,
+.container .pagination-div .next-page:hover {
+    background-color: rgb(240, 240, 240);
+}
+
+.container .pagination-div .pagination .active {
+    background-color: rgb(34, 49, 255) !important;
+    color: white;
+}
