@@ -8,14 +8,16 @@ $(document).ready(function () {
     let _lst_wards = [];
 
     // run
-    FillData();
+    FillDepartment();
     genderActive();
     serviceActive();
+
     _form_booking.classList.add("active");
     $.getJSON("/data/TTQHPX.json", function (data) {
         _lst_provinces = data;
         FillProvinces("fc-ad__pro", _lst_provinces);
     })
+
     // di chuyển giữa các form 
     $(".back-button").click(() => Go_Booking());
     $(".btn-back-div").click(() => Go_Booking());
@@ -34,7 +36,7 @@ $(document).ready(function () {
         if (CheckFormCheck()) {
             console.log("Đặt lịch thành công");
             SaveAppointment();
-            window.location.href("index.html");
+            window.location.href("/index.html");
         } else {
             console.log("Đặt lịch thất bại");
             let element = document.getElementById("form-booking-content");
@@ -73,6 +75,8 @@ $(document).ready(function () {
             let fg_bs = document.getElementById("fg-bs");
             fg_bs.classList.remove("blocker");
             fg_bs.disabled = false;
+
+            FillDoctor();
         } else {
             let fg_bs = document.getElementById("fg-bs");
             fg_bs.classList.add("blocker");
@@ -103,6 +107,13 @@ $(document).ready(function () {
 
             FillDistricts("fc-ad__dis", _lst_districts);
             fc_ad__dis.disabled = false;
+
+            option = document.createElement("option");
+            option.value = "none";
+            option.textContent = "Chọn phường xã";
+            fc_ad_ward.innerHTML = "";
+            fc_ad_ward.appendChild(option);
+            fc_ad_ward.disabled = true;
         }
         else {
             fc_ad__dis.innerHTML = "";
@@ -177,12 +188,12 @@ $(document).ready(function () {
         _form_booking.classList.remove("active");
         _form_booker.classList.remove("active");
         _form_check.classList.add("active");
+        Fill_UserloggedIn();
     }
 
     // Nạp dữ liệu 
-    function FillData() {
+    function FillDepartment() {
         let fg_ck = document.getElementById("fg-ck");
-        let fg_bs = document.getElementById("fg-bs");
 
         $.getJSON("/data/ChuyenKhoa.json", function (lst_ck) {
             lst_ck.forEach(function (ck) {
@@ -192,14 +203,20 @@ $(document).ready(function () {
                 fg_ck.appendChild(option);
             });
         });
+    }
+    function FillDoctor() {
+        let fg_bs = document.getElementById("fg-bs");
+        let departmentId = document.getElementById("fg-ck").value;
+
         $.getJSON("/data/BacSi.json", function (lst_bs) {
-            lst_bs.forEach(function (bs) {
+            lst_bs.filter(dt => dt.department == departmentId).forEach(function (bs) {
                 let option = document.createElement("option");
                 option.value = bs.id;
                 option.textContent = bs.name;
                 fg_bs.appendChild(option);
             })
         });
+
     }
     function FillProvinces(selectId, lst) {
         let select = document.getElementById(selectId);
@@ -249,52 +266,74 @@ $(document).ready(function () {
             select.appendChild(option);
         });
     }
-    function Fill_UserlogedIn() {
-        let user = localStorage.getItem("CurrentUser");
-        if (user) {
-            // Nhập thông tin nếu người dùng đã đăng nhập
-            /* 
-                Số điện thoại
-                ngày sinh
-                họ và tên 
-                mã khách hàng
-                gender 
-                quốc tịch
-                địa chỉ (Tỉnh, huyện, xã)
-            */
+    function Fill_UserloggedIn() {
+        if (CheckLoggedIn()) {
+            $.getJSON("/data/TTQHPX.json", function (data) {
+                // user
+                let userinfo = localStorage.getItem("CurrentUser");
+                userinfo = JSON.parse(userinfo);
+                // address
+                _lst_provinces = data;
+                _lst_districts = _lst_provinces.find(pro => pro.level1_id == userinfo.province).level2s;
+                _lst_wards = _lst_districts.find(dis => dis.level2_id == userinfo.district).level3s
+
+                FillProvinces("fc-ad__pro", _lst_provinces);
+                FillDistricts("fc-ad__dis", _lst_districts);
+                FillWards("fc-ad__vil", _lst_wards);
+
+                document.getElementById("fc-ad__vil").disabled = false;
+                document.getElementById("fc-ad__dis").disabled = false;
+                document.getElementById("fc-ad__pro").disabled = false;
+
+                document.getElementById("fc-ad__pro").value = userinfo.province;
+                document.getElementById("fc-ad__dis").value = userinfo.district;
+                document.getElementById("fc-ad__vil").value = userinfo.ward;
+                // info 
+                document.getElementById('fc-name').value = userinfo.name;
+                document.getElementById('fc-phone').value = userinfo.phonenumber;
+                document.getElementById('fc-dob').value = userinfo.birthday;
+                let gd = document.getElementById(userinfo.gender);
+                gd.checked = true;
+                gd.parentElement.classList.add("gd-active");
+            })
         }
     }
     // check 
     function CheckLoggedIn() {
-
+        if (localStorage.getItem("LoggedIn")) {
+            return true;
+        }
     }
     function CheckFormBooking() {
         let flag = true;
         clearAllErrors();
-        if (!CheckRadioButtonChecked()) {
-            showError(document.getElementById("radio-group"), "Vui lòng chọn địa điểm khám!", "check");
-            flag = false;
-        }
-        if (!CheckServiceSelected()) {
-            showError(document.getElementById("service"), "Vui lòng chọn dịch vụ khám!", "click");
-            flag = false;
-        }
-        if (!CheckDepartmentSelected()) {
-            showError(document.getElementById("fg-ck"), "Vui lòng chọn khoa!", "change");
-            flag = false;
-        }
-        if (!CheckDoctorSelected()) {
-            showError(document.getElementById("fg-bs"), "Vui lòng chọn bác sĩ!", "change");
+        if (!CheckNoteInputed()) {
+            showError(document.getElementById("note"), "Vui lòng điền vấn đề sức khỏe cần khám!", "input");
             flag = false;
         }
         if (!CheckDatetimeSelected()) {
             showError(document.getElementById("fg-dt"), "Vui lòng chọn lịch khám!", "click");
             flag = false;
         }
-        if (!CheckNoteInputed()) {
-            showError(document.getElementById("note"), "Vui lòng điền vấn đề sức khỏe cần khám!", "input");
+        if (!CheckDoctorSelected()) {
+            showError(document.getElementById("fg-bs"), "Vui lòng chọn bác sĩ!", "change");
             flag = false;
         }
+        if (!CheckDepartmentSelected()) {
+            showError(document.getElementById("fg-ck"), "Vui lòng chọn khoa!", "change");
+            flag = false;
+        }
+        if (!CheckServiceSelected()) {
+            showError(document.getElementById("service"), "Vui lòng chọn dịch vụ khám!", "click");
+            flag = false;
+        }
+        if (!CheckRadioButtonChecked()) {
+            showError(document.getElementById("radio-group"), "Vui lòng chọn địa điểm khám!", "check");
+            flag = false;
+        }
+
+
+
         return flag;
     }
     function CheckFormBooker() {
@@ -393,7 +432,7 @@ $(document).ready(function () {
     function CheckDatetimeSelected() {
         let fg_dt = document.getElementById("fg-dt");
         let today = new Date();
-        if (!fg_dt.value && today > fg_dt.value) {
+        if (!fg_dt.value || today > fg_dt.value) {
             return false;
         }
         return true;
@@ -494,22 +533,42 @@ $(document).ready(function () {
 
         let fac = document.querySelector('input[name="rad-cs"]:checked');
         let gd = document.querySelector('input[name="gender"]:checked');
+        let department = document.getElementById("fg-ck");
+        let doctor = document.getElementById("fg-bs");
 
         // Thu thập thông tin từ form
         let Appointment = {
-            Facility: [fac.getAttribute('id'), fac.nextElementSibling.textContent.trim()],
-            Service: document.querySelector("#service .service-option.selected")?.textContent.trim(),
-            Department: document.getElementById("fg-ck").value,
-            Doctor: document.getElementById("fg-bs").value,
-            DateTime: document.getElementById("fg-dt").value,
-            PatientName: document.getElementById("fc-name").value,
-            Phone: document.getElementById("fc-phone").value,
-            Dob: document.getElementById("fc-dob").value,
-            Gender: [gd.getAttribute("id"), gd?.nextElementSibling.textContent.trim()],
-            Province: document.getElementById("fc-ad__pro").value,
-            District: document.getElementById("fc-ad__dis").value,
-            Ward: document.getElementById("fc-ad__vil").value,
-            Note: document.getElementById("gc").value,
+            facility: {
+                id: fac.getAttribute('id'), name: fac.nextElementSibling.textContent.trim()
+            },
+            department: {
+                id: department.value,
+                name: department.options[department.selectedIndex].textContent.trim()
+            },
+            doctor: {
+                id: doctor.value, name: doctor.options[doctor.selectedIndex].textContent
+            },
+            dateTime: document.getElementById("fg-dt").value,
+            patient: {
+                id: Math.floor(Math.random() * 1000) + 1000,
+                name: document.getElementById("fc-name").value,
+                phone: document.getElementById("fc-phone").value,
+                dob: document.getElementById("fc-dob").value,
+                gender: {
+                    id: gd.getAttribute("id"),
+                    name: gd?.nextElementSibling.textContent.trim()
+                },
+                address: {
+                    province: document.getElementById("fc-ad__pro").value,
+                    district: document.getElementById("fc-ad__dis").value,
+                    ward: document.getElementById("fc-ad__vil").value,
+                }
+            },
+            status: {
+                id: "0",
+                name: "Waiting"
+            },
+            note: document.getElementById("gc").value
         };
         AppointmentsList.push(Appointment);
         localStorage.setItem("Appointments", JSON.stringify(AppointmentsList));

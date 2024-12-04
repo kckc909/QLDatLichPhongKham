@@ -1,7 +1,3 @@
-
-// run
-
-
 // event Login
 function LoginClickHandler() {
     clearAllErrors();

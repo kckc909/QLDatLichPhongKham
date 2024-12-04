@@ -1,0 +1,64 @@
+.icon {
+    width: 20px;
+}
+
+.title {
+    color: #007bff;
+    font-size: 30px;
+    padding: 20px;
+}
+
+.lh-body {
+    margin-bottom: 20px;
+}
+
+.lh-content {
+    max-width: 700px;
+}
+
+p {
+    margin: 5px;
+}
+
+.label {
+    margin: 0;
+    font-weight: 500;
+}
+
+.row {
+    display: flex;
+}
+
+#submit {
+    border: none;
+    border-radius: 5px;
+    background-color: #001aff;
+    color: #fff;    
+    padding: 10px;
+}
+
+.maps {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.map {
+    display: flex;
+    gap: 20px;
+    align-items: center;    
+    padding: 20px;
+    background-color: #f7f7f7;
+    border-radius: 10px;
+    color: #1691e2;
+}
+
+.map-title {
+    font-size: 1.7em;
+    font-weight: 500;
+}
+
+.map iframe {
+    height: 300px;
+}
+

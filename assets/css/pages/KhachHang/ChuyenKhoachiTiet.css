@@ -1,0 +1,207 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.icon {
+    width: 25px;
+}
+
+.active {
+    background-color: #4133ff;
+}
+
+.smooth-show {
+    max-height: 2000px;
+}
+
+body {
+    .banner {
+        position: relative;
+        width: 100%;
+        height: 400px;
+    }
+
+    .banner-bg {
+        width: 100%;
+        height: 100%;
+    }
+
+    .banner-text {
+        position: absolute;
+        z-index: 1;
+        width: 50%;
+        top: 20%;
+        left: 15%;
+        text-align: left;
+    }
+
+    .banner-bg img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .ck-content-link ::before {
+        content: "⼀";
+        padding-top: 2px;
+        padding-right: 5px;
+    }
+
+    .banner a {
+        color: #1c0cff;
+        text-decoration: none;
+    }
+
+    .banner-text>a {
+        background-color: #102e9e;
+        color: white;
+        margin-top: 40px;
+        padding: 10px 20px;
+        display: inline-block;
+        font-size: 25px;
+        border-radius: 10px
+    }
+
+    /*  */
+    .ck-link a {
+        color: white;
+        padding: 15px;
+        text-transform: uppercase;
+        text-decoration: none;
+        cursor: pointer;
+    }
+
+    /*  */
+    .ck-content {}
+
+    .ck-ct {
+        padding: 20px 0;
+        margin: 10px 0;
+        background-color: white;
+        display: none;
+    }
+
+    .ck-ct .header {
+        display: flex;
+        padding-bottom: 5px;
+        border-bottom: solid 1px #598eff;
+        color: #1c0cff;
+    }
+
+    .ck-ct .header img {
+        filter: invert(22%) sepia(92%) saturate(2000%) hue-rotate(190deg) brightness(100%);
+    }
+
+    .ck-ct .header .title {
+        flex: 1;
+        align-items: center;
+        padding-left: 10px;
+    }
+
+    .ck-ct .body {
+        padding: 0px 0px 0px 30px;
+        display: none;
+    }
+
+    /* ck - list doctor */
+
+    .list-doctor {
+        padding: 10px;
+    }
+
+    .list-doctor .doctor-card {
+        padding: 20px;
+    }
+
+    .list-doctor .doctor-card .doctor-img img {
+        padding: 10px;
+        width: 100%;
+        height: auto;
+        border: #cccccc solid 1px;
+    }
+
+    .list-doctor .doctor-card .doctor-info {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .list-doctor .doctor-card .doctor-name {
+        font-size: 18px;
+        font-weight: bold;
+        margin-bottom: 5px;
+    }
+
+    .pagination-div {
+        display: flex;
+        justify-content: center;
+    }
+
+    .pagination-div .prev-page,
+    .pagination-div .next-page,
+    .pagination-div .pagination .page-number {
+        padding: 15px;
+        cursor: pointer;
+    }
+
+    .pagination-div .prev-page:hover,
+    .pagination-div .next-page:hover,
+    .pagination-div .pagination .page-number:hover {
+        background-color: #cccccc;
+    }
+
+    .pagination-div .pagination {
+        cursor: pointer;
+        display: flex;
+    }
+
+    .page-number.active {
+        background-color: #4aaeff;
+    }
+
+    .page-number.active:hover {
+        background-color: #4aaeff !important;
+    }
+
+    /* equipment */
+    .ck-equipment-name {
+        font-size: 16px;
+        font-weight: bold;
+        margin-bottom: 10px;
+    }
+
+    /* blog */
+    .blog-item {
+        display: flex;
+        flex-direction: row;
+        padding: 10px 0px;
+        gap: 10px;
+    }
+
+    .blog-img {
+        flex: 0.5;
+    }
+
+    .blog-img img {
+        width: 100%;
+    }
+
+    .blog-content {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        padding: 10px;
+    }
+
+    .blog-title {
+        font-size: 20px;
+        font-weight: bold;
+    }
+
+    .blog-description {
+        font-size: 16px;
+        color: #666;
+    }
+}

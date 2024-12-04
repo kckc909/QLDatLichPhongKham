@@ -8,211 +8,383 @@ body,
 html {
     margin: 0;
     padding: 0;
-    height: 100%;
     font-family: Arial, sans-serif;
-}
 
-.icon {
-    width: 30px;
-}
+    .hide {
+        display: none;
+    }
 
-a {
-    color: black;
-    text-decoration: none;
-}
+    .show {
+        display: block;
+    }
 
-/*  */
-.main {
-    display: flex;
-    flex-direction: column;
-    height: 100%;
-}
+    .icon {
+        width: 30px;
+    }
 
-.both-side {
-    display: flex;
-    height: 100%;
-    width: 100%;
-}
+    a {
+        color: black;
+        text-decoration: none;
+    }
 
-/* navbar */
+    /*  */
+    .main {
+        display: flex;
+        flex-direction: column;
+        height: 100vh;
+    }
 
-.navbar {
-    display: flex;
-    top: 0;
-    left: 0;
-    width: 100%;
-    justify-content: space-between;
-    align-items: center;
-    background-color: #138d00;
-    color: #fff;
-    padding: 12px;
-    z-index: 10000;
-}
+    .both-side {
+        display: flex;
+        height: 100%;
+        width: 100%;
+    }
 
-.btn-toggle-leftsidebar {
-    margin-right: 15px;
-    display: none;
-}
+    /* navbar */
 
-.navbar-brand {
-    flex: 3;
-    font-size: 20px;
-    text-transform: uppercase;
-}
+    .navbar {
+        position: fixed;
+        background-color: #138d00;
+        color: #fff;
+        z-index: 10000;
+        width: 100%;
+        padding: 10px 20px;
+    }
 
-.navbar-search-div {
-    flex: 2;
-    display: flex;
-    justify-content: center;
-}
+    .btn-toggle-leftsidebar {
+        margin-right: 15px;
+        display: none;
+    }
 
-.navbar-search-bar {
-    position: relative;
-    display: flex;
-    align-items: center;
-    background-color: #fff;
-    padding: 5px;
-    border-radius: 10px;
-    width: 300px;
-}
+    .navbar-brand-cus {
+        flex: 3;
+        font-size: 20px;
+        text-transform: uppercase;
+    }
 
-#search-bar {
-    width: 500px;
-    padding: 10px;
-    border-radius: 10px;
-    border: none;
-    font-size: 18px;
-}
+    .navbar-search-div {
+        flex: 2;
+        display: flex;
+        justify-content: center;
+    }
 
-.navbar-search-bar img {
-    position: absolute;
-    height: 100%;
-    width: auto;
-    right: 0;
-    z-index: 10;
-    padding: 10px;
-    cursor: pointer;
-    border-radius: 0px 10px 10px 0px;
-}
+    .navbar-search-bar {
+        position: relative;
+        display: flex;
+        align-items: center;
+        background-color: #fff;
+        padding: 5px;
+        border-radius: 10px;
+        width: 300px;
+    }
 
-.navbar-search-bar img:hover {
-    background-color: #e3ffde9b;
-}
+    #search-bar {
+        width: 500px;
+        padding: 10px;
+        border-radius: 10px;
+        border: none;
+        font-size: 18px;
+    }
 
-.navbar-widgets {
-    display: flex;
-    flex-direction: row;
-    flex: 0.6;
-    gap: 20px;
-}
+    .navbar-search-bar img {
+        position: absolute;
+        height: 100%;
+        width: auto;
+        right: 0;
+        z-index: 10;
+        padding: 10px;
+        cursor: pointer;
+        border-radius: 0px 10px 10px 0px;
+    }
 
-.navbar-widgets-item {
-    flex: 1;
-    text-align: center;
-    filter: brightness(0) invert(1);
-    cursor: pointer;
-}
+    .navbar-search-bar img:hover {
+        background-color: #e3ffde9b;
+    }
 
-/* left side bar */
-#leftsidebar {
-    display: flex;
-    flex-direction: column;
-    background-color: white;
-    width: 300px;
-    height: 100%;
-    box-shadow: 1px 1px 0px rgba(188, 188, 188, 0.8);
-}
+    .navbar-widgets {
+        display: flex;
+        flex-direction: row;
+        flex: 0.6;
+        gap: 20px;
+    }
 
-/* leftsidebar user info  */
-.user-info {
-    background: url("/assets/image/QuanLy/QuanTri/user-img-background.jpg") no-repeat;
-    display: flex;
-    flex-direction: column;
-    color: white;
-    padding: 10px 20px;
-}
+    .navbar-widgets-item {
+        flex: 1;
+        text-align: center;
+        filter: brightness(0) invert(1);
+        cursor: pointer;
+    }
 
-.user-img {
-    flex: 1;
-}
+    /* left side bar */
+    #leftsidebar {
+        position: fixed;
+        display: flex;
+        flex-direction: column;
+        background-color: white;
+        top: 70px;
+        max-height: 788px;
+        width: 300px;
+        height: 100%;
+        box-shadow: 1px 1px 0px rgba(188, 188, 188, 0.8);
+    }
 
-.user-img img {
-    width: 50px;
-    height: 50px;
-    border-radius: 25px;
-}
+    /* leftsidebar user info  */
+    .user-info {
+        background: url("/assets/image/QuanLy/QuanTri/user-img-background.jpg") no-repeat;
+        display: flex;
+        flex-direction: column;
+        color: white;
+        padding: 10px 20px;
+    }
 
-.user-info-container {
-    flex: 1;
-    display: flex;
-    justify-content: space-between;
-}
+    .user-img {
+        flex: 1;
+    }
 
-.user-dropdown button {
-    background-color: transparent;
-    align-items: center;
-    margin-right: 10px;
-    border: none;
-    cursor: pointer;
-}
+    .user-img img {
+        width: 40px;
+        height: 40px;
+        border-radius: 25px;
+    }
 
-/* leftsidebar menu */
-.menu {
-    display: flex;
-    flex-direction: column;
-    flex: 10;
-    flex-wrap: wrap;
-}
+    .user-info-container {
+        flex: 1;
+        display: flex;
+        justify-content: space-between;
+    }
 
-.menu .header {
-    padding: 20px;
-    background-color: #ffa103;
-}
+    .user-dropdown button {
+        background-color: transparent;
+        align-items: center;
+        margin-right: 10px;
+        border: none;
+        cursor: pointer;
+    }
 
-.menu ul {
-    list-style: none;
-}
+    .user-dropdown {
+        position: relative;
+        display: inline-block;
+    }
 
-.menu ul li {
-    padding: 10px 20px;
-}
+    .dropdown-menu {
+        position: absolute;
+        background-color: white;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+        z-index: 10;
+        right: 0;
+        padding: 0;
+    }
 
-.menu ul li a {
-    display: flex;
-    align-items: center;
-}
+    .dropdown-item {
+        display: flex;
+        flex: 1;
+        gap: 10px;
+        padding: 15px;
+        box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
+    }
 
-.menu ul li img {
-    margin-right: 10px;
-}
+    .dropdown-item img {
+        width: 20px;
+        height: 20px;
+    }
 
-.menu ul li:hover,
-.menu ul .active {
-    background-color: #ffda34;
-}
+    /* leftsidebar menu */
+    .menu {
+        display: flex;
+        flex-direction: column;
+        flex: 10;
+        flex-wrap: wrap;
+    }
 
-/*  legal */
-.legal {
-    flex: 1;
-    margin-top: 1px;
-    padding: 10px;
-    display: flex;
-    justify-content: flex-end;
-    flex-direction: column;
-}
+    .menu .header {
+        padding: 20px;
+        background-color: #ffa103;
+    }
 
-/* rightsidebar  */
-#rightsidebar {
-    flex: 1;
-    height: 100%;
-    background-color: rgb(225, 225, 225);
-}
+    .menu ul {
+        list-style: none;
+        padding: 0;
+    }
 
-#rightsidebar-content {
-    height: 96.7%;
-    width: 98.3%;
-    background-color: white;
-    border-radius: 10px 0px 0px 0px;
-    margin: 30px 0px 0px 30px;
-    padding: 20px;
+    .menu ul li {
+        padding: 10px 20px;
+    }
+
+    .menu ul li a {
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+        text-transform: uppercase;
+        color: black;
+    }
+
+    .menu ul li img {
+        margin-right: 10px;
+    }
+
+    .menu ul li:hover,
+    .menu ul .active {
+        background-color: #ffda34;
+    }
+
+    /*  legal */
+    .legal {
+        display: flex;
+        flex-direction: column;
+        flex: 1;
+        margin-top: 1px;
+        padding: 10px;
+        justify-content: flex-end;
+    }
+
+    /* rightsidebar  */
+    #rightsidebar {
+        display: flex;
+        flex: 1;
+        background-color: transparent;
+        background-color: rgb(225, 225, 225);
+        width: auto;
+        margin: 77px 0 0 300px;
+        -moz-transition: 0.5s;
+        -o-transition: 0.5s;
+        -webkit-transition: 0.5s;
+        transition: 0.5s;
+    }
+
+    #rightsidebar-content {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: auto;
+        border-radius: 10px 0px 0px 0px;
+        padding: 20px;
+    }
+
+    .rightsidebar-item {
+        max-width: 1600px;
+    }
+
+    .rightsidebar-item+.rightsidebar-item {
+        margin-top: 20px;
+    }
+
+    /* header */
+    .header-content {
+        padding-bottom: 20px;
+    }
+
+    .header-content>.text {
+        font-size: 30px;
+        text-transform: uppercase;
+    }
+
+    /* appointment */
+    .appointment {
+        display: flex;
+        flex-direction: row;
+        background-color: white;
+        border-radius: 10px;
+        width: 100%;
+        height: 140px;
+        padding: 30px;
+        user-select: none;
+    }
+
+    .appointment-content {
+        display: flex;
+        flex: 1;
+        justify-content: center;
+        width: 30%;
+    }
+
+    .appointment-icon {
+        width: auto;
+        height: 100%;
+        padding: 16px;
+    }
+
+    .appointment-content .content {
+        display: flex;
+        flex-direction: column;
+        padding: 10px;
+        color: white;
+    }
+
+    .appointment-content.appointment-today {
+        .img-div {
+            background-color: #cd1a57;
+        }
+
+        img {
+            filter: brightness(0) invert(1);
+        }
+
+        .content {
+            background-color: #e91e63;
+        }
+    }
+
+    .appointment-content.appointment-waiting {
+        .img-div {
+            background-color: #00a5ba;
+        }
+
+        img {
+            filter: brightness(0) invert(1);
+        }
+
+        .content {
+            background-color: #00bcd4;
+        }
+    }
+
+    .appointment-content.appointment-checked {
+        .img-div {
+            background-color: #7aab41;
+        }
+
+        img {
+            filter: brightness(0) invert(1);
+        }
+
+        .content {
+            background-color: #8bc34a;
+        }
+    }
+
+    .appointment-content .text {
+        text-transform: uppercase;
+        font-size: 15px;
+    }
+
+    .appointment-content .num {
+        font-size: 26px;
+    }
+
+    /* interact */
+    .interact {
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        border-radius: 10px;
+        background-color: white;
+    }
+
+    .interact-item {
+        flex: 1;
+        width: 50%;
+    }
+
+    .interact-item .text {
+        text-transform: uppercase;
+        font-weight: 500;
+    }
+
+    .interact-content {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
 }
