@@ -63,7 +63,7 @@ $(document).ready(function () {
 
 
     if (!CheckExistsUsername('admin')) {
-        AddAccount("admin", "123", "AdminMinh", "02-12-2004", "male", "0987654321", "admin@gmail.com", "33", "330", "12271", "admin");
+        AddAccount("admin", "123", "AdminMinh", "2004-12-02", "male", "0987654321", "admin@gmail.com", "33", "330", "12271", "admin");
     }
     // add account
     function AddAccount(username, password, name, birthday, gender, phonenumber, email, province, district, ward, role = "customer") {

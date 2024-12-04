@@ -1,29 +1,244 @@
-w<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
+
 <head>
     <title>Phòng khám Đa Khoa Tâm Anh | Chuyên khoa</title>
-    
+
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="/assets/css/bootstrap5.css">
-    <script src="/assets/js/jquery.js"></script>
-    <script src="/assets/js/bootstrap5.js"></script>
-    <script src="/assets/js/bootstrap.bundle.min.js"></script>
-    <script src="/assets/js/bootstrap.min.css"></script>
+    <link rel="stylesheet" href="/assets/css/lib/bootstrap.min.css">
+    <link rel="stylesheet" href="/assets/css/lib/bootstrap5.css">
+    <link rel="stylesheet" href="/assets/css/pages/KhachHang/ChuyenKhoachiTiet.css">
+
+    <script src="/assets/js/lib/bootstrap5.js"></script>
+    <script src="/assets/js/lib/jquery.js"></script>
+    <script src="/assets/js/pages/KhachHang/ChuyenKhoaChiTiet.js"></script>
 </head>
+
 <body>
     <div id="Navbar"></div>
-    
-    <main>
-        
-    </main>
+
+    <div class="main">
+        <div class="banner">
+            <div class="banner-bg">
+                <img src="https://tamanhhospital.vn/wp-content/uploads/2024/09/giam-can-nhanh-bay-mo-xau-banner.jpg"
+                    alt="">
+            </div>
+            <div class="banner-text">
+                <h1 class="text-uppercase text-primary fs-4" id="ck-name">Trung tâm Kiểm soát <br> Cân nặng và Điều trị
+                    béo phì</h1>
+                <div class="mt-3 mb-4 ck-content-link">
+                    <a href="#gt" class="d-block text-uppercase text-secondary mb-2" id="gt-link">Giới thiệu</a>
+                    <a href="#bs" class="d-block text-uppercase text-secondary mb-2" id="bs-link">Chuyên gia</a>
+                    <a href="#dv" class="d-block text-uppercase text-secondary mb-2" id="dv-link">Dịch vụ</a>
+                </div>
+                <div>
+                    <a href="/pages/KhachHang/DatLich.html" class="btn btn-primary text-white px-4">Đặt lịch hẹn</a>
+                </div>
+            </div>
+        </div>
+        <section class="bg-primary">
+            <div class="container">
+                <div class="d-flex ck-link">
+                    <a id="gt" class="ck-link-a">Giới thiệu</a>
+                    <a id="bs" class="ck-link-a">Chuyên gia</a>
+                    <a id="dv" class="ck-link-a">Dịch vụ</a>
+                    <p class="flex-fill"></p>
+                </div>
+            </div>
+        </section>
+        <div class="ck-content container">
+            <!-- gt -->
+            <div class="ck-ct ck-gt" id="ck-introduction">
+                <div class="header">
+                    <div class="img">
+                        <img src="https://cdn-icons-png.flaticon.com/512/3528/3528062.png" alt="I" class="icon">
+                    </div>
+                    <div class="title text-uppercase">
+                        thông tin giới thiệu
+                    </div>
+                    <div class="toggle-icon">
+                        <img src="https://cdn-icons-png.flaticon.com/512/992/992651.png" alt="+"
+                            class="icon header-icon-toggle">
+                        <img src="https://cdn-icons-png.flaticon.com/512/3031/3031143.png" alt="-"
+                            class="icon header-icon-toggle hide">
+                    </div>
+                </div>
+                <div class="body show"> gt Lorem ipsum dolor, sit amet consectetur adipisicing elit. Pariatur cupiditate
+                    hic
+                    laboriosam
+                    mollitia earum, corporis sed voluptate rem doloribus eum fugiat tempora minima alias, quisquam
+                    vitae, vero illum nesciunt illo.</div>
+            </div>
+            <div class="ck-ct ck-gt" id="ck-equipment">
+                <div class="header">
+                    <div class="img">
+                        <img src="https://cdn-icons-png.flaticon.com/512/4006/4006097.png" alt="I" class="icon">
+                    </div>
+                    <div class="title text-uppercase">
+                        Trang thiết bị
+                    </div>
+                    <div class="toggle-icon">
+                        <img src="https://cdn-icons-png.flaticon.com/512/992/992651.png" alt="+"
+                            class="icon header-icon-toggle">
+                        <img src="https://cdn-icons-png.flaticon.com/512/3031/3031143.png" alt="-"
+                            class="icon header-icon-toggle hide">
+                    </div>
+                </div>
+                <div class="body show">
+                    <!-- gt -->
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit necessitatibus ipsa nostrum fugiat
+                    minima quis incidunt amet. Molestias, ducimus! Molestias provident doloribus distinctio quae?
+                    Cupiditate hic sit dolorem autem magnam.
+                </div>
+            </div>
+            <div class="ck-ct ck-gt" id="ck-treatment">
+                <div class="header">
+                    <div class="img">
+                        <img src="https://cdn-icons-png.flaticon.com/512/3079/3079219.png" alt="I" class="icon">
+                    </div>
+                    <div class="title text-uppercase">
+                        Phương pháp điều trị
+                    </div>
+                    <div class="toggle-icon">
+                        <img src="https://cdn-icons-png.flaticon.com/512/992/992651.png" alt="+"
+                            class="icon header-icon-toggle">
+                        <img src="https://cdn-icons-png.flaticon.com/512/3031/3031143.png" alt="-"
+                            class="icon header-icon-toggle hide">
+                    </div>
+                </div>
+                <div class="body show">
+                    <!-- gt -->
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ut dolorem voluptatem excepturi cupiditate
+                    suscipit eum. Eaque architecto, assumenda nulla accusamus similique voluptatem nam optio porro
+                    dolore facere, eveniet cumque. Accusantium!
+                </div>
+            </div>
+            <div class="ck-ct ck-gt" id="ck-forpatient">
+                <div class="header">
+                    <div class="img">
+                        <img src="https://cdn-icons-png.flaticon.com/512/3358/3358869.png" alt="I" class="icon">
+                    </div>
+                    <div class="title text-uppercase">
+                        Lưu ý cho bệnh nhân
+                    </div>
+                    <div class="toggle-icon">
+                        <img src="https://cdn-icons-png.flaticon.com/512/992/992651.png" alt="+"
+                            class="icon header-icon-toggle">
+                        <img src="https://cdn-icons-png.flaticon.com/512/3031/3031143.png" alt="-"
+                            class="icon header-icon-toggle hide">
+                    </div>
+                </div>
+                <div class="body show">
+                    <!-- gt -->
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis eveniet illo perspiciatis, fugit
+                    aspernatur sequi dolorem voluptate nostrum distinctio eligendi itaque vero, laboriosam ex dolores!
+                    Nostrum minus distinctio vel impedit!
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores incidunt qui, nemo modi quae cumque
+                    fuga ipsam quis, expedita sed consequuntur delectus ipsum aperiam, adipisci veniam ab iusto. Minus,
+                    consequuntur?
+                </div>
+            </div>
+            <div class="ck-ct ck-gt" id="ck-blog">
+                <div class="header">
+                    <div class="img">
+                        <img src="https://cdn-icons-png.flaticon.com/512/81/81460.png" alt="I" class="icon">
+                    </div>
+                    <div class="title text-uppercase">
+                        Bài viết liên quan
+                    </div>
+                    <div class="toggle-icon">
+                        <img src="https://cdn-icons-png.flaticon.com/512/992/992651.png" alt="+"
+                            class="icon header-icon-toggle">
+                        <img src="https://cdn-icons-png.flaticon.com/512/3031/3031143.png" alt="-"
+                            class="icon header-icon-toggle hide">
+                    </div>
+                </div>
+                <div class="body show blog-list">
+                    <div class="blog-item">
+                        <div class="blog-img">
+                            <img src="" alt="">
+                        </div>
+                        <div class="blog-content">
+                            <div class="blog-title"></div>
+                            <div class="blog-description"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- bs -->
+            <div class="ck-ct ck-bs" id="ck-bs">
+                <div class="header">
+                    <div class="img">
+                        <img src="https://cdn-icons-png.flaticon.com/512/3481/3481061.png" alt="I" class="icon">
+                    </div>
+                    <div class="title text-uppercase">
+                        Chuyên gia
+                    </div>
+                    <div class="toggle-icon">
+                        <img src="https://cdn-icons-png.flaticon.com/512/992/992651.png" alt="+"
+                            class="icon header-icon-toggle">
+                        <img src="https://cdn-icons-png.flaticon.com/512/3031/3031143.png" alt="-"
+                            class="icon header-icon-toggle hide">
+                    </div>
+                </div>
+                <div class="body show list-doctor">
+                    <!-- ds bs -->
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero nostrum, quos molestias beatae sunt
+                    doloribus, perferendis commodi excepturi sequi, praesentium minima? Deserunt sapiente alias quasi
+                    repellendus qui voluptates esse amet. Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                    Nesciunt accusamus aspernatur ex optio ratione voluptatum accusantium ad, vel similique saepe,
+                    distinctio repellat minus. Quisquam, eaque nam. Illum accusamus consequatur impedit?
+                </div>
+                <div class="pagination-div">
+                    <div class="prev-page">
+                        <i class="fas fa-angle-left"></i>
+                    </div>
+                    <div class="pagination">
+
+                    </div>
+                    <div class="next-page">
+                        <i class="fas fa-angle-right"></i>
+                    </div>
+                </div>
+            </div>
+            <!-- dv -->
+            <div class="ck-ct ck-dv" id="ck-service">
+                <div class="header">
+                    <div class="img">
+                        <img src="https://cdn-icons-png.flaticon.com/512/5107/5107639.png" alt="I" class="icon">
+                    </div>
+                    <div class="title text-uppercase">
+                        Dịch vụ
+                    </div>
+                    <div class="toggle-icon">
+                        <img src="https://cdn-icons-png.flaticon.com/512/992/992651.png" alt="+"
+                            class="icon header-icon-toggle">
+                        <img src="https://cdn-icons-png.flaticon.com/512/3031/3031143.png" alt="-"
+                            class="icon header-icon-toggle hide">
+                    </div>
+                </div>
+                <div class="body show">
+                    <!-- ds bs -->
+                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi consequuntur, odit praesentium
+                    distinctio voluptate eveniet illo. Nam voluptas nesciunt delectus, debitis unde amet facere
+                    quibusdam similique temporibus quasi incidunt quos? Lorem ipsum dolor sit amet consectetur
+                    adipisicing elit. Ipsa odit hic, ad debitis reiciendis, voluptate nobis dicta neque quaerat
+                    perferendis aspernatur, recusandae molestias alias? Tempore aperiam exercitationem at expedita
+                    fugit.
+                </div>
+            </div>
+        </div>
+    </div>
+
 
     <div id="Footer"></div>
     <script>
-        $(document).ready(function() {
+        $(document).ready(function () {
             $("#Footer").load("/components/Footer.html");
             $("#Navbar").load("/components/Navbar.html");
         })
     </script>
 </body>
+
 </html>

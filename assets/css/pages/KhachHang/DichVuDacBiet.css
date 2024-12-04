@@ -1,0 +1,143 @@
+.title .text {
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;
+    text-transform: uppercase;
+    color: rgb(34, 49, 255);
+}
+
+.icon {
+    width: 15px;
+}
+
+.icon-div-bg {
+    background-color: #1691E2;
+    width: fit-content;
+}
+
+.icon-header {
+    width: 60px;
+    height: 60px;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 40px;
+    text-align: center;
+    color: #fff;
+    filter: brightness(0) invert(1);
+}
+
+.dvdb-body {
+    background-color: #f0f2f1;
+}
+
+.dvdb-list {
+    display: flex;
+    padding: 50px;
+    border-bottom: 1px solid #ddd;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.dvdb-item {
+    display: flex;
+    flex-direction: column;
+    width: 23%;
+    padding: 20px;
+    margin-bottom: 10px;
+    background-color: white;
+    border: solid 1px #ddd;
+    border-radius: 10px;
+}
+
+.dvdb-item:hover {
+    background-color: #7CC5EA;
+
+    * {
+        color: #fff !important;
+    }
+
+    .icon-header {
+        filter: none;
+        color: #53ade9 !important;
+    }
+
+    .icon-div-bg {
+        background-color: white;
+    }
+
+    .item-footer img {
+        filter: brightness(0) invert(1);
+        color: #007bff;
+    }
+}
+
+.dvdb-item .item-header {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 10px;
+    text-align: justify;
+}
+
+.dvdb-item .item-header .title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+}
+
+.dvdb-item .item-header .icon-div {
+    text-align: left;
+}
+
+.dvdb-body .item-body {
+    flex: 1;
+    text-align: justify;
+}
+
+.dvdb-footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+
+.pagination-div {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.btn-prev,
+.btn-next {
+    display: flex;
+    padding: 5px 10px;
+    background-color: #ffffffee;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.pagination {
+    display: flex;
+    gap: 5px;
+}
+
+.pagination-item {
+    padding: 5px 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #ffffffee;
+    cursor: pointer;
+}
+
+.pagination-item.active {
+    background-color: #007bff !important;
+    color: #fff;
+    font-weight: bold;
+}
+
+.btn-prev:hover,
+.btn-next:hover,
+.pagination-item:hover {
+    background-color: #cccccc;
+}

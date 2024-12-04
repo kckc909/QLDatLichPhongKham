@@ -1,0 +1,136 @@
+.hidden {
+    display: none;
+}
+
+.title .text {
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;
+    text-transform: uppercase;
+    color: rgb(34, 49, 255);
+}
+
+.tn-tb-title {
+    font-size: 25px;
+    text-transform: uppercase;
+    color: #1691E2;
+    padding: 10px 0;
+}
+
+.tn-body {
+    height: auto;
+}
+
+.list_thietbi {
+    max-height: 2100px;
+    opacity: 1;
+    transition: all 0.3s ease-in-out;
+}
+
+.list_thietbi.hidden {
+    display: block;
+    max-height: 0;
+    opacity: 0;
+}
+
+.bg-image {
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    font-size: 1rem;
+    border-radius: 8px;
+    height: auto;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+    transition: transform 0.2s ease;
+}
+
+.card:hover {
+    transform: scale(1.03);
+}
+
+.card-img-top {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-bottom: 1px solid #ddd;
+}
+
+.card-body {
+    padding: 15px;
+    text-align: center;
+}
+
+.card-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.card-text {
+    font-size: 0.95rem;
+    color: #555;
+    line-height: 1.5;
+}
+
+.g-3 .col-md-4 {
+    display: flex;
+}
+
+.card.h-100 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.tn-footer {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.pagination-div {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.btn-prev,
+.btn-next {
+    display: flex;
+    padding: 5px 10px;
+    background-color: #ffffffee;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.pagination {
+    display: flex;
+    gap: 5px;
+}
+
+.pagination-item {
+    padding: 5px 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #ffffffee;
+    cursor: pointer;
+}
+
+.pagination-item.active {
+    background-color: #007bff !important;
+    color: #fff;
+    font-weight: bold;
+}
+
+.btn-prev:hover,
+.btn-next:hover,
+.pagination-item:hover {
+    background-color: #cccccc;
+}

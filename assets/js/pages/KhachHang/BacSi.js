@@ -163,20 +163,3 @@ $(document).ready(async function () {
 });
 
 
-
-
-
-let asd = `<div class="doctor-card row">
-                    <div class="doctor-img col-sm-3">
-                        {$img}
-                    </div>
-                    <div class="doctor-info col-sm-9">
-                        <div class="doctor-name">
-                            
-                        </div>
-                        <div class="doctor-cv"></div>
-                        <div class="doctor-hhhv"></div>
-                        <div class="doctor-intro"></div>
-                        <div class="more-detail"></div>
-                    </div>
-                </div>`
