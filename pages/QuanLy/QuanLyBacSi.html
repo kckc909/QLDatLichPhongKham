@@ -1,1 +1,72 @@
-<!-- Xây dựng trang quản lý, -->
+<!doctype html>
+<html lang="en">
+
+<head>
+    <title>Tâm Anh - Hệ thống quản trị phòng khám</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="/assets/css/lib/bootstrap5.css">
+    <link rel="stylesheet" href="/assets/css/components/QL_Left_Navtop.css">
+    <link rel="stylesheet" href="/assets/css/pages/QuanLy/QLBacSI.css">
+
+    <script src="/assets/js/lib/jquery.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js"></script>
+    <script src="/assets/js/pages/QuanLy/QLBacSi.js"></script>
+
+</head>
+
+<body>
+    <div class="overlay"></div>
+    <div class="main">
+        <div id="left-nav">
+        </div>
+        <div id="rightsidebar">
+            <div id="rightsidebar-content">
+                <div class="rightsidebar-item  doctor-management">
+                    <div class="header">
+                        <h1>Quản lý bác sĩ</h1>
+                        <button id="add-doctor-btn" class="btn btn-add">Thêm bác sĩ</button>
+                    </div>
+                    <table class="table table-striped doctor-table">
+                        <thead>
+                            <tr>
+                                <th>STT</th>
+                                <th>Hình ảnh</th>
+                                <th>Tên bác sĩ</th>
+                                <th>Chức vụ</th>
+                                <th>Chuyên khoa</th>
+                                <th>Đơn vị</th>
+                                <th>Thao tác</th>
+                            </tr>
+                        </thead>
+                        <tbody id="doctor-body">
+
+                        </tbody>
+                    </table>
+                </div>
+                <div class="pagination-div">
+                    <button class="btn-prev pagination-item">
+                        <img src="https://cdn-icons-png.flaticon.com/512/318/318276.png" alt="<" class="icon">
+                    </button>
+                    <div class="pagination">
+                        <div class="pagination-item"></div>
+                    </div>
+                    <button class="btn-next pagination-item">
+                        <img src="https://cdn-icons-png.flaticon.com/512/318/318275.png" alt=">" class="icon">
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        $(document).ready(function () {
+            $("#left-nav").load("/components/QL_Left_Navtop.html");
+        });
+    </script>
+</body>
+
+</html>

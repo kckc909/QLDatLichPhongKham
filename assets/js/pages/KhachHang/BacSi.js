@@ -1,5 +1,5 @@
 $(document).ready(async function () {
-    localStorage.setItem("currentPage_bs", 1);
+    var CurrentPage = 1;
     var lstdoctorJson = await $.getJSON("/data/BacSi.json");
     var numberOnPage = 10;
     var minPage = 1;
@@ -9,14 +9,14 @@ $(document).ready(async function () {
     FilterLocationClickHandler();
     changePage(1);
     document.querySelector(".prev-page").addEventListener("click", function () {
-        let num = localStorage.getItem("currentPage_bs") - 1;
+        let num = localStorage.getItem("CurrentPage") - 1;
         if (num < 1) {
             num = 1;
         }
         changePage(num);
     });
     document.querySelector(".next-page").addEventListener("click", function () {
-        let num = localStorage.getItem("currentPage_bs") + 1;
+        let num = localStorage.getItem("CurrentPage") + 1;
         if (num > 10) {
             num = 10;
         }
@@ -34,7 +34,7 @@ $(document).ready(async function () {
 
     // change page
     function changePage(num) {
-        localStorage.setItem("currentPage_bs", num);
+        CurrentPage = num;
         FillListDoctor(num);
     }
 
@@ -102,12 +102,11 @@ $(document).ready(async function () {
     // create pagenumber
     function SetPageNumbers() {
         let pagination = document.querySelector(".pagination");
-        let currentPage_bs = Number(localStorage.getItem("currentPage_bs"));
         pagination.innerHTML = "";
 
         let pageNumber = document.createElement("div");
         pageNumber.classList.add("page-number");
-        if (currentPage_bs == minPage) {
+        if (CurrentPage == minPage) {
             pageNumber.classList.add("active");
         }
         pageNumber.textContent = minPage;
@@ -115,45 +114,45 @@ $(document).ready(async function () {
         pagination.appendChild(pageNumber);
 
 
-        if (currentPage_bs - 2 > minPage) {
+        if (CurrentPage - 2 > minPage) {
             pageNumber = document.createElement("div");
             pageNumber.classList.add("page-number");
-            pageNumber.textContent = currentPage_bs - 2;
-            pageNumber.addEventListener("click", () => changePage(currentPage_bs - 2));
+            pageNumber.textContent = CurrentPage - 2;
+            pageNumber.addEventListener("click", () => changePage(CurrentPage - 2));
             pagination.appendChild(pageNumber);
         }
-        if (currentPage_bs - 1 > minPage) {
+        if (CurrentPage - 1 > minPage) {
             pageNumber = document.createElement("div");
             pageNumber.classList.add("page-number");
-            pageNumber.textContent = currentPage_bs - 1;
-            pageNumber.addEventListener("click", () => changePage(currentPage_bs - 1));
+            pageNumber.textContent = CurrentPage - 1;
+            pageNumber.addEventListener("click", () => changePage(CurrentPage - 1));
             pagination.appendChild(pageNumber);
         }
-        if (currentPage_bs != minPage && currentPage_bs != maxPage) {
+        if (CurrentPage != minPage && CurrentPage != maxPage) {
             pageNumber = document.createElement("div");
             pageNumber.classList.add("page-number");
             pageNumber.classList.add("active");
-            pageNumber.textContent = currentPage_bs;
-            pageNumber.addEventListener("click", () => changePage(currentPage_bs));
+            pageNumber.textContent = CurrentPage;
+            pageNumber.addEventListener("click", () => changePage(CurrentPage));
             pagination.appendChild(pageNumber);
         }
-        if (currentPage_bs + 1 < maxPage) {
+        if (CurrentPage + 1 < maxPage) {
             pageNumber = document.createElement("div");
             pageNumber.classList.add("page-number");
-            pageNumber.textContent = currentPage_bs + 1;
-            pageNumber.addEventListener("click", () => changePage(currentPage_bs + 1));
+            pageNumber.textContent = CurrentPage + 1;
+            pageNumber.addEventListener("click", () => changePage(CurrentPage + 1));
             pagination.appendChild(pageNumber);
         }
-        if (currentPage_bs + 2 < maxPage) {
+        if (CurrentPage + 2 < maxPage) {
             pageNumber = document.createElement("div");
             pageNumber.classList.add("page-number");
-            pageNumber.textContent = currentPage_bs + 2;
-            pageNumber.addEventListener("click", () => changePage(currentPage_bs + 2));
+            pageNumber.textContent = CurrentPage + 2;
+            pageNumber.addEventListener("click", () => changePage(CurrentPage + 2));
             pagination.appendChild(pageNumber);
         }
         pageNumber = document.createElement("div");
         pageNumber.classList.add("page-number");
-        if (currentPage_bs == maxPage) {
+        if (CurrentPage == maxPage) {
             pageNumber.classList.add("active");
         }
         pageNumber.textContent = maxPage;

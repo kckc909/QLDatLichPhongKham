@@ -1,0 +1,156 @@
+<div>
+    <link rel="stylesheet" href="/assets/css/lib/bootstrap5.css">
+    <link rel="stylesheet" href="/assets/css/lib/bootstrap.min.css">
+    <link rel="stylesheet" href="/assets/css/components/QL_Left_Navtop.css">
+
+    <script src="/assets/js/lib/jquery.js"></script>
+    <script src="/assets/js/lib/bootstrap5.js"></script>
+    <script src="/assets/js/components/QL_Left_Navtop.js"></script>
+
+    <div class="navbar">
+        <div class="btn-toggle-leftsidebar">
+            <img src="https://cdn-icons-png.flaticon.com/512/2516/2516745.png" alt="..." class="icon">
+        </div>
+        <div class="navbar-brand-cus">
+            Quản trị hệ thống đặt lịch phòng khám
+        </div>
+        <div class="navbar-search-div">
+            <div class="navbar-search-bar">
+                <input type="text" name="search-bar" id="search-bar" placeholder="Tìm kiếm thông tin">
+                <img src="https://cdn-icons-png.flaticon.com/512/54/54481.png" alt="O-" class="icon nav-icon">
+            </div>
+        </div>
+        <div class="navbar-widgets">
+            <div class="navbar-widgets-item tasks">
+                <img src="https://cdn-icons-png.flaticon.com/512/839/839860.png" alt="" class="icon nav-icon">
+            </div>
+            <div class="navbar-widgets-item notifications">
+                <img src="https://cdn-icons-png.flaticon.com/512/2645/2645897.png" alt="" class="icon nav-icon">
+            </div>
+            <div class="navbar-widgets-item settings">
+                <img src="https://cdn-icons-png.flaticon.com/512/2040/2040504.png " alt="" class="icon nav-icon">
+            </div>
+        </div>
+    </div>
+    <div id="leftsidebar">
+        <div class="user-info">
+            <div class="user-img">
+                <img src="/assets/image/QuanLy/QuanTri/user.png" alt="">
+            </div>
+            <div class="user-info-container">
+                <div class="user-info-text">
+                    <div class="user-name">
+                        Tên người đăng nhập
+                    </div>
+                    <div class="user-email">
+                        Email người đăng nhập
+                    </div>
+                </div>
+                <div class="btn-group user-dropdown">
+                    <button class="btn-dropdown-toggle" type="button">
+                        <img src="https://cdn-icons-png.flaticon.com/512/7030/7030537.png" alt="V"
+                            class="icon userdropdown-icon">
+                    </button>
+                    <div class="dropdown-menu hide">
+                        <a class="dropdown-item" href="#">
+                            <img src="https://cdn-icons-png.flaticon.com/512/665/665049.png" alt="(i)" class="icon">
+                            Thông tin cá nhân
+                        </a>
+                        <a class="dropdown-item" href="#">
+                            <img src="https://cdn-icons-png.flaticon.com/512/2889/2889676.png" alt="pass-icon"
+                                class="icon userdropdown-icon">
+                            Đổi mật khẩu
+                        </a>
+                        <a class="dropdown-item" href="/index.html">
+                            <img src="https://cdn-icons-png.flaticon.com/512/1946/1946436.png " alt=""
+                                class="icon userdropdown-icon">
+                            Trở về trang chủ
+                        </a>
+                        <a class="dropdown-item" href="#">
+                            <img src="https://cdn-icons-png.flaticon.com/512/992/992680.png" alt="logout-icon"
+                                class="icon userdropdown-icon" id="btn-logout">
+                            Đăng xuất
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="menu">
+            <div class="header">
+                Main Navigation
+            </div>
+            <ul class="list">
+                <li class="left-link" id="home">
+                    <a href="/pages/QuanLy/QuanTri.html">
+                        <img src="https://cdn-icons-png.flaticon.com/512/1946/1946488.png" alt="home-icon"
+                            class="icon menu-icon">
+                        Home
+                    </a>
+                </li>
+                <li class="left-link" id="qlld">
+                    <a href="/pages/QuanLy/QuanLyLichDat.html">
+                        <img src="https://cdn-icons-png.flaticon.com/512/942/942810.png" alt="appointment-icon"
+                            class="icon menu-icon">
+                        Quản lý lịch đặt
+                    </a>
+                </li>
+                <li class="left-link" id="qlbn">
+                    <a href="/pages/QuanLy/QuanLyBenhNhan.html">
+                        <img src="https://cdn-icons-png.flaticon.com/512/1988/1988784.png" alt="icon-bn"
+                            class="icon menu-icon">
+                        Quản lý bệnh nhân
+                    </a>
+                </li>
+                <li class="left-link" id="qlbs">
+                    <a href="#" class="dropdown-toggle" id="bs-dd-toggle">
+                        <img src="https://cdn-icons-png.flaticon.com/512/3481/3481061.png" class="icon menu-icon">
+                        Quản lý bác sĩ
+                    </a>
+                </li>
+                <ul class="bs-dd" id="bs-dd-menu">
+                    <li class="left-link bs-dd-item">
+                        <a href="/pages/QuanLy/QuanLyBacSi.html">
+                            Danh sách bác sĩ
+                        </a>
+                    </li>
+                    <li class="left-link bs-dd-item">
+                        <a href="#">
+                            Lịch làm bác sĩ
+                        </a>
+                    </li>
+                </ul>
+                <li class="left-link" id="qlnv">
+                    <a href="/pages/QuanLy/QuanLyNhanVien.html">
+                        <img src="https://cdn-icons-png.flaticon.com/512/3281/3281785.png" alt="staff-icon"
+                            class="icon menu-icon">
+                        Quản lý nhân viên
+                    </a>
+                </li>
+                <li class="left-link" id="qltk">
+                    <a href="/pages/QuanLy/QuanLyTaiKhoan.html">
+                        <img src="https://cdn-icons-png.flaticon.com/512/456/456283.png" alt="user-icon"
+                            class="icon menu-icon">
+                        Quản lý tài khoản
+                    </a>
+                </li>
+                <li class="left-link" id="bctk">
+                    <a href="/pages/QuanLy/BaoCaoThongKe.html">
+                        <img src="https://cdn-icons-png.flaticon.com/512/478/478544.png" alt="statistic-icon"
+                            class="icon menu-icon">
+                        Báo cáo thống kê
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="legal">
+            <div class="copyright">
+                © 2024-2025 <a href="#">AdminBSB - Material Design - Custom </a>.
+            </div>
+            <div class="version">
+                <b>Version: </b> 1.0 self
+            </div>
+        </div>
+    </div>
+</div>
+
+</html>

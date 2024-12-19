@@ -57,7 +57,7 @@ $(document).ready(function () {
             fc_ad_ward.disabled = true;
         }
     });
-    $(".btn-register").click( function (){
+    $(".btn-register").click(function () {
         SubmitClickHandler();
     });
 
@@ -142,6 +142,7 @@ $(document).ready(function () {
     function SubmitClickHandler() {
         let flag = true;
         clearAllErrors();
+        let target;
 
         let name = document.getElementById("text-name").value.trim();
         let birthday = document.getElementById("birthday").value.trim();
@@ -157,45 +158,56 @@ $(document).ready(function () {
         let fc_ad__ward = document.getElementById("fc-ad__vil");
 
         if (!CheckWardSelected()) {
-            showError(document.getElementById("fc-ad__vil"), "Vui lòng chọn phường xã!", "change");
+            target = document.getElementById("fc-ad__vil");
+            showError(target, "Vui lòng chọn phường xã!", "change");
             flag = false;
         }
         if (!CheckDistrictSelected()) {
-            showError(document.getElementById("fc-ad__dis"), "Vui lòng chọn quận huyện!", "change");
+            target = document.getElementById("fc-ad__dis");
+            showError(target, "Vui lòng chọn quận huyện!", "change");
             flag = false;
         }
         if (!CheckProvinceSelected()) {
-            showError(document.getElementById("fc-ad__pro"), "Vui lòng chọn tỉnh/thành phố!", "change");
+            target = document.getElementById("fc-ad__pro");
+            showError(target, "Vui lòng chọn tỉnh/thành phố!", "change");
             flag = false;
         }
         if (!EmailRegex.test(email)) {
-            showError("text-email", "Email không hợp lệ!");
+            target = document.getElementById("text-email");
+            showError(target, "Email không hợp lệ!");
             flag = false;
         }
         if (!PhoneRegex.test(phone)) {
-            showError("text-phone", "Số điện thoại không hợp lệ!");
+            target = document.getElementById("text-phone");
+            showError(target, "Số điện thoại không hợp lệ!");
             flag = false;
         }
         if (password !== rePassword) {
-            showError("text-re-password", "Mật khẩu và mật khẩu nhập lại không trùng khớp!");
+            target = document.getElementById("text-re-password");
+            showError(target, "Mật khẩu và mật khẩu nhập lại không trùng khớp!");
             flag = false;
         }
         if (password === "") {
-            showError("text-password", "Mật khẩu không được để trống!");
+            target = document.getElementById("text-password");
+            showError(target, "Mật khẩu không được để trống!");
             flag = false;
         }
         if (username === "") {
+
             showError("text-username", "Tên tài khoản không được để trống!");
             flag = false;
-        } else if (CheckExistsUsername(name)) {
+        } else if (CheckExistsUsername(username)) {
+            target = document.getElementById("text-username");
             showError("text-username", "Tên tài khoản đã tồn tại!");
             flag = false;
         }
         if (birthday === "") {
+            target = document.getElementById("birthday");
             showError("birthday", "Ngày sinh không được để trống!");
             flag = false;
         }
         if (name === "" || !name) {
+            target = document.getElementById("text-name");
             showError("text-name", "Họ và tên không được để trống!");
             flag = false;
         }
@@ -204,12 +216,18 @@ $(document).ready(function () {
             alert("Đăng ký thành công!");
             window.location.href = "/pages/DangNhap.html";
         }
+        else {
+            if (target) {
+                const yOffset = target.getBoundingClientRect().top;
+                window.scrollTo({ top: yOffset, behavior: "smooth" });
+            }
+        }
     }
     //check
     function CheckExistsUsername(username) {
         let acs = JSON.parse(localStorage.getItem("accounts")) || [];
         for (let ac of acs) {
-            if (ac.username === username) {
+            if (ac.username == username) {
                 return true;
             }
         };
@@ -238,7 +256,13 @@ $(document).ready(function () {
     }
     // error 
     function showError(inputId, errorMessage) {
-        const input = document.getElementById(inputId);
+        let input;
+        if (inputId instanceof Element) {
+            input = inputId;
+        }
+        else {
+            input = document.getElementById(inputId);
+        }
         const erlb = document.createElement("div");
 
         erlb.classList.add("error-message");

@@ -6,6 +6,10 @@
     color: rgb(34, 49, 255);
 }
 
+.banner img {
+    width: 100%;
+}
+
 .icon {
     width: 15px;
 }

@@ -32,12 +32,14 @@ $(document).ready(function () {
             Go_Check();
         }
     });
-    $(".btn-submit-div").click(function (event) {
+    $(".btn-submit-div button").click(function (event) {
+        event.preventDefault();
         if (CheckFormCheck()) {
             console.log("Đặt lịch thành công");
             SaveAppointment();
-            window.location.href("/index.html");
-        } else {
+            window.location = "/index.html";
+        }
+        else {
             console.log("Đặt lịch thất bại");
             let element = document.getElementById("form-booking-content");
             let offsetTop = element.getBoundingClientRect().top + window.scrollY;
@@ -45,7 +47,6 @@ $(document).ready(function () {
                 top: offsetTop - 165,
                 behavior: "smooth"
             });
-            event.preventDefault();
         }
     });
     // chọn serivce 
@@ -271,6 +272,9 @@ $(document).ready(function () {
             $.getJSON("/data/TTQHPX.json", function (data) {
                 // user
                 let userinfo = localStorage.getItem("CurrentUser");
+                if (userinfo == null) {
+                    return;
+                }
                 userinfo = JSON.parse(userinfo);
                 // address
                 _lst_provinces = data;
@@ -531,13 +535,15 @@ $(document).ready(function () {
             AppointmentsList = [];
         }
 
-        let fac = document.querySelector('input[name="rad-cs"]:checked');
+        let fac = document.querySelector('input[name="cs"]:checked');
         let gd = document.querySelector('input[name="gender"]:checked');
         let department = document.getElementById("fg-ck");
         let doctor = document.getElementById("fg-bs");
 
         // Thu thập thông tin từ form
+
         let Appointment = {
+            id : AppointmentsList[length - 1].id + 1,
             facility: {
                 id: fac.getAttribute('id'), name: fac.nextElementSibling.textContent.trim()
             },
@@ -559,9 +565,9 @@ $(document).ready(function () {
                     name: gd?.nextElementSibling.textContent.trim()
                 },
                 address: {
-                    province: document.getElementById("fc-ad__pro").value,
-                    district: document.getElementById("fc-ad__dis").value,
-                    ward: document.getElementById("fc-ad__vil").value,
+                    province: { id: document.getElementById("fc-ad__pro").value },
+                    district: { id: document.getElementById("fc-ad__dis").value },
+                    ward: { id: document.getElementById("fc-ad__vil").value },
                 }
             },
             status: {
